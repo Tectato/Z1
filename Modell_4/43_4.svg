@@ -1,0 +1,36 @@
+<svg height="2045.0" viewBox="-210.0 -910.0 740.0 2045.0" width="740.0" xmlns="http://www.w3.org/2000/svg">
+	<g style="stroke:black;fill:#3d9ecb">
+		<path d="M 420.0 -900.0 L 420.0 -690.0 L 480.0 -690.0 L 480.0 -760.0 L 520.0 -760.0 L 520.0 1125.0 L -200.0 1125.0 L -200.0 -900.0 Z" id="outlinePath" />
+		<g style="stroke:black;fill:#ffffff">
+			<circle cx="-150.0" cy="-750.0" id="pointHole_0_70mm" r="35.0" />
+			<circle cx="150.0" cy="-450.0" id="pointHole_1_70mm" r="35.0" />
+			<circle cx="-150.0" cy="-450.0" id="pointHole_2_70mm" r="35.0" />
+			<circle cx="-150.0" cy="-150.0" id="pointHole_3_70mm" r="35.0" />
+			<circle cx="450.0" cy="-450.0" id="pointHole_4_70mm" r="35.0" />
+			<circle cx="-150.0" cy="150.0" id="pointHole_5_70mm" r="35.0" />
+			<circle cx="-150.0" cy="450.0" id="pointHole_6_70mm" r="35.0" />
+			<circle cx="-150.0" cy="750.0" id="pointHole_7_70mm" r="35.0" />
+			<circle cx="-150.0" cy="1050.0" id="pointHole_8_70mm" r="35.0" />
+			<circle cx="150.0" cy="750.0" id="pointHole_9_70mm" r="35.0" />
+			<circle cx="450.0" cy="750.0" id="pointHole_10_70mm" r="35.0" />
+			<circle cx="450.0" cy="450.0" id="pointHole_11_70mm" r="35.0" />
+			<circle cx="450.0" cy="150.0" id="pointHole_12_70mm" r="35.0" />
+			<circle cx="450.0" cy="-150.0" id="pointHole_13_70mm" r="35.0" />
+			<circle cx="450.0" cy="1050.0" id="pointHole_14_60mm" r="30.0" />
+			<rect cx="0.0" cy="-795.0" height="150.0" horizontal="0" id="rectHole_0_50mm_150mm" length="100.0" width="50.0" x="-25.0" y="-870.0" />
+			<rect cx="300.0" cy="-795.0" height="150.0" horizontal="0" id="rectHole_1_50mm_150mm" length="100.0" width="50.0" x="275.0" y="-870.0" />
+			<path cx="0.0" cy="-600.0" d="M 75.0 -525.0 L 75.0 -675.0 L -75.0 -675.0 L -75.0 -625.0 L 0.0 -625.0 L 0.0 -525.0 Z" id="logicHole_0" openLeft="1" pinTravelDir="2" />
+			<path cx="300.0" cy="-600.0" d="M 375.0 -525.0 L 375.0 -675.0 L 225.0 -675.0 L 225.0 -625.0 L 300.0 -625.0 L 300.0 -525.0 Z" id="logicHole_1" openLeft="1" pinTravelDir="2" />
+			<path cx="300.0" cy="-300.0" d="M 375.0 -225.0 L 375.0 -375.0 L 225.0 -375.0 L 225.0 -325.0 L 300.0 -325.0 L 300.0 -225.0 Z" id="logicHole_2" openLeft="1" pinTravelDir="2" />
+			<path cx="0.0" cy="-300.0" d="M 75.0 -225.0 L 75.0 -375.0 L -75.0 -375.0 L -75.0 -325.0 L 0.0 -325.0 L 0.0 -225.0 Z" id="logicHole_3" openLeft="1" pinTravelDir="2" />
+			<path cx="0.0" cy="0.0" d="M 75.0 75.0 L 75.0 -75.0 L -75.0 -75.0 L -75.0 -25.0 L 0.0 -25.0 L 0.0 75.0 Z" id="logicHole_4" openLeft="1" pinTravelDir="2" />
+			<path cx="300.0" cy="0.0" d="M 375.0 75.0 L 375.0 -75.0 L 225.0 -75.0 L 225.0 -25.0 L 300.0 -25.0 L 300.0 75.0 Z" id="logicHole_5" openLeft="1" pinTravelDir="2" />
+			<path cx="300.0" cy="300.0" d="M 375.0 375.0 L 375.0 225.0 L 225.0 225.0 L 225.0 275.0 L 300.0 275.0 L 300.0 375.0 Z" id="logicHole_6" openLeft="1" pinTravelDir="2" />
+			<path cx="0.0" cy="300.0" d="M 75.0 375.0 L 75.0 225.0 L -75.0 225.0 L -75.0 275.0 L 0.0 275.0 L 0.0 375.0 Z" id="logicHole_7" openLeft="1" pinTravelDir="2" />
+			<path cx="0.0" cy="600.0" d="M 75.0 675.0 L 75.0 525.0 L -75.0 525.0 L -75.0 575.0 L 0.0 575.0 L 0.0 675.0 Z" id="logicHole_8" openLeft="1" pinTravelDir="2" />
+			<path cx="300.0" cy="600.0" d="M 375.0 675.0 L 375.0 525.0 L 225.0 525.0 L 225.0 575.0 L 300.0 575.0 L 300.0 675.0 Z" id="logicHole_9" openLeft="1" pinTravelDir="2" />
+			<path cx="0.0" cy="900.0" d="M 75.0 975.0 L 75.0 825.0 L -75.0 825.0 L -75.0 875.0 L 0.0 875.0 L 0.0 975.0 Z" id="logicHole_10" openLeft="1" pinTravelDir="2" />
+			<path cx="300.0" cy="900.0" d="M 375.0 975.0 L 375.0 825.0 L 225.0 825.0 L 225.0 875.0 L 300.0 875.0 L 300.0 975.0 Z" id="logicHole_11" openLeft="1" pinTravelDir="2" />
+		</g>
+	</g>
+</svg>

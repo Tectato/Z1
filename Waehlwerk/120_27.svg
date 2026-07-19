@@ -1,0 +1,25 @@
+<svg height="2535.0" viewBox="-200.0 -810.0 720.0 2535.0" width="720.0" xmlns="http://www.w3.org/2000/svg">
+	<g style="stroke:black;fill:#3d9ecb">
+		<path d="M 120.0 -800.0 L 120.0 -710.0 L 185.0 -710.0 L 185.0 -800.0 L 510.0 -800.0 L 510.0 1715.0 L -190.0 1715.0 L -190.0 1525.0 L -20.0 1525.0 L -20.0 1475.0 L -190.0 1475.0 L -190.0 1225.0 L -20.0 1225.0 L -20.0 1175.0 L -190.0 1175.0 L -190.0 925.0 L -20.0 925.0 L -20.0 875.0 L -190.0 875.0 L -190.0 625.0 L -20.0 625.0 L -20.0 575.0 L -190.0 575.0 L -190.0 325.0 L -20.0 325.0 L -20.0 275.0 L -190.0 275.0 L -190.0 25.0 L -20.0 25.0 L -20.0 -25.0 L -190.0 -25.0 L -190.0 -275.0 L -20.0 -275.0 L -20.0 -325.0 L -190.0 -325.0 L -190.0 -575.0 L -20.0 -575.0 L -20.0 -625.0 L -190.0 -625.0 L -190.0 -800.0 Z" id="outlinePath" />
+		<g style="stroke:black;fill:#ffffff">
+			<circle cx="-150.0" cy="-750.0" id="pointHole_0_70mm" r="35.0" />
+			<circle cx="450.0" cy="-750.0" id="pointHole_1_70mm" r="35.0" />
+			<circle cx="150.0" cy="-450.0" id="pointHole_2_70mm" r="35.0" />
+			<circle cx="-150.0" cy="-450.0" id="pointHole_3_70mm" r="35.0" />
+			<circle cx="450.0" cy="-150.0" id="pointHole_4_70mm" r="35.0" />
+			<circle cx="150.0" cy="-150.0" id="pointHole_5_70mm" r="35.0" />
+			<circle cx="-150.0" cy="-150.0" id="pointHole_6_70mm" r="35.0" />
+			<circle cx="150.0" cy="150.0" id="pointHole_7_70mm" r="35.0" />
+			<circle cx="150.0" cy="450.0" id="pointHole_8_70mm" r="35.0" />
+			<circle cx="150.0" cy="750.0" id="pointHole_9_70mm" r="35.0" />
+			<circle cx="150.0" cy="1050.0" id="pointHole_10_70mm" r="35.0" />
+			<circle cx="-150.0" cy="1050.0" id="pointHole_11_70mm" r="35.0" />
+			<circle cx="450.0" cy="1050.0" id="pointHole_12_70mm" r="35.0" />
+			<circle cx="-150.0" cy="1350.0" id="pointHole_13_70mm" r="35.0" />
+			<circle cx="-150.0" cy="1650.0" id="pointHole_14_70mm" r="35.0" />
+			<circle cx="150.0" cy="1650.0" id="pointHole_15_70mm" r="35.0" />
+			<circle cx="450.0" cy="1650.0" id="pointHole_16_70mm" r="35.0" />
+			<circle cx="150.0" cy="1350.0" id="pointHole_17_60mm" r="30.0" />
+		</g>
+	</g>
+</svg>

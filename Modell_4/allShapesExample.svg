@@ -1,0 +1,14 @@
+<svg height="220.0" viewBox="-410.0 -110.0 1420.0 220.0" width="1420.0" xmlns="http://www.w3.org/2000/svg">
+	<g style="stroke:black;fill:#3d9ecb">
+		<path d="M -400.0 -100.0 L 1000.0 -100.0 L 1000.0 100.0 L -400.0 100.0 Z" id="outlinePath" />
+		<g style="stroke:black;fill:#ffffff">
+			<circle cx="-300.0" cy="0.0" id="pointHole_0_50mm" r="25.0" />
+			<path cx="-150.0" cy="40.0" d="M -110.0 15.0 A 25.0,25.0 0 0,1 -85.0,40.0 A 25.0,25.0 0 0,1 -110.0,65.0 L -190.0 65.0 A 25.0,25.0 0 0,1 -215.0,40.0 A 25.0,25.0 0 0,1 -190.0,15.0 Z" horizontal="1" id="longHole_0_50mm_80mm" length="80.0" r="25.0" />
+			<rect cx="-150.0" cy="-40.0" height="50.0" horizontal="1" id="rectHole_0_50mm_130mm" length="80.0" width="130.0" x="-215.0" y="-65.0" />
+			<path cx="75.0" cy="0.0" d="M 0.0 -75.0 L 0.0 75.0 L 150.0 75.0 L 150.0 25.0 L 75.0 25.0 L 75.0 -75.0 Z" id="logicHole_0" openLeft="1" pinTravelDir="0" />
+			<path d="M 525.0 -75.0 L 585.0 -75.0 L 585.0 -15.0 L 600.0 0.0 L 615.0 -15.0 L 615.0 -75.0 L 675.0 -75.0 L 675.0 75.0 L 525.0 75.0 Z" id="customHole_0" />
+			<rect cx="300.0" cy="0.0" edgeLength="150" height="150.0" id="squareHole_0_150mm" width="150.0" x="225.0" y="-75.0" />
+		</g>
+		<image height="162.0" href="outputLabel.png" id="sticker_0" width="81.0" x="810.0" y="-81.5" />
+	</g>
+</svg>

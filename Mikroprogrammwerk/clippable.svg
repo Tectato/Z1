@@ -1,0 +1,11 @@
+<svg height="320.0" viewBox="-210.0 -215.0 325.0 320.0" width="325.0" xmlns="http://www.w3.org/2000/svg" z1svg_version="2">
+	<g style="stroke:black;fill:#3d9ecb">
+		<path d="M -200.0 -200.0 L 100.0 -200.0 L 100.0 -100.0 L -200.0 -100.0 Z" id="outlinePath" />
+		<g id="holes" style="stroke:black;fill:#ffffff">
+			<circle cx="-150.0" cy="-150.0" id="pointHole_0_60mm" r="30.0" />
+		</g>
+		<g id="clipZones" style="stroke:#ff2000;fill:#ff9000">
+			<rect height="110.0" id="zone_0_110mm_180mm" width="180.0" x="-75.0" y="-205.0" />
+		</g>
+	</g>
+</svg>

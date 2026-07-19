@@ -1,0 +1,18 @@
+<svg height="360.0" viewBox="-665.0 -135.0 3410.0 360.0" width="3410.0" xmlns="http://www.w3.org/2000/svg">
+	<g style="stroke:black;fill:#3d9ecb">
+		<path d="M -655.0 210.0 L -655.0 0.0 L -545.0 -125.0 L 115.0 -125.0 L 115.0 -60.0 A 35.0,35.0 0 0,0 150.0,-25.0 A 35.0,35.0 0 0,0 185.0,-60.0 L 185.0 -125.0 L 2510.0 -125.0 L 2510.0 -25.0 L 2735.0 -25.0 L 2735.0 125.0 L 2645.0 125.0 L 2645.0 175.0 L 2735.0 175.0 L 2735.0 215.0 L 2600.0 215.0 L 2600.0 75.0 L -495.0 75.0 L -545.0 210.0 Z" id="outlinePath" />
+		<g style="stroke:black;fill:#ffffff">
+			<circle cx="-600.0" cy="150.0" id="pointHole_0_50mm" r="25.0" />
+			<rect cx="-300.0" cy="0.0" height="50.0" horizontal="1" id="rectHole_0_50mm_150mm" length="100.0" width="150.0" x="-375.0" y="-25.0" />
+			<rect cx="0.0" cy="0.0" height="50.0" horizontal="1" id="rectHole_1_50mm_150mm" length="100.0" width="150.0" x="-75.0" y="-25.0" />
+			<rect cx="300.0" cy="0.0" height="50.0" horizontal="1" id="rectHole_2_50mm_150mm" length="100.0" width="150.0" x="225.0" y="-25.0" />
+			<rect cx="600.0" cy="0.0" height="50.0" horizontal="1" id="rectHole_3_50mm_150mm" length="100.0" width="150.0" x="525.0" y="-25.0" />
+			<rect cx="900.0" cy="0.0" height="50.0" horizontal="1" id="rectHole_4_50mm_150mm" length="100.0" width="150.0" x="825.0" y="-25.0" />
+			<rect cx="1200.0" cy="0.0" height="50.0" horizontal="1" id="rectHole_5_50mm_150mm" length="100.0" width="150.0" x="1125.0" y="-25.0" />
+			<rect cx="1500.0" cy="0.0" height="50.0" horizontal="1" id="rectHole_6_50mm_150mm" length="100.0" width="150.0" x="1425.0" y="-25.0" />
+			<rect cx="1800.0" cy="0.0" height="50.0" horizontal="1" id="rectHole_7_50mm_150mm" length="100.0" width="150.0" x="1725.0" y="-25.0" />
+			<rect cx="2100.0" cy="0.0" height="50.0" horizontal="1" id="rectHole_8_50mm_150mm" length="100.0" width="150.0" x="2025.0" y="-25.0" />
+			<rect cx="2400.0" cy="0.0" height="50.0" horizontal="1" id="rectHole_9_50mm_150mm" length="100.0" width="150.0" x="2325.0" y="-25.0" />
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,15 @@
+<svg height="795.0" viewBox="-660.0 -610.0 3695.0 795.0" width="3695.0" xmlns="http://www.w3.org/2000/svg">
+	<g style="stroke:black;fill:#3d9ecb">
+		<path d="M -650.0 -600.0 L 3025.0 -600.0 L 3025.0 -475.0 L 2945.0 -475.0 L 2945.0 -425.0 L 3025.0 -425.0 L 3025.0 -375.0 L 2825.0 -175.0 L -415.0 -175.0 L -650.0 -410.0 Z" id="outlinePath" />
+		<g style="stroke:black;fill:#ffffff">
+			<circle cx="-600.0" cy="-450.0" id="pointHole_0_50mm" r="25.0" />
+			<rect cx="-150.0" cy="-450.0" height="150.0" horizontal="0" id="rectHole_0_70mm_150mm" length="80.0" width="70.0" x="-185.0" y="-525.0" />
+			<rect cx="750.0" cy="-450.0" height="150.0" horizontal="0" id="rectHole_1_70mm_150mm" length="80.0" width="70.0" x="715.0" y="-525.0" />
+			<rect cx="1950.0" cy="-450.0" height="150.0" horizontal="0" id="rectHole_2_70mm_150mm" length="80.0" width="70.0" x="1915.0" y="-525.0" />
+			<rect cx="2850.0" cy="-450.0" height="150.0" horizontal="0" id="rectHole_3_70mm_150mm" length="80.0" width="70.0" x="2815.0" y="-525.0" />
+			<path d="M -75.0 -525.0 L 675.0 -525.0 L 675.0 -225.0 L -75.0 -225.0 Z" id="customHole_0" />
+			<path d="M 2025.0 -525.0 L 2775.0 -525.0 L 2775.0 -225.0 L 2025.0 -225.0 Z" id="customHole_1" />
+			<path d="M 825.0 -525.0 L 1875.0 -525.0 L 1875.0 -225.0 L 825.0 -225.0 Z" id="customHole_2" />
+		</g>
+	</g>
+</svg>

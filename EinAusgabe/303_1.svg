@@ -1,0 +1,31 @@
+<svg height="1340.0" viewBox="-670.0 -670.0 1340.0 1340.0" width="1340.0" xmlns="http://www.w3.org/2000/svg" z1svg_version="2">
+	<g style="stroke:black;fill:#3d9ecb">
+		<path d="M -660.0 -660.0 L -30.0 -660.0 L -30.0 -550.0 L 30.0 -550.0 L 30.0 -660.0 L 660.0 -660.0 L 660.0 660.0 L -660.0 660.0 Z" id="outlinePath" />
+		<g id="holes" style="stroke:black;fill:#ffffff">
+			<circle cx="-600.0" cy="-600.0" id="pointHole_0_70mm" r="35.0" />
+			<circle cx="-300.0" cy="-600.0" id="pointHole_1_70mm" r="35.0" />
+			<circle cx="300.0" cy="-600.0" id="pointHole_2_70mm" r="35.0" />
+			<circle cx="600.0" cy="-300.0" id="pointHole_3_70mm" r="35.0" />
+			<circle cx="-300.0" cy="-300.0" id="pointHole_4_70mm" r="35.0" />
+			<circle cx="-600.0" cy="-300.0" id="pointHole_5_70mm" r="35.0" />
+			<circle cx="-600.0" cy="0.0" id="pointHole_6_70mm" r="35.0" />
+			<circle cx="600.0" cy="0.0" id="pointHole_7_70mm" r="35.0" />
+			<circle cx="600.0" cy="300.0" id="pointHole_8_70mm" r="35.0" />
+			<circle cx="300.0" cy="300.0" id="pointHole_9_70mm" r="35.0" />
+			<circle cx="-600.0" cy="300.0" id="pointHole_10_70mm" r="35.0" />
+			<circle cx="-600.0" cy="600.0" id="pointHole_11_70mm" r="35.0" />
+			<circle cx="-300.0" cy="600.0" id="pointHole_12_70mm" r="35.0" />
+			<circle cx="0.0" cy="600.0" id="pointHole_13_70mm" r="35.0" />
+			<circle cx="300.0" cy="600.0" id="pointHole_14_70mm" r="35.0" />
+			<circle cx="600.0" cy="600.0" id="pointHole_15_60mm" r="30.0" />
+			<circle cx="600.0" cy="-600.0" id="pointHole_16_70mm" r="35.0" />
+			<circle cx="300.0" cy="-300.0" id="pointHole_17_70mm" r="35.0" />
+			<circle cx="0.0" cy="-300.0" id="pointHole_18_70mm" r="35.0" />
+			<circle cx="-300.0" cy="0.0" id="pointHole_19_70mm" r="35.0" />
+			<circle cx="0.0" cy="0.0" id="pointHole_20_70mm" r="35.0" />
+			<circle cx="300.0" cy="0.0" id="pointHole_21_70mm" r="35.0" />
+			<circle cx="0.0" cy="300.0" id="pointHole_22_70mm" r="35.0" />
+			<circle cx="-300.0" cy="300.0" id="pointHole_23_70mm" r="35.0" />
+		</g>
+	</g>
+</svg>

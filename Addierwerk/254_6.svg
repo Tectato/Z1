@@ -1,0 +1,17 @@
+<svg height="1130.0" viewBox="-675.0 -940.0 3355.0 1130.0" width="3355.0" xmlns="http://www.w3.org/2000/svg">
+	<g style="stroke:black;fill:#3d9ecb">
+		<path d="M -665.0 -420.0 L -95.0 -420.0 L 205.0 -720.0 L 2330.0 -720.0 L 2605.0 -930.0 L 2670.0 -930.0 L 2670.0 -480.0 L 300.0 -480.0 L 0.0 -180.0 L -665.0 -180.0 Z" id="outlinePath" />
+		<g style="stroke:black;fill:#ffffff">
+			<rect cx="-600.0" cy="-300.0" height="150.0" horizontal="0" id="rectHole_0_50mm_150mm" length="100.0" width="50.0" x="-625.0" y="-375.0" />
+			<rect cx="2550.0" cy="-750.0" height="70.0" horizontal="1" id="rectHole_1_70mm_150mm" length="80.0" width="150.0" x="2475.0" y="-785.0" />
+			<path cx="2350.0" cy="-600.0" d="M 2275.0 -675.0 L 2425.0 -675.0 L 2425.0 -525.0 L 2375.0 -525.0 L 2375.0 -600.0 L 2275.0 -600.0 Z" id="logicHole_0" openLeft="0" pinTravelDir="3" />
+			<path cx="2050.0" cy="-600.0" d="M 1975.0 -675.0 L 2125.0 -675.0 L 2125.0 -525.0 L 2075.0 -525.0 L 2075.0 -600.0 L 1975.0 -600.0 Z" id="logicHole_1" openLeft="0" pinTravelDir="3" />
+			<path cx="1750.0" cy="-600.0" d="M 1675.0 -675.0 L 1825.0 -675.0 L 1825.0 -525.0 L 1775.0 -525.0 L 1775.0 -600.0 L 1675.0 -600.0 Z" id="logicHole_2" openLeft="0" pinTravelDir="3" />
+			<path cx="1450.0" cy="-600.0" d="M 1375.0 -675.0 L 1525.0 -675.0 L 1525.0 -525.0 L 1475.0 -525.0 L 1475.0 -600.0 L 1375.0 -600.0 Z" id="logicHole_3" openLeft="0" pinTravelDir="3" />
+			<path cx="1150.0" cy="-600.0" d="M 1075.0 -675.0 L 1225.0 -675.0 L 1225.0 -525.0 L 1175.0 -525.0 L 1175.0 -600.0 L 1075.0 -600.0 Z" id="logicHole_4" openLeft="0" pinTravelDir="3" />
+			<path cx="850.0" cy="-600.0" d="M 775.0 -675.0 L 925.0 -675.0 L 925.0 -525.0 L 875.0 -525.0 L 875.0 -600.0 L 775.0 -600.0 Z" id="logicHole_5" openLeft="0" pinTravelDir="3" />
+			<path cx="550.0" cy="-600.0" d="M 475.0 -675.0 L 625.0 -675.0 L 625.0 -525.0 L 575.0 -525.0 L 575.0 -600.0 L 475.0 -600.0 Z" id="logicHole_6" openLeft="0" pinTravelDir="3" />
+			<path cx="250.0" cy="-600.0" d="M 175.0 -675.0 L 325.0 -675.0 L 325.0 -525.0 L 275.0 -525.0 L 275.0 -600.0 L 175.0 -600.0 Z" id="logicHole_7" openLeft="0" pinTravelDir="3" />
+		</g>
+	</g>
+</svg>

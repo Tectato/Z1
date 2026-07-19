@@ -1,0 +1,10 @@
+<svg height="920.0" viewBox="-310.0 -560.0 370.0 920.0" width="370.0" xmlns="http://www.w3.org/2000/svg" z1svg_version="2">
+	<g style="stroke:black;fill:#3d9ecb">
+		<path d="M -300.0 -550.0 L 50.0 -550.0 L 50.0 350.0 L -300.0 350.0 Z" id="outlinePath" />
+		<g id="holes" style="stroke:black;fill:#ffffff">
+			<circle cx="0.0" cy="-300.0" id="pointHole_0_40mm" r="20.0" />
+			<circle cx="0.0" cy="50.0" id="pointHole_1_40mm" r="20.0" />
+		</g>
+		<image height="119.0" href="digits/minus_tab.png" id="sticker_0" width="119.0" x="-215.0" y="88.5" />
+	</g>
+</svg>

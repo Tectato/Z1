@@ -1,0 +1,10 @@
+<svg height="1900.0" viewBox="-810.0 660.0 2305.0 1900.0" width="2305.0" xmlns="http://www.w3.org/2000/svg">
+	<g style="stroke:black;fill:#3d9ecb">
+		<path d="M 1360.0 1210.0 L 1300.0 1210.0 L 1300.0 1160.0 L 1140.0 1000.0 L -800.0 1000.0 L -800.0 900.0 L -455.0 900.0 L -415.0 860.0 L -415.0 670.0 L 1165.0 670.0 L 1485.0 990.0 L 1485.0 1210.0 L 1420.0 1210.0 L 1420.0 1120.0 L 1360.0 1120.0 Z" id="outlinePath" />
+		<g style="stroke:black;fill:#ffffff">
+			<rect cx="-100.0" cy="750.0" height="60.0" horizontal="1" id="rectHole_0_60mm_160mm" length="100.0" width="160.0" x="-180.0" y="720.0" />
+			<rect cx="1100.0" cy="750.0" height="60.0" horizontal="1" id="rectHole_1_60mm_160mm" length="100.0" width="160.0" x="1020.0" y="720.0" />
+		</g>
+		<image height="101.0" href="displayMarker.png" id="sticker_0" width="101.0" x="-710.0" y="898.5" />
+	</g>
+</svg>

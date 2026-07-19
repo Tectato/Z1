@@ -1,0 +1,10 @@
+<svg height="620.0" viewBox="-560.0 -430.0 1105.0 620.0" width="1105.0" xmlns="http://www.w3.org/2000/svg">
+	<g style="stroke:black;fill:#3d9ecb">
+		<path d="M -550.0 -420.0 L 375.0 -420.0 L 395.0 -400.0 L 425.0 -400.0 L 425.0 -320.0 L 475.0 -320.0 L 475.0 -400.0 L 535.0 -400.0 L 535.0 -200.0 L 395.0 -200.0 L 375.0 -180.0 L -550.0 -180.0 Z" id="outlinePath" />
+		<g style="stroke:black;fill:#ffffff">
+			<rect cx="0.0" cy="-300.0" height="150.0" horizontal="0" id="rectHole_0_50mm_150mm" length="100.0" width="50.0" x="-25.0" y="-375.0" />
+			<rect cx="-300.0" cy="-300.0" height="150.0" horizontal="1" id="rectHole_1_150mm_250mm" length="100.0" width="250.0" x="-425.0" y="-375.0" />
+			<rect cx="300.0" cy="-300.0" edgeLength="150" height="150.0" id="squareHole_0_150mm" width="150.0" x="225.0" y="-375.0" />
+		</g>
+	</g>
+</svg>

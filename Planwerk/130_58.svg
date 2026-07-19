@@ -1,0 +1,9 @@
+<svg height="1220.0" viewBox="-530.0 -730.0 760.0 1220.0" width="760.0" xmlns="http://www.w3.org/2000/svg">
+	<g style="stroke:black;fill:#3d9ecb">
+		<path d="M -520.0 -720.0 L 220.0 -720.0 L 220.0 -480.0 L -520.0 -480.0 Z" id="outlinePath" />
+		<g style="stroke:black;fill:#ffffff">
+			<path cx="50.0" cy="-600.0" d="M 125.0 -525.0 L -25.0 -525.0 L -25.0 -675.0 L 25.0 -675.0 L 25.0 -600.0 L 125.0 -600.0 Z" id="logicHole_0" openLeft="0" pinTravelDir="1" />
+			<path cx="-350.0" cy="-600.0" d="M -425.0 -675.0 L -275.0 -675.0 L -275.0 -525.0 L -325.0 -525.0 L -325.0 -600.0 L -425.0 -600.0 Z" id="logicHole_1" openLeft="0" pinTravelDir="3" />
+		</g>
+	</g>
+</svg>

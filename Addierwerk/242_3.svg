@@ -1,0 +1,32 @@
+<svg height="420.0" viewBox="-355.0 -360.0 3125.0 420.0" width="3125.0" xmlns="http://www.w3.org/2000/svg">
+	<g style="stroke:black;fill:#3d9ecb">
+		<path d="M -345.0 -350.0 L 2760.0 -350.0 L 2760.0 -30.0 L 2670.0 -30.0 L 2670.0 30.0 L 2730.0 30.0 L 2730.0 50.0 L -345.0 50.0 Z" id="outlinePath" />
+		<g style="stroke:black;fill:#ffffff">
+			<circle cx="-300.0" cy="-300.0" id="pointHole_0_70mm" r="35.0" />
+			<circle cx="600.0" cy="-300.0" id="pointHole_1_70mm" r="35.0" />
+			<circle cx="1500.0" cy="-300.0" id="pointHole_2_70mm" r="35.0" />
+			<circle cx="2400.0" cy="-300.0" id="pointHole_3_70mm" r="35.0" />
+			<circle cx="2700.0" cy="-300.0" id="pointHole_4_70mm" r="35.0" />
+			<circle cx="2400.0" cy="0.0" id="pointHole_5_70mm" r="35.0" />
+			<circle cx="2100.0" cy="0.0" id="pointHole_6_70mm" r="35.0" />
+			<circle cx="1800.0" cy="0.0" id="pointHole_7_70mm" r="35.0" />
+			<circle cx="1500.0" cy="0.0" id="pointHole_8_70mm" r="35.0" />
+			<circle cx="1200.0" cy="0.0" id="pointHole_9_70mm" r="35.0" />
+			<circle cx="900.0" cy="0.0" id="pointHole_10_70mm" r="35.0" />
+			<circle cx="600.0" cy="0.0" id="pointHole_11_70mm" r="35.0" />
+			<circle cx="300.0" cy="0.0" id="pointHole_12_70mm" r="35.0" />
+			<circle cx="0.0" cy="0.0" id="pointHole_13_70mm" r="35.0" />
+			<circle cx="-300.0" cy="0.0" id="pointHole_14_60mm" r="30.0" />
+			<path d="M -235.0 -225.0 L -65.0 -225.0 L -65.0 -75.0 L -235.0 -75.0 Z" id="customHole_0" />
+			<path d="M 65.0 -225.0 L 235.0 -225.0 L 235.0 -75.0 L 65.0 -75.0 Z" id="customHole_1" />
+			<path d="M 365.0 -225.0 L 535.0 -225.0 L 535.0 -75.0 L 365.0 -75.0 Z" id="customHole_2" />
+			<path d="M 665.0 -225.0 L 835.0 -225.0 L 835.0 -75.0 L 665.0 -75.0 Z" id="customHole_3" />
+			<path d="M 965.0 -225.0 L 1135.0 -225.0 L 1135.0 -75.0 L 965.0 -75.0 Z" id="customHole_4" />
+			<path d="M 1265.0 -225.0 L 1435.0 -225.0 L 1435.0 -75.0 L 1265.0 -75.0 Z" id="customHole_5" />
+			<path d="M 1565.0 -225.0 L 1735.0 -225.0 L 1735.0 -75.0 L 1565.0 -75.0 Z" id="customHole_6" />
+			<path d="M 1865.0 -225.0 L 2035.0 -225.0 L 2035.0 -75.0 L 1865.0 -75.0 Z" id="customHole_7" />
+			<path d="M 2165.0 -225.0 L 2335.0 -225.0 L 2335.0 -75.0 L 2165.0 -75.0 Z" id="customHole_8" />
+			<path d="M 2465.0 -225.0 L 2635.0 -225.0 L 2635.0 -75.0 L 2465.0 -75.0 Z" id="customHole_9" />
+		</g>
+	</g>
+</svg>

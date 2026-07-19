@@ -1,0 +1,14 @@
+<svg height="1050.0" viewBox="-565.0 -730.0 4520.0 1050.0" width="4520.0" xmlns="http://www.w3.org/2000/svg">
+	<g style="stroke:black;fill:#3d9ecb">
+		<path d="M -555.0 -360.0 L -555.0 -530.0 L -505.0 -580.0 L -475.0 -580.0 L -475.0 -510.0 L -275.0 -510.0 L -205.0 -580.0 L -175.0 -580.0 L -175.0 -510.0 L 575.0 -510.0 L 575.0 -650.0 L 645.0 -720.0 L 3945.0 -720.0 L 3945.0 -480.0 L 1510.0 -480.0 L 1450.0 -600.0 L 1320.0 -600.0 L 1320.0 -480.0 L 780.0 -480.0 L 680.0 -380.0 L -475.0 -380.0 L -475.0 -310.0 L -505.0 -310.0 Z" id="outlinePath" />
+		<g style="stroke:black;fill:#ffffff">
+			<rect cx="600.0" cy="-450.0" height="70.0" horizontal="1" id="rectHole_0_70mm_150mm" length="80.0" width="150.0" x="525.0" y="-485.0" />
+			<rect cx="2550.0" cy="-600.0" height="150.0" horizontal="0" id="rectHole_1_50mm_150mm" length="100.0" width="50.0" x="2525.0" y="-675.0" />
+			<rect cx="2850.0" cy="-600.0" height="150.0" horizontal="0" id="rectHole_2_50mm_150mm" length="100.0" width="50.0" x="2825.0" y="-675.0" />
+			<rect cx="3150.0" cy="-600.0" height="150.0" horizontal="0" id="rectHole_3_50mm_150mm" length="100.0" width="50.0" x="3125.0" y="-675.0" />
+			<rect cx="3450.0" cy="-600.0" height="150.0" horizontal="0" id="rectHole_4_50mm_150mm" length="100.0" width="50.0" x="3425.0" y="-675.0" />
+			<rect cx="2250.0" cy="-600.0" height="150.0" horizontal="1" id="rectHole_5_150mm_230mm" length="80.0" width="230.0" x="2135.0" y="-675.0" />
+			<rect cx="750.0" cy="-600.0" height="150.0" horizontal="1" id="rectHole_6_150mm_230mm" length="80.0" width="230.0" x="635.0" y="-675.0" />
+		</g>
+	</g>
+</svg>

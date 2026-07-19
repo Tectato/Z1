@@ -1,0 +1,15 @@
+<svg height="330.0" viewBox="-1265.0 -220.0 2435.0 330.0" width="2435.0" xmlns="http://www.w3.org/2000/svg">
+	<g style="stroke:black;fill:#3d9ecb">
+		<path d="M 845.0 -100.0 L 955.0 -210.0 L 1160.0 -210.0 L 1160.0 -40.0 L 1020.0 100.0 L -1150.0 100.0 L -1255.0 -5.0 L -1255.0 -150.0 L -1150.0 -150.0 L -1150.0 -125.0 L -1125.0 -100.0 Z" id="outlinePath" />
+		<g style="stroke:black;fill:#ffffff">
+			<circle cx="-1200.0" cy="-100.0" id="pointHole_0_50mm" r="25.0" />
+			<rect cx="1050.0" cy="-150.0" height="60.0" horizontal="1" id="rectHole_0_60mm_160mm" length="100.0" width="160.0" x="970.0" y="-180.0" />
+			<rect cx="600.0" cy="0.0" height="100.0" horizontal="1" id="rectHole_1_100mm_250mm" length="150.0" width="250.0" x="475.0" y="-50.0" />
+			<rect cx="300.0" cy="0.0" height="100.0" horizontal="1" id="rectHole_2_100mm_250mm" length="150.0" width="250.0" x="175.0" y="-50.0" />
+			<rect cx="-300.0" cy="0.0" height="100.0" horizontal="1" id="rectHole_3_100mm_250mm" length="150.0" width="250.0" x="-425.0" y="-50.0" />
+			<rect cx="-600.0" cy="0.0" height="150.0" horizontal="1" id="rectHole_4_150mm_250mm" length="100.0" width="250.0" x="-725.0" y="-75.0" />
+			<path cx="-850.0" cy="0.0" d="M -775.0 75.0 L -925.0 75.0 L -925.0 -75.0 L -875.0 -75.0 L -875.0 0.0 L -775.0 0.0 Z" id="logicHole_0" openLeft="0" pinTravelDir="1" />
+			<path cx="950.0" cy="0.0" d="M 1025.0 75.0 L 875.0 75.0 L 875.0 -75.0 L 925.0 -75.0 L 925.0 0.0 L 1025.0 0.0 Z" id="logicHole_1" openLeft="0" pinTravelDir="1" />
+		</g>
+	</g>
+</svg>

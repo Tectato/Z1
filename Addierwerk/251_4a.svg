@@ -1,0 +1,19 @@
+<svg height="1820.0" viewBox="-880.0 -1030.0 3905.0 1820.0" width="3905.0" xmlns="http://www.w3.org/2000/svg">
+	<g style="stroke:black;fill:#3d9ecb">
+		<path d="M -870.0 -1020.0 L 3015.0 -1020.0 L 3015.0 -780.0 L -870.0 -780.0 Z" id="outlinePath" />
+		<g style="stroke:black;fill:#ffffff">
+			<circle cx="-800.0" cy="-900.0" id="pointHole_0_30mm" r="15.0" />
+			<circle cx="-700.0" cy="-900.0" id="pointHole_1_30mm" r="15.0" />
+			<path cx="-200.0" cy="-900.0" d="M -275.0 -825.0 L -125.0 -825.0 L -125.0 -975.0 L -175.0 -975.0 L -175.0 -900.0 L -275.0 -900.0 Z" id="logicHole_0" openLeft="1" pinTravelDir="3" />
+			<path cx="100.0" cy="-900.0" d="M 25.0 -825.0 L 175.0 -825.0 L 175.0 -975.0 L 125.0 -975.0 L 125.0 -900.0 L 25.0 -900.0 Z" id="logicHole_1" openLeft="1" pinTravelDir="3" />
+			<path cx="400.0" cy="-900.0" d="M 325.0 -825.0 L 475.0 -825.0 L 475.0 -975.0 L 425.0 -975.0 L 425.0 -900.0 L 325.0 -900.0 Z" id="logicHole_2" openLeft="1" pinTravelDir="3" />
+			<path cx="700.0" cy="-900.0" d="M 625.0 -825.0 L 775.0 -825.0 L 775.0 -975.0 L 725.0 -975.0 L 725.0 -900.0 L 625.0 -900.0 Z" id="logicHole_3" openLeft="1" pinTravelDir="3" />
+			<path cx="1000.0" cy="-900.0" d="M 925.0 -825.0 L 1075.0 -825.0 L 1075.0 -975.0 L 1025.0 -975.0 L 1025.0 -900.0 L 925.0 -900.0 Z" id="logicHole_4" openLeft="1" pinTravelDir="3" />
+			<path cx="1300.0" cy="-900.0" d="M 1225.0 -825.0 L 1375.0 -825.0 L 1375.0 -975.0 L 1325.0 -975.0 L 1325.0 -900.0 L 1225.0 -900.0 Z" id="logicHole_5" openLeft="1" pinTravelDir="3" />
+			<path cx="1600.0" cy="-900.0" d="M 1525.0 -825.0 L 1675.0 -825.0 L 1675.0 -975.0 L 1625.0 -975.0 L 1625.0 -900.0 L 1525.0 -900.0 Z" id="logicHole_6" openLeft="1" pinTravelDir="3" />
+			<path cx="1900.0" cy="-900.0" d="M 1825.0 -825.0 L 1975.0 -825.0 L 1975.0 -975.0 L 1925.0 -975.0 L 1925.0 -900.0 L 1825.0 -900.0 Z" id="logicHole_7" openLeft="1" pinTravelDir="3" />
+			<path cx="2200.0" cy="-900.0" d="M 2125.0 -825.0 L 2275.0 -825.0 L 2275.0 -975.0 L 2225.0 -975.0 L 2225.0 -900.0 L 2125.0 -900.0 Z" id="logicHole_8" openLeft="1" pinTravelDir="3" />
+			<path cx="2500.0" cy="-900.0" d="M 2425.0 -825.0 L 2575.0 -825.0 L 2575.0 -975.0 L 2525.0 -975.0 L 2525.0 -900.0 L 2425.0 -900.0 Z" id="logicHole_9" openLeft="1" pinTravelDir="3" />
+		</g>
+	</g>
+</svg>

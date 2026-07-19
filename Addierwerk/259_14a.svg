@@ -1,0 +1,13 @@
+<svg height="610.0" viewBox="-1005.0 -530.0 4865.0 610.0" width="4865.0" xmlns="http://www.w3.org/2000/svg">
+	<g style="stroke:black;fill:#3d9ecb">
+		<path d="M -925.0 -320.0 L -970.0 -320.0 L -995.0 -345.0 L -995.0 -475.0 L -950.0 -520.0 L -310.0 -520.0 L -210.0 -420.0 L 3530.0 -420.0 L 3720.0 -230.0 L 3850.0 -230.0 L 3850.0 -70.0 L 3620.0 -70.0 L 3510.0 -180.0 L -225.0 -180.0 L -425.0 -380.0 L -925.0 -380.0 Z" id="outlinePath" />
+		<g style="stroke:black;fill:#ffffff">
+			<circle cx="3800.0" cy="-150.0" id="pointHole_0_30mm" r="15.0" />
+			<circle cx="3700.0" cy="-150.0" id="pointHole_1_30mm" r="15.0" />
+			<rect cx="-450.0" cy="-450.0" height="60.0" horizontal="1" id="rectHole_0_60mm_160mm" length="100.0" width="160.0" x="-530.0" y="-480.0" />
+			<rect cx="0.0" cy="-300.0" height="150.0" horizontal="1" id="rectHole_1_150mm_230mm" length="80.0" width="230.0" x="-115.0" y="-375.0" />
+			<path d="M 475.0 -225.0 L 475.0 -375.0 L 625.0 -375.0 L 625.0 -305.0 L 725.0 -305.0 L 725.0 -225.0 Z" id="customHole_0" />
+			<path d="M 1675.0 -375.0 L 1925.0 -375.0 L 1925.0 -295.0 L 1825.0 -295.0 L 1825.0 -225.0 L 1675.0 -225.0 Z" id="customHole_1" />
+		</g>
+	</g>
+</svg>

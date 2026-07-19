@@ -1,0 +1,12 @@
+<svg height="1610.0" viewBox="-80.0 -670.0 270.0 1610.0" width="270.0" xmlns="http://www.w3.org/2000/svg" z1svg_version="2">
+	<g style="stroke:black;fill:#3d9ecb">
+		<path d="M -70.0 -660.0 L 80.0 -660.0 L 80.0 -410.0 L 180.0 -410.0 L 180.0 -190.0 L 80.0 -190.0 L 80.0 -110.0 L 180.0 -110.0 L 180.0 110.0 L 80.0 110.0 L 80.0 190.0 L 180.0 190.0 L 180.0 410.0 L 80.0 410.0 L 80.0 490.0 L 180.0 490.0 L 180.0 710.0 L 80.0 710.0 L 80.0 930.0 L 25.0 930.0 L 25.0 840.0 L -25.0 840.0 L -25.0 930.0 L -70.0 930.0 Z" id="outlinePath" />
+		<g id="holes" style="stroke:black;fill:#ffffff">
+			<circle cx="0.0" cy="-600.0" id="pointHole_0_50mm" r="25.0" />
+			<path cx="50.0" cy="-300.0" d="M 125.0 -375.0 L -25.0 -375.0 L -25.0 -225.0 L 25.0 -225.0 L 25.0 -300.0 L 125.0 -300.0 Z" id="logicHole_0" openLeft="1" pinTravelDir="1" />
+			<path cx="50.0" cy="0.0" d="M 125.0 -75.0 L -25.0 -75.0 L -25.0 75.0 L 25.0 75.0 L 25.0 0.0 L 125.0 0.0 Z" id="logicHole_1" openLeft="1" pinTravelDir="1" />
+			<path cx="50.0" cy="300.0" d="M 125.0 225.0 L -25.0 225.0 L -25.0 375.0 L 25.0 375.0 L 25.0 300.0 L 125.0 300.0 Z" id="logicHole_2" openLeft="1" pinTravelDir="1" />
+			<path cx="50.0" cy="600.0" d="M 125.0 525.0 L -25.0 525.0 L -25.0 675.0 L 25.0 675.0 L 25.0 600.0 L 125.0 600.0 Z" id="logicHole_3" openLeft="1" pinTravelDir="1" />
+		</g>
+	</g>
+</svg>

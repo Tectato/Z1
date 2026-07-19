@@ -1,0 +1,13 @@
+<svg height="320.0" viewBox="-310.0 -160.0 1420.0 320.0" width="1420.0" xmlns="http://www.w3.org/2000/svg" z1svg_version="2">
+	<g style="stroke:black;fill:#3d9ecb">
+		<path d="M -300.0 -150.0 L 1100.0 -150.0 L 1100.0 150.0 L -300.0 150.0 Z" id="outlinePath" />
+		<g id="holes" style="stroke:black;fill:#ffffff">
+			<circle cx="1050.0" cy="-50.0" id="pointHole_0_50mm" r="25.0" />
+			<circle cx="-250.0" cy="-50.0" id="pointHole_1_50mm" r="25.0" />
+		</g>
+		<image height="84.0" href="digits/4_static.png" id="sticker_0" width="84.0" x="-95.0" y="28.5" />
+		<image height="84.0" href="digits/4_static.png" id="sticker_1" width="84.0" x="205.0" y="28.5" />
+		<image height="84.0" href="digits/4_static.png" id="sticker_2" width="84.0" x="505.0" y="28.5" />
+		<image height="84.0" href="digits/4_static.png" id="sticker_3" width="84.0" x="805.0" y="28.5" />
+	</g>
+</svg>

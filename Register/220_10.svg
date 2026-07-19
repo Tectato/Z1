@@ -1,0 +1,9 @@
+<svg height="720.0" viewBox="-670.0 -460.0 1335.0 720.0" width="1335.0" xmlns="http://www.w3.org/2000/svg">
+	<g style="stroke:black;fill:#3d9ecb">
+		<path d="M 655.0 -250.0 L -660.0 -250.0 L -660.0 -450.0 L -540.0 -450.0 L -540.0 -350.0 L 655.0 -350.0 Z" id="outlinePath" />
+		<g style="stroke:black;fill:#ffffff">
+			<circle cx="-600.0" cy="-400.0" id="pointHole_0_50mm" r="25.0" />
+			<circle cx="600.0" cy="-300.0" id="pointHole_1_50mm" r="25.0" />
+		</g>
+	</g>
+</svg>

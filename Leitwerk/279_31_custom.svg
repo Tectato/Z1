@@ -1,0 +1,9 @@
+<svg height="670.0" viewBox="-210.0 -60.0 1320.0 670.0" width="1320.0" xmlns="http://www.w3.org/2000/svg" z1svg_version="2">
+	<g style="stroke:black;fill:#3d9ecb">
+		<path d="M 1100.0 -50.0 L 1100.0 50.0 L 1000.0 50.0 L 600.0 600.0 L -200.0 600.0 L -200.0 400.0 L 530.0 400.0 L 900.0 -50.0 Z" id="outlinePath" />
+		<g id="holes" style="stroke:black;fill:#ffffff">
+			<circle cx="-150.0" cy="450.0" id="pointHole_0_50mm" r="25.0" />
+			<rect cx="1000.0" cy="0.0" height="50.0" horizontal="1" id="rectHole_0_50mm_150mm" length="100.0" width="150.0" x="925.0" y="-25.0" />
+		</g>
+	</g>
+</svg>

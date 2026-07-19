@@ -1,0 +1,18 @@
+<svg height="460.0" viewBox="-1895.0 -340.0 3435.0 460.0" width="3435.0" xmlns="http://www.w3.org/2000/svg">
+	<g style="stroke:black;fill:#3d9ecb">
+		<path d="M -1885.0 -330.0 L -1650.0 -330.0 L -1650.0 -150.0 L -1390.0 -150.0 L -1390.0 -40.0 L -1310.0 -40.0 L -1310.0 -150.0 L 1010.0 -150.0 L 1010.0 -40.0 L 1090.0 -40.0 L 1090.0 -150.0 L 1350.0 -150.0 L 1350.0 -330.0 L 1530.0 -330.0 L 1530.0 -295.0 L 1430.0 -295.0 L 1430.0 -245.0 L 1530.0 -245.0 L 1530.0 110.0 L -1885.0 110.0 Z" id="outlinePath" />
+		<g style="stroke:black;fill:#ffffff">
+			<circle cx="-1800.0" cy="-250.0" id="pointHole_0_50mm" r="25.0" />
+			<rect cx="-1500.0" cy="40.0" height="50.0" horizontal="1" id="rectHole_0_50mm_150mm" length="100.0" width="150.0" x="-1575.0" y="15.0" />
+			<rect cx="-1200.0" cy="40.0" height="50.0" horizontal="1" id="rectHole_1_50mm_150mm" length="100.0" width="150.0" x="-1275.0" y="15.0" />
+			<rect cx="-900.0" cy="40.0" height="50.0" horizontal="1" id="rectHole_2_50mm_150mm" length="100.0" width="150.0" x="-975.0" y="15.0" />
+			<rect cx="-600.0" cy="40.0" height="50.0" horizontal="1" id="rectHole_3_50mm_150mm" length="100.0" width="150.0" x="-675.0" y="15.0" />
+			<rect cx="-300.0" cy="40.0" height="50.0" horizontal="1" id="rectHole_4_50mm_150mm" length="100.0" width="150.0" x="-375.0" y="15.0" />
+			<rect cx="0.0" cy="40.0" height="50.0" horizontal="1" id="rectHole_5_50mm_150mm" length="100.0" width="150.0" x="-75.0" y="15.0" />
+			<rect cx="300.0" cy="40.0" height="50.0" horizontal="1" id="rectHole_6_50mm_150mm" length="100.0" width="150.0" x="225.0" y="15.0" />
+			<rect cx="600.0" cy="40.0" height="50.0" horizontal="1" id="rectHole_7_50mm_150mm" length="100.0" width="150.0" x="525.0" y="15.0" />
+			<rect cx="900.0" cy="40.0" height="50.0" horizontal="1" id="rectHole_8_50mm_150mm" length="100.0" width="150.0" x="825.0" y="15.0" />
+			<rect cx="1200.0" cy="40.0" height="50.0" horizontal="1" id="rectHole_9_50mm_150mm" length="100.0" width="150.0" x="1125.0" y="15.0" />
+		</g>
+	</g>
+</svg>

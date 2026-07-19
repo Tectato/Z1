@@ -1,0 +1,28 @@
+<svg height="2820.0" viewBox="-1110.0 1090.0 2820.0 2820.0" width="2820.0" xmlns="http://www.w3.org/2000/svg">
+	<g style="stroke:black;fill:#3d9ecb">
+		<path d="M -1100.0 1100.0 L 1700.0 1100.0 L 1700.0 1320.0 L 1600.0 1320.0 L 1600.0 1380.0 L 1700.0 1380.0 L 1700.0 1700.0 L -1100.0 1700.0 Z" id="outlinePath" />
+		<g style="stroke:black;fill:#ffffff">
+			<circle cx="-1050.0" cy="1650.0" id="pointHole_0_70mm" r="35.0" />
+			<circle cx="-750.0" cy="1650.0" id="pointHole_1_70mm" r="35.0" />
+			<circle cx="-450.0" cy="1650.0" id="pointHole_2_70mm" r="35.0" />
+			<circle cx="-150.0" cy="1650.0" id="pointHole_3_70mm" r="35.0" />
+			<circle cx="150.0" cy="1650.0" id="pointHole_4_70mm" r="35.0" />
+			<circle cx="450.0" cy="1650.0" id="pointHole_5_70mm" r="35.0" />
+			<circle cx="750.0" cy="1650.0" id="pointHole_6_70mm" r="35.0" />
+			<circle cx="1050.0" cy="1650.0" id="pointHole_7_70mm" r="35.0" />
+			<circle cx="1350.0" cy="1650.0" id="pointHole_8_70mm" r="35.0" />
+			<circle cx="1650.0" cy="1650.0" id="pointHole_9_70mm" r="35.0" />
+			<circle cx="-1050.0" cy="1350.0" id="pointHole_10_60mm" r="30.0" />
+			<circle cx="-450.0" cy="1350.0" id="pointHole_11_70mm" r="35.0" />
+			<circle cx="-150.0" cy="1350.0" id="pointHole_12_70mm" r="35.0" />
+			<circle cx="150.0" cy="1350.0" id="pointHole_13_70mm" r="35.0" />
+			<circle cx="450.0" cy="1350.0" id="pointHole_14_70mm" r="35.0" />
+			<circle cx="750.0" cy="1350.0" id="pointHole_15_70mm" r="35.0" />
+			<circle cx="1050.0" cy="1350.0" id="pointHole_16_70mm" r="35.0" />
+			<circle cx="1350.0" cy="1350.0" id="pointHole_17_70mm" r="35.0" />
+			<circle cx="-900.0" cy="1200.0" id="pointHole_18_50mm" r="25.0" />
+			<path cx="-900.0" cy="1500.0" d="M -850.0 1465.0 A 35.0,35.0 0 0,1 -815.0,1500.0 A 35.0,35.0 0 0,1 -850.0,1535.0 L -950.0 1535.0 A 35.0,35.0 0 0,1 -985.0,1500.0 A 35.0,35.0 0 0,1 -950.0,1465.0 Z" horizontal="1" id="longHole_0_70mm_100mm" length="100.0" r="35.0" />
+			<path cx="-600.0" cy="1200.0" d="M -565.0 1250.0 A 35.0,35.0 0 0,1 -600.0,1285.0 A 35.0,35.0 0 0,1 -635.0,1250.0 L -635.0 1150.0 A 35.0,35.0 0 0,1 -600.0,1115.0 A 35.0,35.0 0 0,1 -565.0,1150.0 Z" horizontal="0" id="longHole_1_70mm_100mm" length="100.0" r="35.0" />
+		</g>
+	</g>
+</svg>

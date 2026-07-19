@@ -1,0 +1,49 @@
+<svg height="720.0" viewBox="-510.0 -210.0 3120.0 720.0" width="3120.0" xmlns="http://www.w3.org/2000/svg">
+	<g style="stroke:black;fill:#3d9ecb">
+		<path d="M -500.0 -200.0 L 2580.0 -200.0 L 2580.0 -180.0 L 2500.0 -180.0 L 2500.0 -120.0 L 2600.0 -120.0 L 2600.0 500.0 L -500.0 500.0 Z" id="outlinePath" />
+		<g style="stroke:black;fill:#ffffff">
+			<circle cx="-450.0" cy="-150.0" id="pointHole_0_60mm" r="30.0" />
+			<circle cx="-450.0" cy="450.0" id="pointHole_1_60mm" r="30.0" />
+			<circle cx="2550.0" cy="-150.0" id="pointHole_2_60mm" r="30.0" />
+			<circle cx="2250.0" cy="-150.0" id="pointHole_3_70mm" r="35.0" />
+			<circle cx="2550.0" cy="450.0" id="pointHole_4_70mm" r="35.0" />
+			<circle cx="2250.0" cy="450.0" id="pointHole_5_70mm" r="35.0" />
+			<circle cx="1950.0" cy="450.0" id="pointHole_6_70mm" r="35.0" />
+			<circle cx="1650.0" cy="450.0" id="pointHole_7_70mm" r="35.0" />
+			<circle cx="1350.0" cy="450.0" id="pointHole_8_70mm" r="35.0" />
+			<circle cx="1050.0" cy="450.0" id="pointHole_9_70mm" r="35.0" />
+			<circle cx="750.0" cy="450.0" id="pointHole_10_70mm" r="35.0" />
+			<circle cx="450.0" cy="450.0" id="pointHole_11_70mm" r="35.0" />
+			<circle cx="150.0" cy="450.0" id="pointHole_12_70mm" r="35.0" />
+			<circle cx="-150.0" cy="450.0" id="pointHole_13_70mm" r="35.0" />
+			<circle cx="-150.0" cy="-150.0" id="pointHole_14_70mm" r="35.0" />
+			<circle cx="150.0" cy="-150.0" id="pointHole_15_70mm" r="35.0" />
+			<circle cx="450.0" cy="-150.0" id="pointHole_16_70mm" r="35.0" />
+			<circle cx="750.0" cy="-150.0" id="pointHole_17_70mm" r="35.0" />
+			<circle cx="1050.0" cy="-150.0" id="pointHole_18_70mm" r="35.0" />
+			<circle cx="1350.0" cy="-150.0" id="pointHole_19_70mm" r="35.0" />
+			<circle cx="1650.0" cy="-150.0" id="pointHole_20_70mm" r="35.0" />
+			<circle cx="1950.0" cy="-150.0" id="pointHole_21_70mm" r="35.0" />
+			<rect cx="-300.0" cy="0.0" edgeLength="150" height="150.0" id="squareHole_0_150mm" width="150.0" x="-375.0" y="-75.0" />
+			<rect cx="-300.0" cy="300.0" edgeLength="150" height="150.0" id="squareHole_1_150mm" width="150.0" x="-375.0" y="225.0" />
+			<rect cx="0.0" cy="300.0" edgeLength="150" height="150.0" id="squareHole_2_150mm" width="150.0" x="-75.0" y="225.0" />
+			<rect cx="0.0" cy="0.0" edgeLength="150" height="150.0" id="squareHole_3_150mm" width="150.0" x="-75.0" y="-75.0" />
+			<rect cx="300.0" cy="0.0" edgeLength="150" height="150.0" id="squareHole_4_150mm" width="150.0" x="225.0" y="-75.0" />
+			<rect cx="300.0" cy="300.0" edgeLength="150" height="150.0" id="squareHole_5_150mm" width="150.0" x="225.0" y="225.0" />
+			<rect cx="600.0" cy="300.0" edgeLength="150" height="150.0" id="squareHole_6_150mm" width="150.0" x="525.0" y="225.0" />
+			<rect cx="900.0" cy="300.0" edgeLength="150" height="150.0" id="squareHole_7_150mm" width="150.0" x="825.0" y="225.0" />
+			<rect cx="1200.0" cy="300.0" edgeLength="150" height="150.0" id="squareHole_8_150mm" width="150.0" x="1125.0" y="225.0" />
+			<rect cx="1500.0" cy="300.0" edgeLength="150" height="150.0" id="squareHole_9_150mm" width="150.0" x="1425.0" y="225.0" />
+			<rect cx="1800.0" cy="300.0" edgeLength="150" height="150.0" id="squareHole_10_150mm" width="150.0" x="1725.0" y="225.0" />
+			<rect cx="2100.0" cy="300.0" edgeLength="150" height="150.0" id="squareHole_11_150mm" width="150.0" x="2025.0" y="225.0" />
+			<rect cx="2400.0" cy="300.0" edgeLength="150" height="150.0" id="squareHole_12_150mm" width="150.0" x="2325.0" y="225.0" />
+			<rect cx="2400.0" cy="0.0" edgeLength="150" height="150.0" id="squareHole_13_150mm" width="150.0" x="2325.0" y="-75.0" />
+			<rect cx="2100.0" cy="0.0" edgeLength="150" height="150.0" id="squareHole_14_150mm" width="150.0" x="2025.0" y="-75.0" />
+			<rect cx="1800.0" cy="0.0" edgeLength="150" height="150.0" id="squareHole_15_150mm" width="150.0" x="1725.0" y="-75.0" />
+			<rect cx="1500.0" cy="0.0" edgeLength="150" height="150.0" id="squareHole_16_150mm" width="150.0" x="1425.0" y="-75.0" />
+			<rect cx="1200.0" cy="0.0" edgeLength="150" height="150.0" id="squareHole_17_150mm" width="150.0" x="1125.0" y="-75.0" />
+			<rect cx="900.0" cy="0.0" edgeLength="150" height="150.0" id="squareHole_18_150mm" width="150.0" x="825.0" y="-75.0" />
+			<rect cx="600.0" cy="0.0" edgeLength="150" height="150.0" id="squareHole_19_150mm" width="150.0" x="525.0" y="-75.0" />
+		</g>
+	</g>
+</svg>

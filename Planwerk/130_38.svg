@@ -1,0 +1,12 @@
+<svg height="1520.0" viewBox="-540.0 620.0 1990.0 1520.0" width="1990.0" xmlns="http://www.w3.org/2000/svg">
+	<g style="stroke:black;fill:#3d9ecb">
+		<path d="M 1440.0 630.0 L 1440.0 870.0 L -530.0 870.0 L -530.0 630.0 Z" id="outlinePath" />
+		<g style="stroke:black;fill:#ffffff">
+			<circle cx="400.0" cy="750.0" id="pointHole_0_40mm" r="20.0" />
+			<circle cx="550.0" cy="750.0" id="pointHole_1_40mm" r="20.0" />
+			<circle cx="950.0" cy="750.0" id="pointHole_2_120mm" r="60.0" />
+			<circle cx="-450.0" cy="750.0" id="pointHole_3_50mm" r="25.0" />
+			<path cx="1150.0" cy="750.0" d="M 1075.0 675.0 L 1225.0 675.0 L 1225.0 825.0 L 1175.0 825.0 L 1175.0 750.0 L 1075.0 750.0 Z" id="logicHole_0" openLeft="0" pinTravelDir="3" />
+		</g>
+	</g>
+</svg>
