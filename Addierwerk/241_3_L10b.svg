@@ -43,7 +43,7 @@
 			<path cx="600.0" cy="0.0" d="M 675.0 -75.0 L 525.0 -75.0 L 525.0 75.0 L 575.0 75.0 L 575.0 0.0 L 675.0 0.0 Z" id="logicHole_16" openLeft="1" pinTravelDir="1" />
 			<path cx="0.0" cy="0.0" d="M 75.0 -75.0 L -75.0 -75.0 L -75.0 75.0 L -25.0 75.0 L -25.0 0.0 L 75.0 0.0 Z" id="logicHole_17" openLeft="1" pinTravelDir="1" />
 			<path cx="300.0" cy="0.0" d="M 375.0 -75.0 L 225.0 -75.0 L 225.0 75.0 L 275.0 75.0 L 275.0 0.0 L 375.0 0.0 Z" id="logicHole_18" openLeft="1" pinTravelDir="1" />
-			<path cx="-300.0" cy="0.0" d="M -225.0 75.0 L -375.0 75.0 L -375.0 -75.0 L -325.0 -75.0 L -325.0 0.0 L -225.0 0.0 Z" id="logicHole_19" openLeft="0" pinTravelDir="1" />
+			<rect cx="-300.0" cy="0.0" edgeLength="150" height="150.0" id="squareHole_0_150mm" width="150.0" x="-375.0" y="-75.0" />
 		</g>
 	</g>
 </svg>
