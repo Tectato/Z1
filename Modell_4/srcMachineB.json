@@ -1,0 +1,33 @@
+{
+    "machines": [
+        {
+            "currentStepOverride": 3,
+            "machine": {
+                "clockPins": [],
+                "globalPins": [],
+                "id": "UnnamedMachine0",
+                "layers": [
+                    {
+                        "height": 0,
+                        "pins": [],
+                        "sheets": [
+                            {
+                                "file": "47_6.svg",
+                                "pos_x": "0.0188",
+                                "pos_y": 1,
+                                "pos_z": "0.025",
+                                "rotation": "0q",
+                                "uuid": 1
+                            }
+                        ]
+                    }
+                ]
+            },
+            "pos_x": 0,
+            "pos_y": 0,
+            "pos_z": 0,
+            "rotation": 0,
+            "uuid": 500430
+        }
+    ]
+}
