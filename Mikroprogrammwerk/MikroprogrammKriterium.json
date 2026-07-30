@@ -234,7 +234,7 @@
 						],
 						"pos": [
 							"-0.7235",
-							"0.79",
+							"1.015",
 							"0.3724"
 						],
 						"start": [
@@ -242,7 +242,7 @@
 							"-0.005",
 							"-0.05"
 						],
-						"text": "Changed from XNOR/EQ to XOR"
+						"text": "Changed from XNOR/EQ to XOR\n\n=> Confirmed"
 					},
 					{
 						"end": [
@@ -278,7 +278,7 @@
 							"-0.3",
 							"-0.05"
 						],
-						"text": "Required significant changes for phase increment initiated by other side to work. Does not line up with exterior photos."
+						"text": "Required significant changes for phase increment initiated by other side to work. Does not line up with exterior photos.\n\n=> Solved differently on real machine, yet to be documented"
 					},
 					{
 						"end": [
@@ -314,7 +314,7 @@
 							"-0.05",
 							"-0.05"
 						],
-						"text": "Pin added for delay, otherwise setting bit 0 of the phase happens too early and get's cleared"
+						"text": "Pin added for delay, otherwise setting bit 0 of the phase happens too early and get's cleared\n-> Confirmed"
 					}
 				],
 				"globalPins": [
@@ -1165,26 +1165,82 @@
 				"id": "UnnamedMachine0",
 				"layers": [
 					{
-						"height": 0,
-						"pins": [
+						"arms": [
 							{
-								"pos_x": "1.5375",
-								"pos_z": "-3.5625",
-								"static": true,
-								"uuid": 388
-							},
-							{
-								"pos_x": "1.2375",
-								"pos_z": "-3.5625",
-								"static": true,
-								"uuid": 390
-							},
-							{
+								"bounds": [
+									0,
+									0
+								],
 								"pos_x": "0.9375",
 								"pos_z": "-3.5625",
-								"static": true,
-								"uuid": 396
+								"uuid": 15
 							},
+							{
+								"bounds": [
+									0,
+									0
+								],
+								"pos_x": "1.2375",
+								"pos_z": "-3.5625",
+								"uuid": 16
+							},
+							{
+								"bounds": [
+									0,
+									0
+								],
+								"pos_x": "1.5375",
+								"pos_z": "-3.5625",
+								"uuid": 17
+							},
+							{
+								"bounds": [
+									0,
+									0
+								],
+								"pos_x": "1.35",
+								"pos_z": "-2.4375",
+								"uuid": 26
+							},
+							{
+								"bounds": [
+									0,
+									0
+								],
+								"pos_x": "1.65",
+								"pos_z": "-2.4375",
+								"uuid": 141
+							},
+							{
+								"bounds": [
+									0,
+									0
+								],
+								"pos_x": "1.95",
+								"pos_z": "-2.4375",
+								"uuid": 142
+							},
+							{
+								"bounds": [
+									0,
+									0
+								],
+								"pos_x": "1.9125",
+								"pos_z": "-3.5625",
+								"uuid": 264
+							},
+							{
+								"bounds": [
+									0,
+									0
+								],
+								"pos_x": "1.9125",
+								"pos_z": "-3.8625",
+								"uuid": 261
+							}
+						],
+						"height": 0,
+						"pins": [
 							{
 								"pos_x": "1.7438",
 								"pos_z": "-3.6",
@@ -1201,24 +1257,6 @@
 								"uuid": 416
 							},
 							{
-								"pos_x": "1.95",
-								"pos_z": "-2.4375",
-								"static": true,
-								"uuid": 418
-							},
-							{
-								"pos_x": "1.65",
-								"pos_z": "-2.4375",
-								"static": true,
-								"uuid": 420
-							},
-							{
-								"pos_x": "1.35",
-								"pos_z": "-2.4375",
-								"static": true,
-								"uuid": 422
-							},
-							{
 								"pos_x": "1.1625",
 								"pos_z": "-2.475",
 								"uuid": 423
@@ -1232,6 +1270,36 @@
 								"pos_x": "1.7625",
 								"pos_z": "-2.475",
 								"uuid": 425
+							},
+							{
+								"id": "ve",
+								"pos_x": "1.875",
+								"pos_z": "-4.05",
+								"uuid": 262
+							},
+							{
+								"id": "ve",
+								"pos_x": "2.0813",
+								"pos_z": "-3.9",
+								"uuid": 168
+							},
+							{
+								"id": "va",
+								"pos_x": "1.875",
+								"pos_z": "-3.7313",
+								"uuid": 265
+							},
+							{
+								"id": "va",
+								"pos_x": "2.0813",
+								"pos_z": "-3.6",
+								"uuid": 263
+							},
+							{
+								"id": "ve",
+								"pos_x": "3.5813",
+								"pos_z": "-4.05",
+								"uuid": 285
 							}
 						],
 						"sheets": [
@@ -1263,52 +1331,12 @@
 								"uuid": 72
 							},
 							{
-								"file": "90turn_1.svg",
-								"pos_x": "1.6188",
+								"file": "custom_ve.svg",
+								"pos_x": "2.725",
 								"pos_y": 1,
-								"pos_z": "-3.6813",
-								"rotation": "-78.1",
-								"uuid": 383
-							},
-							{
-								"file": "90turn_1.svg",
-								"pos_x": "1.3188",
-								"pos_y": 2,
-								"pos_z": "-3.6813",
-								"rotation": "-78.1",
-								"uuid": 404
-							},
-							{
-								"file": "90turn_1.svg",
-								"pos_x": "1.0188",
-								"pos_y": 3,
-								"pos_z": "-3.6813",
-								"rotation": "-78.1",
-								"uuid": 413
-							},
-							{
-								"file": "90turn_1.svg",
-								"pos_x": "1.8329",
-								"pos_y": 1,
-								"pos_z": "-2.3582",
-								"rotation": "79.09",
-								"uuid": 417
-							},
-							{
-								"file": "90turn_1.svg",
-								"pos_x": "1.5313",
-								"pos_y": 2,
-								"pos_z": "-2.3563",
-								"rotation": "79.09",
-								"uuid": 419
-							},
-							{
-								"file": "90turn_1.svg",
-								"pos_x": "1.2313",
-								"pos_y": 3,
-								"pos_z": "-2.3563",
-								"rotation": "79.09",
-								"uuid": 421
+								"pos_z": "-4.1",
+								"rotation": "-1q",
+								"uuid": 283
 							}
 						]
 					},
@@ -1423,7 +1451,7 @@
 							{
 								"file": "269_37.svg",
 								"pos_x": "-0.9025",
-								"pos_y": 3,
+								"pos_y": 1,
 								"pos_z": "1.32",
 								"rotation": "-1q",
 								"uuid": 182
@@ -1431,7 +1459,7 @@
 							{
 								"file": "269_39.svg",
 								"pos_x": "-1.4875",
-								"pos_y": 3,
+								"pos_y": 2,
 								"pos_z": "1.315",
 								"rotation": "-1q",
 								"uuid": 208
@@ -1439,7 +1467,7 @@
 							{
 								"file": "269_40.svg",
 								"pos_x": "-1.55",
-								"pos_y": 4,
+								"pos_y": 1,
 								"pos_z": "1.025",
 								"rotation": "-1q",
 								"uuid": 209
@@ -3080,28 +3108,20 @@
 								"uuid": 327
 							},
 							{
-								"file": "269_30-.svg",
+								"file": "269_30_rev.svg",
 								"pos_x": "-0.905",
 								"pos_y": 2,
 								"pos_z": "0.635",
 								"rotation": "-1q",
-								"uuid": 440
+								"uuid": 13
 							},
 							{
-								"file": "custom_15.svg",
+								"file": "269_30b.svg",
 								"pos_x": "-0.675",
 								"pos_y": 5,
 								"pos_z": "0.4513",
 								"rotation": "-1q",
-								"uuid": 452
-							},
-							{
-								"file": "custom_16.svg",
-								"pos_x": "-0.875",
-								"pos_y": 6,
-								"pos_z": "1.9888",
-								"rotation": "-1q",
-								"uuid": 168
+								"uuid": 14
 							}
 						]
 					},
@@ -3409,9 +3429,89 @@
 						"type": "link"
 					},
 					{
+						"A": 414,
+						"B": 17,
+						"type": "arm"
+					},
+					{
 						"A": 415,
 						"B": 424,
 						"type": "link"
+					},
+					{
+						"A": 415,
+						"B": 16,
+						"type": "arm"
+					},
+					{
+						"A": 416,
+						"B": 15,
+						"type": "arm"
+					},
+					{
+						"A": 423,
+						"B": 26,
+						"type": "arm"
+					},
+					{
+						"A": 424,
+						"B": 141,
+						"type": "arm"
+					},
+					{
+						"A": 425,
+						"B": 142,
+						"type": "arm"
+					},
+					{
+						"A": 262,
+						"B": 261,
+						"type": "arm"
+					},
+					{
+						"A": 168,
+						"B": 261,
+						"type": "arm"
+					},
+					{
+						"A": 265,
+						"B": 264,
+						"type": "arm"
+					},
+					{
+						"A": 263,
+						"B": 264,
+						"type": "arm"
+					},
+					{
+						"A": 290,
+						"B": 15,
+						"type": "arm"
+					},
+					{
+						"A": 296,
+						"B": 16,
+						"type": "arm"
+					},
+					{
+						"A": 297,
+						"B": 17,
+						"type": "arm"
+					},
+					{
+						"A": 86,
+						"B": 26,
+						"type": "arm"
+					},
+					{
+						"A": 87,
+						"B": 141,
+						"type": "arm"
+					},
+					{
+						"A": 88,
+						"B": 142,
+						"type": "arm"
 					},
 					{
 						"A": 363,

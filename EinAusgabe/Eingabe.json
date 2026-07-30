@@ -673,12 +673,28 @@
 				"id": "UnnamedMachine0",
 				"layers": [
 					{
+						"arms": [
+							{
+								"bounds": [
+									0,
+									0
+								],
+								"pos_x": "0.2063",
+								"pos_z": "0.6563",
+								"uuid": 159
+							}
+						],
 						"height": 0,
 						"pins": [
 							{
 								"pos_x": "0.15",
 								"pos_z": "0.45",
 								"uuid": 304
+							},
+							{
+								"pos_x": "0.4125",
+								"pos_z": "0.6",
+								"uuid": 146
 							}
 						],
 						"sheets": []
@@ -1648,8 +1664,8 @@
 											false,
 											1
 										],
-										"pos_x": "0.0562",
-										"pos_z": "-1.0125",
+										"pos_x": "0.2438",
+										"pos_z": "-1.0126",
 										"uuid": 306
 									},
 									{
@@ -1658,8 +1674,8 @@
 											false,
 											1
 										],
-										"pos_x": "0.0562",
-										"pos_z": "-0.8062",
+										"pos_x": "0.2438",
+										"pos_z": "-0.6375",
 										"uuid": 307
 									}
 								],
@@ -1686,7 +1702,7 @@
 									}
 								],
 								"pos_x": "0.1125",
-								"pos_z": "-0.3187",
+								"pos_z": "-0.2624",
 								"type": 1,
 								"uuid": 176,
 								"value": 0.0
@@ -1752,9 +1768,9 @@
 							{
 								"file": "317_6.svg",
 								"pos_x": "-0.915",
-								"pos_y": 3,
+								"pos_y": 2,
 								"pos_z": "-2.3625",
-								"rotation": "-2q",
+								"rotation": "2q",
 								"uuid": 349
 							},
 							{
@@ -1776,7 +1792,7 @@
 							{
 								"file": "317_3.svg",
 								"pos_x": "-1.2575",
-								"pos_y": 7,
+								"pos_y": 5,
 								"pos_z": "-2.4113",
 								"rotation": "-2q",
 								"uuid": 352
@@ -1784,7 +1800,7 @@
 							{
 								"file": "317_2.svg",
 								"pos_x": "-1.16",
-								"pos_y": 6,
+								"pos_y": 4,
 								"pos_z": "-2.12",
 								"rotation": "-1q",
 								"uuid": 353
@@ -1792,7 +1808,7 @@
 							{
 								"file": "317_1.svg",
 								"pos_x": "-0.94",
-								"pos_y": 5,
+								"pos_y": 3,
 								"pos_z": "-2.17",
 								"rotation": "-1q",
 								"uuid": 354
@@ -2632,7 +2648,7 @@
 									true,
 									1
 								],
-								"pos_x": "1.3925",
+								"pos_x": "1.3875",
 								"pos_z": "-0.5863",
 								"uuid": 241
 							},
@@ -2685,7 +2701,7 @@
 							},
 							{
 								"pos_x": "0.8625",
-								"pos_z": "0.3938",
+								"pos_z": "0.3138",
 								"uuid": 249
 							},
 							{
@@ -2721,7 +2737,7 @@
 							{
 								"file": "301_12.svg",
 								"pos_x": "1.3125",
-								"pos_y": 4,
+								"pos_y": 2,
 								"pos_z": "0.3563",
 								"rotation": "-1q",
 								"uuid": 230
@@ -2729,7 +2745,7 @@
 							{
 								"file": "301_12.svg",
 								"pos_x": "1.3125",
-								"pos_y": 4,
+								"pos_y": 2,
 								"pos_z": "0.0563",
 								"rotation": "-1q",
 								"uuid": 231
@@ -2737,7 +2753,7 @@
 							{
 								"file": "301_12.svg",
 								"pos_x": "1.3125",
-								"pos_y": 4,
+								"pos_y": 2,
 								"pos_z": "-0.2437",
 								"rotation": "-1q",
 								"uuid": 232
@@ -2745,7 +2761,7 @@
 							{
 								"file": "301_12.svg",
 								"pos_x": "1.3925",
-								"pos_y": 4,
+								"pos_y": 2,
 								"pos_z": "-0.5438",
 								"rotation": "-1q",
 								"uuid": 233
@@ -2753,7 +2769,7 @@
 							{
 								"file": "301_7.svg",
 								"pos_x": "1.86",
-								"pos_y": 6,
+								"pos_y": 4,
 								"pos_z": "-0.345",
 								"rotation": "-2q",
 								"uuid": 234
@@ -2761,7 +2777,7 @@
 							{
 								"file": "301_8.svg",
 								"pos_x": "0.84",
-								"pos_y": 6,
+								"pos_y": 4,
 								"pos_z": "-0.345",
 								"rotation": "-2q",
 								"uuid": 235
@@ -2769,7 +2785,7 @@
 							{
 								"file": "301_9.svg",
 								"pos_x": "0.96",
-								"pos_y": 5,
+								"pos_y": 3,
 								"pos_z": "-0.4387",
 								"rotation": "-2q",
 								"uuid": 236
@@ -2777,7 +2793,7 @@
 							{
 								"file": "301_10.svg",
 								"pos_x": "1.7325",
-								"pos_y": 5,
+								"pos_y": 3,
 								"pos_z": "-0.4525",
 								"rotation": "2q",
 								"uuid": 237
@@ -2785,7 +2801,7 @@
 							{
 								"file": "301_11.svg",
 								"pos_x": "1.4963",
-								"pos_y": 5,
+								"pos_y": 3,
 								"pos_z": "-0.2625",
 								"rotation": "0q",
 								"uuid": 238
@@ -2793,114 +2809,74 @@
 							{
 								"file": "301_11.svg",
 								"pos_x": "1.215",
-								"pos_y": 5,
+								"pos_y": 3,
 								"pos_z": "0.1125",
 								"rotation": "-2q",
 								"uuid": 239
 							},
 							{
 								"file": "301_5.svg",
-								"pos_x": "3.2463",
-								"pos_y": 8,
-								"pos_z": "1.005",
+								"pos_x": "1.5775",
+								"pos_y": 5,
+								"pos_z": "0.255",
 								"rotation": "-1q",
-								"uuid": 252
-							},
-							{
-								"file": "301_5.svg",
-								"pos_x": "3.2463",
-								"pos_y": 9,
-								"pos_z": "1.605",
-								"rotation": "-1q",
-								"uuid": 254
-							},
-							{
-								"file": "297_4.svg",
-								"pos_x": "2.7938",
-								"pos_y": 8,
-								"pos_z": "1.2938",
-								"rotation": "-1q",
-								"uuid": 279
+								"uuid": 172
 							},
 							{
 								"file": "297_5.svg",
-								"pos_x": "2.7988",
-								"pos_y": 7,
-								"pos_z": "1.2988",
+								"pos_x": "1.1113",
+								"pos_y": 5,
+								"pos_z": "-0.1312",
 								"rotation": "-1q",
-								"uuid": 146
+								"uuid": 177
 							},
 							{
-								"file": "301_3_erased.svg",
-								"pos_x": "1.35",
-								"pos_y": 2,
-								"pos_z": "0.3888",
-								"rotation": "-1q",
-								"uuid": 333
-							},
-							{
-								"file": "301_3_erased.svg",
-								"pos_x": "1.35",
-								"pos_y": 2,
-								"pos_z": "-0.2112",
-								"rotation": "-1q",
-								"uuid": 334
-							},
-							{
-								"file": "301_3_erased.svg",
-								"pos_x": "1.35",
-								"pos_y": 3,
-								"pos_z": "-0.5112",
-								"rotation": "1q",
-								"uuid": 335
-							},
-							{
-								"file": "301_3_erased.svg",
-								"pos_x": "1.35",
-								"pos_y": 3,
-								"pos_z": "0.0888",
-								"rotation": "1q",
-								"uuid": 336
-							},
-							{
-								"file": "301_5-.svg",
-								"pos_x": "1.5838",
-								"pos_y": 7,
-								"pos_z": "-0.045",
-								"rotation": "-1q",
-								"uuid": 357
-							},
-							{
-								"file": "301_5-f.svg",
-								"pos_x": "1.1188",
-								"pos_y": 8,
-								"pos_z": "-0.3562",
-								"rotation": "-1q",
-								"uuid": 358
-							},
-							{
-								"file": "301_5-f.svg",
+								"file": "297_4.svg",
 								"pos_x": "1.125",
-								"pos_y": 9,
-								"pos_z": "0.2438",
+								"pos_y": 6,
+								"pos_z": "-0.0562",
+								"rotation": "-1q",
+								"uuid": 178
+							},
+							{
+								"file": "301_5.svg",
+								"pos_x": "1.5775",
+								"pos_y": 6,
+								"pos_z": "-0.3638",
 								"rotation": "-1q",
 								"uuid": 264
 							},
 							{
-								"file": "custom_4.svg",
-								"pos_x": "1.5375",
-								"pos_y": 9,
-								"pos_z": "-0.56",
+								"file": "301_3_erased_rev_b.svg",
+								"pos_x": "1.3563",
+								"pos_y": 7,
+								"pos_z": "-0.4875",
+								"rotation": "-1q",
+								"uuid": 179
+							},
+							{
+								"file": "301_3_erased_rev_a.svg",
+								"pos_x": "1.3588",
+								"pos_y": 7,
+								"pos_z": "-0.1737",
 								"rotation": "-1q",
 								"uuid": 302
 							},
 							{
-								"file": "297_5-.svg",
-								"pos_x": "1.1175",
-								"pos_y": 10,
-								"pos_z": "-0.1312",
+								"file": "301_3_erased_rev_a.svg",
+								"pos_x": "1.3588",
+								"pos_y": 7,
+								"pos_z": "0.4263",
 								"rotation": "-1q",
 								"uuid": 303
+							},
+							{
+								"file": "301_3_erased_rev_b.svg",
+								"pos_x": "1.3563",
+								"pos_y": 7,
+								"pos_z": "0.1263",
+								"rotation": "-1q",
+								"uuid": 305
 							}
 						]
 					}
@@ -2910,6 +2886,16 @@
 						"A": 304,
 						"B": 7,
 						"type": "link"
+					},
+					{
+						"A": 304,
+						"B": 159,
+						"type": "arm"
+					},
+					{
+						"A": 146,
+						"B": 159,
+						"type": "arm"
 					},
 					{
 						"A": 314,
