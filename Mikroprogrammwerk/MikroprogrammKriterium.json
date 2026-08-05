@@ -314,7 +314,7 @@
 							"-0.05",
 							"-0.05"
 						],
-						"text": "Pin added for delay, otherwise setting bit 0 of the phase happens too early and get's cleared\n-> Confirmed"
+						"text": "Pin added for delay, otherwise setting bit 0 of the phase happens too early and gets cleared\n-> Confirmed"
 					}
 				],
 				"globalPins": [
@@ -3126,6 +3126,17 @@
 						]
 					},
 					{
+						"arms": [
+							{
+								"bounds": [
+									0,
+									6
+								],
+								"pos_x": "0.75",
+								"pos_z": "-2.625",
+								"uuid": 286
+							}
+						],
 						"height": 6,
 						"pins": [
 							{
@@ -3195,20 +3206,9 @@
 								"uuid": 197
 							},
 							{
-								"pos_x": "0.5438",
-								"pos_z": "-2.5825",
-								"uuid": 376
-							},
-							{
-								"pos_x": "0.9563",
-								"pos_z": "-2.6675",
+								"pos_x": "2.85",
+								"pos_z": "-2.6625",
 								"uuid": 379
-							},
-							{
-								"pos_x": "0.75",
-								"pos_z": "-2.625",
-								"static": true,
-								"uuid": 380
 							},
 							{
 								"pos_x": "-1.35",
@@ -3396,14 +3396,6 @@
 								"uuid": 207
 							},
 							{
-								"file": "269_69.svg",
-								"pos_x": "0.75",
-								"pos_y": 2,
-								"pos_z": "-2.625",
-								"rotation": "102.45",
-								"uuid": 378
-							},
-							{
 								"file": "pinBumper.svg",
 								"pos_x": "-1.35",
 								"pos_y": 1,
@@ -3524,9 +3516,14 @@
 						"type": "link"
 					},
 					{
-						"A": 376,
-						"B": 377,
-						"type": "link"
+						"A": 379,
+						"B": 286,
+						"type": "arm"
+					},
+					{
+						"A": 377,
+						"B": 286,
+						"type": "arm"
 					},
 					{
 						"A": 108,

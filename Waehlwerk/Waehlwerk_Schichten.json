@@ -140,7 +140,896 @@
 				"layers": [
 					{
 						"height": 0,
-						"offset": "0.14",
+						"offset": "0.135",
+						"pins": [
+							{
+								"pos_x": "1.7438",
+								"pos_z": "-0.1875",
+								"uuid": 164
+							},
+							{
+								"pos_x": "1.7438",
+								"pos_z": "-0.4875",
+								"uuid": 165
+							},
+							{
+								"pos_x": "1.7438",
+								"pos_z": "-0.7875",
+								"uuid": 166
+							},
+							{
+								"pos_x": "1.7063",
+								"pos_z": "0.75",
+								"uuid": 167
+							}
+						],
+						"sheets": [
+							{
+								"file": "120_35.svg",
+								"pos_x": "1.6612",
+								"pos_y": 1,
+								"pos_z": "-0.15",
+								"rotation": "-1q",
+								"uuid": 149
+							},
+							{
+								"file": "120_39.svg",
+								"pos_x": "1.6013",
+								"pos_y": 3,
+								"pos_z": "0.6875",
+								"rotation": "-1q",
+								"uuid": 151
+							},
+							{
+								"file": "120_29f.svg",
+								"pos_x": "1.7012",
+								"pos_y": 4,
+								"pos_z": "-0.75",
+								"rotation": "1q",
+								"static": true,
+								"uuid": 152
+							},
+							{
+								"file": "120_35.svg",
+								"pos_x": "1.6612",
+								"pos_y": 1,
+								"pos_z": "-0.45",
+								"rotation": "-1q",
+								"uuid": 153
+							},
+							{
+								"file": "120_35.svg",
+								"pos_x": "1.6612",
+								"pos_y": 1,
+								"pos_z": "-0.75",
+								"rotation": "-1q",
+								"uuid": 154
+							},
+							{
+								"file": "120_36f.svg",
+								"pos_x": "1.7062",
+								"pos_y": 3,
+								"pos_z": "-1.2037",
+								"rotation": "-1q",
+								"uuid": 155
+							},
+							{
+								"file": "120_38.svg",
+								"pos_x": "1.7063",
+								"pos_y": 2,
+								"pos_z": "-0.6325",
+								"rotation": "-1q",
+								"uuid": 157
+							},
+							{
+								"file": "120_14.svg",
+								"pos_x": "1.7113",
+								"pos_y": 0,
+								"pos_z": "-0.3475",
+								"rotation": "-2q",
+								"static": true,
+								"uuid": 159
+							},
+							{
+								"file": "120_39a_mod.svg",
+								"pos_x": "1.7063",
+								"pos_y": 2,
+								"pos_z": "0.2613",
+								"rotation": "-1q",
+								"uuid": 160
+							},
+							{
+								"file": "120_38.svg",
+								"pos_x": "1.7063",
+								"pos_y": 3,
+								"pos_z": "-0.3325",
+								"rotation": "-1q",
+								"uuid": 162
+							},
+							{
+								"file": "120_29f.svg",
+								"pos_x": "1.7012",
+								"pos_y": 4,
+								"pos_z": "-0.45",
+								"rotation": "1q",
+								"static": true,
+								"uuid": 66
+							},
+							{
+								"file": "120_29f.svg",
+								"pos_x": "1.7012",
+								"pos_y": 4,
+								"pos_z": "-0.15",
+								"rotation": "1q",
+								"static": true,
+								"uuid": 80
+							}
+						]
+					},
+					{
+						"height": 1,
+						"pins": [
+							{
+								"pos_x": "1.7438",
+								"pos_z": "-0.1875",
+								"uuid": 107
+							},
+							{
+								"pos_x": "1.7438",
+								"pos_z": "-0.4875",
+								"uuid": 108
+							},
+							{
+								"pos_x": "1.7438",
+								"pos_z": "-0.7875",
+								"uuid": 109
+							},
+							{
+								"pos_x": "1.7063",
+								"pos_z": "0.75",
+								"uuid": 110
+							}
+						],
+						"sheets": [
+							{
+								"file": "120_35.svg",
+								"pos_x": "1.6612",
+								"pos_y": 1,
+								"pos_z": "-0.15",
+								"rotation": "-1q",
+								"uuid": 92
+							},
+							{
+								"file": "120_29.svg",
+								"pos_x": "1.7013",
+								"pos_y": 4,
+								"pos_z": "-0.15",
+								"rotation": "1q",
+								"static": true,
+								"uuid": 93
+							},
+							{
+								"file": "120_39.svg",
+								"pos_x": "1.6013",
+								"pos_y": 3,
+								"pos_z": "0.6875",
+								"rotation": "-1q",
+								"uuid": 94
+							},
+							{
+								"file": "120_29f.svg",
+								"pos_x": "1.7013",
+								"pos_y": 4,
+								"pos_z": "-0.75",
+								"rotation": "1q",
+								"static": true,
+								"uuid": 95
+							},
+							{
+								"file": "120_35.svg",
+								"pos_x": "1.6612",
+								"pos_y": 1,
+								"pos_z": "-0.45",
+								"rotation": "-1q",
+								"uuid": 96
+							},
+							{
+								"file": "120_35.svg",
+								"pos_x": "1.6612",
+								"pos_y": 1,
+								"pos_z": "-0.75",
+								"rotation": "-1q",
+								"uuid": 97
+							},
+							{
+								"file": "120_36f.svg",
+								"pos_x": "1.7125",
+								"pos_y": 3,
+								"pos_z": "-1.2162",
+								"rotation": "-1q",
+								"uuid": 98
+							},
+							{
+								"file": "120_38.svg",
+								"pos_x": "1.7063",
+								"pos_y": 2,
+								"pos_z": "-0.6325",
+								"rotation": "-1q",
+								"uuid": 100
+							},
+							{
+								"file": "120_14.svg",
+								"pos_x": "1.7113",
+								"pos_y": 0,
+								"pos_z": "-0.3475",
+								"rotation": "2q",
+								"static": true,
+								"uuid": 102
+							},
+							{
+								"file": "120_39a_mod.svg",
+								"pos_x": "1.7063",
+								"pos_y": 2,
+								"pos_z": "0.2613",
+								"rotation": "-1q",
+								"uuid": 103
+							},
+							{
+								"file": "120_38f.svg",
+								"pos_x": "1.7063",
+								"pos_y": 3,
+								"pos_z": "-0.3325",
+								"rotation": "-1q",
+								"uuid": 105
+							},
+							{
+								"file": "120_29f.svg",
+								"pos_x": "1.7013",
+								"pos_y": 4,
+								"pos_z": "-0.45",
+								"rotation": "1q",
+								"static": true,
+								"uuid": 61
+							}
+						]
+					},
+					{
+						"height": 2,
+						"pins": [
+							{
+								"pos_x": "1.7438",
+								"pos_z": "-0.1875",
+								"uuid": 145
+							},
+							{
+								"pos_x": "1.7438",
+								"pos_z": "-0.4875",
+								"uuid": 146
+							},
+							{
+								"pos_x": "1.7438",
+								"pos_z": "-0.7875",
+								"uuid": 147
+							},
+							{
+								"pos_x": "1.7063",
+								"pos_z": "0.75",
+								"uuid": 148
+							}
+						],
+						"sheets": [
+							{
+								"file": "120_35.svg",
+								"pos_x": "1.6612",
+								"pos_y": 1,
+								"pos_z": "-0.15",
+								"rotation": "-1q",
+								"uuid": 130
+							},
+							{
+								"file": "120_29.svg",
+								"pos_x": "1.7012",
+								"pos_y": 4,
+								"pos_z": "-0.45",
+								"rotation": "1q",
+								"static": true,
+								"uuid": 131
+							},
+							{
+								"file": "120_39.svg",
+								"pos_x": "1.6013",
+								"pos_y": 3,
+								"pos_z": "0.6875",
+								"rotation": "-1q",
+								"uuid": 132
+							},
+							{
+								"file": "120_29f.svg",
+								"pos_x": "1.7013",
+								"pos_y": 4,
+								"pos_z": "-0.75",
+								"rotation": "1q",
+								"static": true,
+								"uuid": 133
+							},
+							{
+								"file": "120_35.svg",
+								"pos_x": "1.6612",
+								"pos_y": 1,
+								"pos_z": "-0.45",
+								"rotation": "-1q",
+								"uuid": 134
+							},
+							{
+								"file": "120_35.svg",
+								"pos_x": "1.6612",
+								"pos_y": 1,
+								"pos_z": "-0.75",
+								"rotation": "-1q",
+								"uuid": 135
+							},
+							{
+								"file": "120_36f.svg",
+								"pos_x": "1.7125",
+								"pos_y": 3,
+								"pos_z": "-1.2163",
+								"rotation": "-1q",
+								"uuid": 136
+							},
+							{
+								"file": "120_14.svg",
+								"pos_x": "1.7113",
+								"pos_y": 0,
+								"pos_z": "-0.3475",
+								"rotation": "-2q",
+								"static": true,
+								"uuid": 140
+							},
+							{
+								"file": "120_39a_mod.svg",
+								"pos_x": "1.7063",
+								"pos_y": 2,
+								"pos_z": "0.2613",
+								"rotation": "-1q",
+								"uuid": 141
+							},
+							{
+								"file": "120_38f.svg",
+								"pos_x": "1.7063",
+								"pos_y": 2,
+								"pos_z": "-0.6325",
+								"rotation": "-1q",
+								"uuid": 142
+							},
+							{
+								"file": "120_38.svg",
+								"pos_x": "1.7063",
+								"pos_y": 3,
+								"pos_z": "-0.3325",
+								"rotation": "-1q",
+								"uuid": 143
+							},
+							{
+								"file": "120_29f.svg",
+								"pos_x": "1.7013",
+								"pos_y": 4,
+								"pos_z": "-0.15",
+								"rotation": "1q",
+								"static": true,
+								"uuid": 60
+							}
+						]
+					},
+					{
+						"height": 3,
+						"pins": [
+							{
+								"pos_x": "1.7438",
+								"pos_z": "-0.1875",
+								"uuid": 88
+							},
+							{
+								"pos_x": "1.7438",
+								"pos_z": "-0.4875",
+								"uuid": 89
+							},
+							{
+								"pos_x": "1.7438",
+								"pos_z": "-0.7875",
+								"uuid": 90
+							},
+							{
+								"pos_x": "1.7063",
+								"pos_z": "0.75",
+								"uuid": 91
+							}
+						],
+						"sheets": [
+							{
+								"file": "120_35.svg",
+								"pos_x": "1.6612",
+								"pos_y": 1,
+								"pos_z": "-0.15",
+								"rotation": "-1q",
+								"uuid": 73
+							},
+							{
+								"file": "120_29.svg",
+								"pos_x": "1.7013",
+								"pos_y": 4,
+								"pos_z": "-0.45",
+								"rotation": "1q",
+								"static": true,
+								"uuid": 74
+							},
+							{
+								"file": "120_39.svg",
+								"pos_x": "1.6013",
+								"pos_y": 3,
+								"pos_z": "0.6875",
+								"rotation": "-1q",
+								"uuid": 75
+							},
+							{
+								"file": "120_29f.svg",
+								"pos_x": "1.7013",
+								"pos_y": 4,
+								"pos_z": "-0.75",
+								"rotation": "1q",
+								"static": true,
+								"uuid": 76
+							},
+							{
+								"file": "120_35.svg",
+								"pos_x": "1.6612",
+								"pos_y": 1,
+								"pos_z": "-0.45",
+								"rotation": "-1q",
+								"uuid": 77
+							},
+							{
+								"file": "120_35.svg",
+								"pos_x": "1.6612",
+								"pos_y": 1,
+								"pos_z": "-0.75",
+								"rotation": "-1q",
+								"uuid": 78
+							},
+							{
+								"file": "120_36f.svg",
+								"pos_x": "1.7125",
+								"pos_y": 3,
+								"pos_z": "-1.2163",
+								"rotation": "-1q",
+								"uuid": 79
+							},
+							{
+								"file": "120_14.svg",
+								"pos_x": "1.7113",
+								"pos_y": 0,
+								"pos_z": "-0.3475",
+								"rotation": "2q",
+								"static": true,
+								"uuid": 83
+							},
+							{
+								"file": "120_39a_mod.svg",
+								"pos_x": "1.7063",
+								"pos_y": 2,
+								"pos_z": "0.2613",
+								"rotation": "-1q",
+								"uuid": 84
+							},
+							{
+								"file": "120_38f.svg",
+								"pos_x": "1.7063",
+								"pos_y": 2,
+								"pos_z": "-0.6325",
+								"rotation": "-1q",
+								"uuid": 85
+							},
+							{
+								"file": "120_38f.svg",
+								"pos_x": "1.7063",
+								"pos_y": 3,
+								"pos_z": "-0.3325",
+								"rotation": "-1q",
+								"uuid": 86
+							},
+							{
+								"file": "120_29.svg",
+								"pos_x": "1.7012",
+								"pos_y": 4,
+								"pos_z": "-0.15",
+								"rotation": "1q",
+								"static": true,
+								"uuid": 45
+							}
+						]
+					},
+					{
+						"height": 4,
+						"pins": [
+							{
+								"pos_x": "1.7438",
+								"pos_z": "-0.1875",
+								"uuid": 126
+							},
+							{
+								"pos_x": "1.7438",
+								"pos_z": "-0.4875",
+								"uuid": 127
+							},
+							{
+								"pos_x": "1.7438",
+								"pos_z": "-0.7875",
+								"uuid": 128
+							},
+							{
+								"pos_x": "1.7063",
+								"pos_z": "0.75",
+								"uuid": 129
+							}
+						],
+						"sheets": [
+							{
+								"file": "120_35.svg",
+								"pos_x": "1.6612",
+								"pos_y": 1,
+								"pos_z": "-0.15",
+								"rotation": "-1q",
+								"uuid": 111
+							},
+							{
+								"file": "120_29.svg",
+								"pos_x": "1.7013",
+								"pos_y": 4,
+								"pos_z": "-0.75",
+								"rotation": "1q",
+								"static": true,
+								"uuid": 112
+							},
+							{
+								"file": "120_39.svg",
+								"pos_x": "1.6013",
+								"pos_y": 3,
+								"pos_z": "0.6875",
+								"rotation": "-1q",
+								"uuid": 113
+							},
+							{
+								"file": "120_29f.svg",
+								"pos_x": "1.7012",
+								"pos_y": 4,
+								"pos_z": "-0.45",
+								"rotation": "1q",
+								"static": true,
+								"uuid": 114
+							},
+							{
+								"file": "120_35.svg",
+								"pos_x": "1.6612",
+								"pos_y": 1,
+								"pos_z": "-0.45",
+								"rotation": "-1q",
+								"uuid": 115
+							},
+							{
+								"file": "120_35.svg",
+								"pos_x": "1.6612",
+								"pos_y": 1,
+								"pos_z": "-0.75",
+								"rotation": "-1q",
+								"uuid": 116
+							},
+							{
+								"file": "120_38.svg",
+								"pos_x": "1.7063",
+								"pos_y": 2,
+								"pos_z": "-0.6325",
+								"rotation": "-1q",
+								"uuid": 119
+							},
+							{
+								"file": "120_36.svg",
+								"pos_x": "1.7",
+								"pos_y": 3,
+								"pos_z": "-1.2163",
+								"rotation": "-1q",
+								"uuid": 120
+							},
+							{
+								"file": "120_14.svg",
+								"pos_x": "1.7113",
+								"pos_y": 0,
+								"pos_z": "-0.3475",
+								"rotation": "-2q",
+								"static": true,
+								"uuid": 121
+							},
+							{
+								"file": "120_39a_mod.svg",
+								"pos_x": "1.7063",
+								"pos_y": 2,
+								"pos_z": "0.2613",
+								"rotation": "-1q",
+								"uuid": 122
+							},
+							{
+								"file": "120_38.svg",
+								"pos_x": "1.7063",
+								"pos_y": 3,
+								"pos_z": "-0.3325",
+								"rotation": "-1q",
+								"uuid": 124
+							},
+							{
+								"file": "120_29f.svg",
+								"pos_x": "1.7013",
+								"pos_y": 4,
+								"pos_z": "-0.15",
+								"rotation": "1q",
+								"static": true,
+								"uuid": 44
+							}
+						]
+					},
+					{
+						"height": 5,
+						"pins": [
+							{
+								"pos_x": "1.7438",
+								"pos_z": "-0.1875",
+								"uuid": 69
+							},
+							{
+								"pos_x": "1.7438",
+								"pos_z": "-0.4875",
+								"uuid": 70
+							},
+							{
+								"pos_x": "1.7438",
+								"pos_z": "-0.7875",
+								"uuid": 71
+							},
+							{
+								"pos_x": "1.7063",
+								"pos_z": "0.75",
+								"uuid": 72
+							}
+						],
+						"sheets": [
+							{
+								"file": "120_35.svg",
+								"pos_x": "1.6612",
+								"pos_y": 1,
+								"pos_z": "-0.15",
+								"rotation": "-1q",
+								"uuid": 11
+							},
+							{
+								"file": "120_29.svg",
+								"pos_x": "1.7012",
+								"pos_y": 4,
+								"pos_z": "-0.15",
+								"rotation": "1q",
+								"static": true,
+								"uuid": 12
+							},
+							{
+								"file": "120_39.svg",
+								"pos_x": "1.6013",
+								"pos_y": 3,
+								"pos_z": "0.6875",
+								"rotation": "-1q",
+								"uuid": 55
+							},
+							{
+								"file": "120_29f.svg",
+								"pos_x": "1.7012",
+								"pos_y": 4,
+								"pos_z": "-0.45",
+								"rotation": "1q",
+								"static": true,
+								"uuid": 57
+							},
+							{
+								"file": "120_35.svg",
+								"pos_x": "1.6612",
+								"pos_y": 1,
+								"pos_z": "-0.45",
+								"rotation": "-1q",
+								"uuid": 58
+							},
+							{
+								"file": "120_35.svg",
+								"pos_x": "1.6612",
+								"pos_y": 1,
+								"pos_z": "-0.75",
+								"rotation": "-1q",
+								"uuid": 59
+							},
+							{
+								"file": "120_38.svg",
+								"pos_x": "1.7063",
+								"pos_y": 2,
+								"pos_z": "-0.625",
+								"rotation": "-1q",
+								"uuid": 62
+							},
+							{
+								"file": "120_36.svg",
+								"pos_x": "1.7",
+								"pos_y": 3,
+								"pos_z": "-1.2163",
+								"rotation": "-1q",
+								"uuid": 63
+							},
+							{
+								"file": "120_14.svg",
+								"pos_x": "1.7113",
+								"pos_y": 0,
+								"pos_z": "-0.3475",
+								"rotation": "2q",
+								"static": true,
+								"uuid": 64
+							},
+							{
+								"file": "120_39a_mod.svg",
+								"pos_x": "1.7063",
+								"pos_y": 2,
+								"pos_z": "0.2613",
+								"rotation": "-1q",
+								"uuid": 65
+							},
+							{
+								"file": "120_38f.svg",
+								"pos_x": "1.7063",
+								"pos_y": 3,
+								"pos_z": "-0.3325",
+								"rotation": "-1q",
+								"uuid": 67
+							},
+							{
+								"file": "120_29.svg",
+								"pos_x": "1.7013",
+								"pos_y": 4,
+								"pos_z": "-0.75",
+								"rotation": "1q",
+								"static": true,
+								"uuid": 4
+							}
+						]
+					},
+					{
+						"height": 6,
+						"pins": [
+							{
+								"pos_x": "1.7438",
+								"pos_z": "-0.1875",
+								"uuid": 50
+							},
+							{
+								"pos_x": "1.7438",
+								"pos_z": "-0.4875",
+								"uuid": 51
+							},
+							{
+								"pos_x": "1.7438",
+								"pos_z": "-0.7875",
+								"uuid": 52
+							},
+							{
+								"pos_x": "1.7063",
+								"pos_z": "0.75",
+								"uuid": 53
+							}
+						],
+						"sheets": [
+							{
+								"file": "120_35.svg",
+								"pos_x": "1.6612",
+								"pos_y": 1,
+								"pos_z": "-0.15",
+								"rotation": "-1q",
+								"uuid": 37
+							},
+							{
+								"file": "120_29.svg",
+								"pos_x": "1.72",
+								"pos_y": 4,
+								"pos_z": "-0.45",
+								"rotation": "1q",
+								"static": true,
+								"uuid": 38
+							},
+							{
+								"file": "120_39.svg",
+								"pos_x": "1.6013",
+								"pos_y": 3,
+								"pos_z": "0.6875",
+								"rotation": "-1q",
+								"uuid": 39
+							},
+							{
+								"file": "120_29f.svg",
+								"pos_x": "1.72",
+								"pos_y": 4,
+								"pos_z": "-0.15",
+								"rotation": "1q",
+								"static": true,
+								"uuid": 40
+							},
+							{
+								"file": "120_35.svg",
+								"pos_x": "1.6612",
+								"pos_y": 1,
+								"pos_z": "-0.45",
+								"rotation": "-1q",
+								"uuid": 41
+							},
+							{
+								"file": "120_35.svg",
+								"pos_x": "1.6612",
+								"pos_y": 1,
+								"pos_z": "-0.75",
+								"rotation": "-1q",
+								"uuid": 42
+							},
+							{
+								"file": "120_36.svg",
+								"pos_x": "1.7",
+								"pos_y": 3,
+								"pos_z": "-1.2162",
+								"rotation": "-1q",
+								"uuid": 46
+							},
+							{
+								"file": "120_14.svg",
+								"pos_x": "1.7113",
+								"pos_y": 0,
+								"pos_z": "-0.3475",
+								"rotation": "2q",
+								"static": true,
+								"uuid": 47
+							},
+							{
+								"file": "120_39a_mod.svg",
+								"pos_x": "1.7063",
+								"pos_y": 2,
+								"pos_z": "0.2613",
+								"rotation": "-1q",
+								"uuid": 48
+							},
+							{
+								"file": "120_38f.svg",
+								"pos_x": "1.7063",
+								"pos_y": 2,
+								"pos_z": "-0.6325",
+								"rotation": "-1q",
+								"uuid": 54
+							},
+							{
+								"file": "120_38.svg",
+								"pos_x": "1.7063",
+								"pos_y": 3,
+								"pos_z": "-0.3325",
+								"rotation": "-1q",
+								"uuid": 56
+							},
+							{
+								"file": "120_29.svg",
+								"pos_x": "1.72",
+								"pos_y": 4,
+								"pos_z": "-0.75",
+								"rotation": "1q",
+								"static": true,
+								"uuid": 10
+							}
+						]
+					},
+					{
+						"height": 7,
 						"pins": [
 							{
 								"pos_x": "1.7438",
@@ -178,6 +1067,7 @@
 								"pos_y": 4,
 								"pos_z": "-0.15",
 								"rotation": "1q",
+								"static": true,
 								"uuid": 1
 							},
 							{
@@ -251,6 +1141,7 @@
 								"pos_y": 4,
 								"pos_z": "-0.45",
 								"rotation": "1q",
+								"static": true,
 								"uuid": 7
 							},
 							{
@@ -259,875 +1150,8 @@
 								"pos_y": 4,
 								"pos_z": "-0.75",
 								"rotation": "1q",
+								"static": true,
 								"uuid": 9
-							}
-						]
-					},
-					{
-						"height": 1,
-						"pins": [
-							{
-								"pos_x": "1.7438",
-								"pos_z": "-0.1875",
-								"uuid": 50
-							},
-							{
-								"pos_x": "1.7438",
-								"pos_z": "-0.4875",
-								"uuid": 51
-							},
-							{
-								"pos_x": "1.7438",
-								"pos_z": "-0.7875",
-								"uuid": 52
-							},
-							{
-								"pos_x": "1.7063",
-								"pos_z": "0.75",
-								"uuid": 53
-							}
-						],
-						"sheets": [
-							{
-								"file": "120_35.svg",
-								"pos_x": "1.6612",
-								"pos_y": 1,
-								"pos_z": "-0.15",
-								"rotation": "-1q",
-								"uuid": 37
-							},
-							{
-								"file": "120_29.svg",
-								"pos_x": "1.72",
-								"pos_y": 4,
-								"pos_z": "-0.45",
-								"rotation": "1q",
-								"uuid": 38
-							},
-							{
-								"file": "120_39.svg",
-								"pos_x": "1.6013",
-								"pos_y": 3,
-								"pos_z": "0.6875",
-								"rotation": "-1q",
-								"uuid": 39
-							},
-							{
-								"file": "120_29f.svg",
-								"pos_x": "1.72",
-								"pos_y": 4,
-								"pos_z": "-0.15",
-								"rotation": "1q",
-								"uuid": 40
-							},
-							{
-								"file": "120_35.svg",
-								"pos_x": "1.6612",
-								"pos_y": 1,
-								"pos_z": "-0.45",
-								"rotation": "-1q",
-								"uuid": 41
-							},
-							{
-								"file": "120_35.svg",
-								"pos_x": "1.6612",
-								"pos_y": 1,
-								"pos_z": "-0.75",
-								"rotation": "-1q",
-								"uuid": 42
-							},
-							{
-								"file": "120_36.svg",
-								"pos_x": "1.7",
-								"pos_y": 3,
-								"pos_z": "-1.2162",
-								"rotation": "-1q",
-								"uuid": 46
-							},
-							{
-								"file": "120_14.svg",
-								"pos_x": "1.7113",
-								"pos_y": 0,
-								"pos_z": "-0.3475",
-								"rotation": "2q",
-								"static": true,
-								"uuid": 47
-							},
-							{
-								"file": "120_39a_mod.svg",
-								"pos_x": "1.7063",
-								"pos_y": 2,
-								"pos_z": "0.2613",
-								"rotation": "-1q",
-								"uuid": 48
-							},
-							{
-								"file": "120_38f.svg",
-								"pos_x": "1.7063",
-								"pos_y": 2,
-								"pos_z": "-0.6325",
-								"rotation": "-1q",
-								"uuid": 54
-							},
-							{
-								"file": "120_38.svg",
-								"pos_x": "1.7063",
-								"pos_y": 3,
-								"pos_z": "-0.3325",
-								"rotation": "-1q",
-								"uuid": 56
-							},
-							{
-								"file": "120_29.svg",
-								"pos_x": "1.72",
-								"pos_y": 4,
-								"pos_z": "-0.75",
-								"rotation": "1q",
-								"uuid": 10
-							}
-						]
-					},
-					{
-						"height": 2,
-						"pins": [
-							{
-								"pos_x": "1.7438",
-								"pos_z": "-0.1875",
-								"uuid": 69
-							},
-							{
-								"pos_x": "1.7438",
-								"pos_z": "-0.4875",
-								"uuid": 70
-							},
-							{
-								"pos_x": "1.7438",
-								"pos_z": "-0.7875",
-								"uuid": 71
-							},
-							{
-								"pos_x": "1.7063",
-								"pos_z": "0.75",
-								"uuid": 72
-							}
-						],
-						"sheets": [
-							{
-								"file": "120_35.svg",
-								"pos_x": "1.6612",
-								"pos_y": 1,
-								"pos_z": "-0.15",
-								"rotation": "-1q",
-								"uuid": 11
-							},
-							{
-								"file": "120_29.svg",
-								"pos_x": "1.7012",
-								"pos_y": 4,
-								"pos_z": "-0.15",
-								"rotation": "1q",
-								"uuid": 12
-							},
-							{
-								"file": "120_39.svg",
-								"pos_x": "1.6013",
-								"pos_y": 3,
-								"pos_z": "0.6875",
-								"rotation": "-1q",
-								"uuid": 55
-							},
-							{
-								"file": "120_29f.svg",
-								"pos_x": "1.7012",
-								"pos_y": 4,
-								"pos_z": "-0.45",
-								"rotation": "1q",
-								"uuid": 57
-							},
-							{
-								"file": "120_35.svg",
-								"pos_x": "1.6612",
-								"pos_y": 1,
-								"pos_z": "-0.45",
-								"rotation": "-1q",
-								"uuid": 58
-							},
-							{
-								"file": "120_35.svg",
-								"pos_x": "1.6612",
-								"pos_y": 1,
-								"pos_z": "-0.75",
-								"rotation": "-1q",
-								"uuid": 59
-							},
-							{
-								"file": "120_38.svg",
-								"pos_x": "1.7063",
-								"pos_y": 2,
-								"pos_z": "-0.625",
-								"rotation": "-1q",
-								"uuid": 62
-							},
-							{
-								"file": "120_36.svg",
-								"pos_x": "1.7",
-								"pos_y": 3,
-								"pos_z": "-1.2163",
-								"rotation": "-1q",
-								"uuid": 63
-							},
-							{
-								"file": "120_14.svg",
-								"pos_x": "1.7113",
-								"pos_y": 0,
-								"pos_z": "-0.3475",
-								"rotation": "2q",
-								"static": true,
-								"uuid": 64
-							},
-							{
-								"file": "120_39a_mod.svg",
-								"pos_x": "1.7063",
-								"pos_y": 2,
-								"pos_z": "0.2613",
-								"rotation": "-1q",
-								"uuid": 65
-							},
-							{
-								"file": "120_38f.svg",
-								"pos_x": "1.7063",
-								"pos_y": 3,
-								"pos_z": "-0.3325",
-								"rotation": "-1q",
-								"uuid": 67
-							},
-							{
-								"file": "120_29.svg",
-								"pos_x": "1.7013",
-								"pos_y": 4,
-								"pos_z": "-0.75",
-								"rotation": "1q",
-								"uuid": 4
-							}
-						]
-					},
-					{
-						"height": 3,
-						"pins": [
-							{
-								"pos_x": "1.7438",
-								"pos_z": "-0.1875",
-								"uuid": 126
-							},
-							{
-								"pos_x": "1.7438",
-								"pos_z": "-0.4875",
-								"uuid": 127
-							},
-							{
-								"pos_x": "1.7438",
-								"pos_z": "-0.7875",
-								"uuid": 128
-							},
-							{
-								"pos_x": "1.7063",
-								"pos_z": "0.75",
-								"uuid": 129
-							}
-						],
-						"sheets": [
-							{
-								"file": "120_35.svg",
-								"pos_x": "1.6612",
-								"pos_y": 1,
-								"pos_z": "-0.15",
-								"rotation": "-1q",
-								"uuid": 111
-							},
-							{
-								"file": "120_29.svg",
-								"pos_x": "1.7013",
-								"pos_y": 4,
-								"pos_z": "-0.75",
-								"rotation": "1q",
-								"uuid": 112
-							},
-							{
-								"file": "120_39.svg",
-								"pos_x": "1.6013",
-								"pos_y": 3,
-								"pos_z": "0.6875",
-								"rotation": "-1q",
-								"uuid": 113
-							},
-							{
-								"file": "120_29f.svg",
-								"pos_x": "1.7012",
-								"pos_y": 4,
-								"pos_z": "-0.45",
-								"rotation": "1q",
-								"uuid": 114
-							},
-							{
-								"file": "120_35.svg",
-								"pos_x": "1.6612",
-								"pos_y": 1,
-								"pos_z": "-0.45",
-								"rotation": "-1q",
-								"uuid": 115
-							},
-							{
-								"file": "120_35.svg",
-								"pos_x": "1.6612",
-								"pos_y": 1,
-								"pos_z": "-0.75",
-								"rotation": "-1q",
-								"uuid": 116
-							},
-							{
-								"file": "120_38.svg",
-								"pos_x": "1.7063",
-								"pos_y": 2,
-								"pos_z": "-0.6325",
-								"rotation": "-1q",
-								"uuid": 119
-							},
-							{
-								"file": "120_36.svg",
-								"pos_x": "1.7",
-								"pos_y": 3,
-								"pos_z": "-1.2163",
-								"rotation": "-1q",
-								"uuid": 120
-							},
-							{
-								"file": "120_14.svg",
-								"pos_x": "1.7113",
-								"pos_y": 0,
-								"pos_z": "-0.3475",
-								"rotation": "-2q",
-								"static": true,
-								"uuid": 121
-							},
-							{
-								"file": "120_39a_mod.svg",
-								"pos_x": "1.7063",
-								"pos_y": 2,
-								"pos_z": "0.2613",
-								"rotation": "-1q",
-								"uuid": 122
-							},
-							{
-								"file": "120_38.svg",
-								"pos_x": "1.7063",
-								"pos_y": 3,
-								"pos_z": "-0.3325",
-								"rotation": "-1q",
-								"uuid": 124
-							},
-							{
-								"file": "120_29f.svg",
-								"pos_x": "1.7013",
-								"pos_y": 4,
-								"pos_z": "-0.15",
-								"rotation": "1q",
-								"uuid": 44
-							}
-						]
-					},
-					{
-						"height": 4,
-						"pins": [
-							{
-								"pos_x": "1.7438",
-								"pos_z": "-0.1875",
-								"uuid": 88
-							},
-							{
-								"pos_x": "1.7438",
-								"pos_z": "-0.4875",
-								"uuid": 89
-							},
-							{
-								"pos_x": "1.7438",
-								"pos_z": "-0.7875",
-								"uuid": 90
-							},
-							{
-								"pos_x": "1.7063",
-								"pos_z": "0.75",
-								"uuid": 91
-							}
-						],
-						"sheets": [
-							{
-								"file": "120_35.svg",
-								"pos_x": "1.6612",
-								"pos_y": 1,
-								"pos_z": "-0.15",
-								"rotation": "-1q",
-								"uuid": 73
-							},
-							{
-								"file": "120_29.svg",
-								"pos_x": "1.7013",
-								"pos_y": 4,
-								"pos_z": "-0.45",
-								"rotation": "1q",
-								"uuid": 74
-							},
-							{
-								"file": "120_39.svg",
-								"pos_x": "1.6013",
-								"pos_y": 3,
-								"pos_z": "0.6875",
-								"rotation": "-1q",
-								"uuid": 75
-							},
-							{
-								"file": "120_29f.svg",
-								"pos_x": "1.7013",
-								"pos_y": 4,
-								"pos_z": "-0.75",
-								"rotation": "1q",
-								"uuid": 76
-							},
-							{
-								"file": "120_35.svg",
-								"pos_x": "1.6612",
-								"pos_y": 1,
-								"pos_z": "-0.45",
-								"rotation": "-1q",
-								"uuid": 77
-							},
-							{
-								"file": "120_35.svg",
-								"pos_x": "1.6612",
-								"pos_y": 1,
-								"pos_z": "-0.75",
-								"rotation": "-1q",
-								"uuid": 78
-							},
-							{
-								"file": "120_36f.svg",
-								"pos_x": "1.7125",
-								"pos_y": 3,
-								"pos_z": "-1.2163",
-								"rotation": "-1q",
-								"uuid": 79
-							},
-							{
-								"file": "120_14.svg",
-								"pos_x": "1.7113",
-								"pos_y": 0,
-								"pos_z": "-0.3475",
-								"rotation": "2q",
-								"static": true,
-								"uuid": 83
-							},
-							{
-								"file": "120_39a_mod.svg",
-								"pos_x": "1.7063",
-								"pos_y": 2,
-								"pos_z": "0.2613",
-								"rotation": "-1q",
-								"uuid": 84
-							},
-							{
-								"file": "120_38f.svg",
-								"pos_x": "1.7063",
-								"pos_y": 2,
-								"pos_z": "-0.6325",
-								"rotation": "-1q",
-								"uuid": 85
-							},
-							{
-								"file": "120_38f.svg",
-								"pos_x": "1.7063",
-								"pos_y": 3,
-								"pos_z": "-0.3325",
-								"rotation": "-1q",
-								"uuid": 86
-							},
-							{
-								"file": "120_29.svg",
-								"pos_x": "1.7012",
-								"pos_y": 4,
-								"pos_z": "-0.15",
-								"rotation": "1q",
-								"uuid": 45
-							}
-						]
-					},
-					{
-						"height": 5,
-						"pins": [
-							{
-								"pos_x": "1.7438",
-								"pos_z": "-0.1875",
-								"uuid": 145
-							},
-							{
-								"pos_x": "1.7438",
-								"pos_z": "-0.4875",
-								"uuid": 146
-							},
-							{
-								"pos_x": "1.7438",
-								"pos_z": "-0.7875",
-								"uuid": 147
-							},
-							{
-								"pos_x": "1.7063",
-								"pos_z": "0.75",
-								"uuid": 148
-							}
-						],
-						"sheets": [
-							{
-								"file": "120_35.svg",
-								"pos_x": "1.6612",
-								"pos_y": 1,
-								"pos_z": "-0.15",
-								"rotation": "-1q",
-								"uuid": 130
-							},
-							{
-								"file": "120_29.svg",
-								"pos_x": "1.7012",
-								"pos_y": 4,
-								"pos_z": "-0.45",
-								"rotation": "1q",
-								"uuid": 131
-							},
-							{
-								"file": "120_39.svg",
-								"pos_x": "1.6013",
-								"pos_y": 3,
-								"pos_z": "0.6875",
-								"rotation": "-1q",
-								"uuid": 132
-							},
-							{
-								"file": "120_29f.svg",
-								"pos_x": "1.7013",
-								"pos_y": 4,
-								"pos_z": "-0.75",
-								"rotation": "1q",
-								"uuid": 133
-							},
-							{
-								"file": "120_35.svg",
-								"pos_x": "1.6612",
-								"pos_y": 1,
-								"pos_z": "-0.45",
-								"rotation": "-1q",
-								"uuid": 134
-							},
-							{
-								"file": "120_35.svg",
-								"pos_x": "1.6612",
-								"pos_y": 1,
-								"pos_z": "-0.75",
-								"rotation": "-1q",
-								"uuid": 135
-							},
-							{
-								"file": "120_36f.svg",
-								"pos_x": "1.7125",
-								"pos_y": 3,
-								"pos_z": "-1.2163",
-								"rotation": "-1q",
-								"uuid": 136
-							},
-							{
-								"file": "120_14.svg",
-								"pos_x": "1.7113",
-								"pos_y": 0,
-								"pos_z": "-0.3475",
-								"rotation": "-2q",
-								"static": true,
-								"uuid": 140
-							},
-							{
-								"file": "120_39a_mod.svg",
-								"pos_x": "1.7063",
-								"pos_y": 2,
-								"pos_z": "0.2613",
-								"rotation": "-1q",
-								"uuid": 141
-							},
-							{
-								"file": "120_38f.svg",
-								"pos_x": "1.7063",
-								"pos_y": 2,
-								"pos_z": "-0.6325",
-								"rotation": "-1q",
-								"uuid": 142
-							},
-							{
-								"file": "120_38.svg",
-								"pos_x": "1.7063",
-								"pos_y": 3,
-								"pos_z": "-0.3325",
-								"rotation": "-1q",
-								"uuid": 143
-							},
-							{
-								"file": "120_29f.svg",
-								"pos_x": "1.7013",
-								"pos_y": 4,
-								"pos_z": "-0.15",
-								"rotation": "1q",
-								"uuid": 60
-							}
-						]
-					},
-					{
-						"height": 6,
-						"pins": [
-							{
-								"pos_x": "1.7438",
-								"pos_z": "-0.1875",
-								"uuid": 107
-							},
-							{
-								"pos_x": "1.7438",
-								"pos_z": "-0.4875",
-								"uuid": 108
-							},
-							{
-								"pos_x": "1.7438",
-								"pos_z": "-0.7875",
-								"uuid": 109
-							},
-							{
-								"pos_x": "1.7063",
-								"pos_z": "0.75",
-								"uuid": 110
-							}
-						],
-						"sheets": [
-							{
-								"file": "120_35.svg",
-								"pos_x": "1.6612",
-								"pos_y": 1,
-								"pos_z": "-0.15",
-								"rotation": "-1q",
-								"uuid": 92
-							},
-							{
-								"file": "120_29.svg",
-								"pos_x": "1.7013",
-								"pos_y": 4,
-								"pos_z": "-0.15",
-								"rotation": "1q",
-								"uuid": 93
-							},
-							{
-								"file": "120_39.svg",
-								"pos_x": "1.6013",
-								"pos_y": 3,
-								"pos_z": "0.6875",
-								"rotation": "-1q",
-								"uuid": 94
-							},
-							{
-								"file": "120_29f.svg",
-								"pos_x": "1.7013",
-								"pos_y": 4,
-								"pos_z": "-0.75",
-								"rotation": "1q",
-								"uuid": 95
-							},
-							{
-								"file": "120_35.svg",
-								"pos_x": "1.6612",
-								"pos_y": 1,
-								"pos_z": "-0.45",
-								"rotation": "-1q",
-								"uuid": 96
-							},
-							{
-								"file": "120_35.svg",
-								"pos_x": "1.6612",
-								"pos_y": 1,
-								"pos_z": "-0.75",
-								"rotation": "-1q",
-								"uuid": 97
-							},
-							{
-								"file": "120_36f.svg",
-								"pos_x": "1.7125",
-								"pos_y": 3,
-								"pos_z": "-1.2162",
-								"rotation": "-1q",
-								"uuid": 98
-							},
-							{
-								"file": "120_38.svg",
-								"pos_x": "1.7063",
-								"pos_y": 2,
-								"pos_z": "-0.6325",
-								"rotation": "-1q",
-								"uuid": 100
-							},
-							{
-								"file": "120_14.svg",
-								"pos_x": "1.7113",
-								"pos_y": 0,
-								"pos_z": "-0.3475",
-								"rotation": "2q",
-								"static": true,
-								"uuid": 102
-							},
-							{
-								"file": "120_39a_mod.svg",
-								"pos_x": "1.7063",
-								"pos_y": 2,
-								"pos_z": "0.2613",
-								"rotation": "-1q",
-								"uuid": 103
-							},
-							{
-								"file": "120_38f.svg",
-								"pos_x": "1.7063",
-								"pos_y": 3,
-								"pos_z": "-0.3325",
-								"rotation": "-1q",
-								"uuid": 105
-							},
-							{
-								"file": "120_29f.svg",
-								"pos_x": "1.7013",
-								"pos_y": 4,
-								"pos_z": "-0.45",
-								"rotation": "1q",
-								"uuid": 61
-							}
-						]
-					},
-					{
-						"height": 7,
-						"pins": [
-							{
-								"pos_x": "1.7438",
-								"pos_z": "-0.1875",
-								"uuid": 164
-							},
-							{
-								"pos_x": "1.7438",
-								"pos_z": "-0.4875",
-								"uuid": 165
-							},
-							{
-								"pos_x": "1.7438",
-								"pos_z": "-0.7875",
-								"uuid": 166
-							},
-							{
-								"pos_x": "1.7063",
-								"pos_z": "0.75",
-								"uuid": 167
-							}
-						],
-						"sheets": [
-							{
-								"file": "120_35.svg",
-								"pos_x": "1.6612",
-								"pos_y": 1,
-								"pos_z": "-0.15",
-								"rotation": "-1q",
-								"uuid": 149
-							},
-							{
-								"file": "120_39.svg",
-								"pos_x": "1.6013",
-								"pos_y": 3,
-								"pos_z": "0.6875",
-								"rotation": "-1q",
-								"uuid": 151
-							},
-							{
-								"file": "120_29f.svg",
-								"pos_x": "1.7012",
-								"pos_y": 4,
-								"pos_z": "-0.75",
-								"rotation": "1q",
-								"uuid": 152
-							},
-							{
-								"file": "120_35.svg",
-								"pos_x": "1.6612",
-								"pos_y": 1,
-								"pos_z": "-0.45",
-								"rotation": "-1q",
-								"uuid": 153
-							},
-							{
-								"file": "120_35.svg",
-								"pos_x": "1.6612",
-								"pos_y": 1,
-								"pos_z": "-0.75",
-								"rotation": "-1q",
-								"uuid": 154
-							},
-							{
-								"file": "120_36f.svg",
-								"pos_x": "1.7062",
-								"pos_y": 3,
-								"pos_z": "-1.2037",
-								"rotation": "-1q",
-								"uuid": 155
-							},
-							{
-								"file": "120_38.svg",
-								"pos_x": "1.7063",
-								"pos_y": 2,
-								"pos_z": "-0.6325",
-								"rotation": "-1q",
-								"uuid": 157
-							},
-							{
-								"file": "120_14.svg",
-								"pos_x": "1.7113",
-								"pos_y": 0,
-								"pos_z": "-0.3475",
-								"rotation": "-2q",
-								"static": true,
-								"uuid": 159
-							},
-							{
-								"file": "120_39a_mod.svg",
-								"pos_x": "1.7063",
-								"pos_y": 2,
-								"pos_z": "0.2613",
-								"rotation": "-1q",
-								"uuid": 160
-							},
-							{
-								"file": "120_38.svg",
-								"pos_x": "1.7063",
-								"pos_y": 3,
-								"pos_z": "-0.3325",
-								"rotation": "-1q",
-								"uuid": 162
-							},
-							{
-								"file": "120_29f.svg",
-								"pos_x": "1.7012",
-								"pos_y": 4,
-								"pos_z": "-0.45",
-								"rotation": "1q",
-								"uuid": 66
-							},
-							{
-								"file": "120_29f.svg",
-								"pos_x": "1.7012",
-								"pos_y": 4,
-								"pos_z": "-0.15",
-								"rotation": "1q",
-								"uuid": 80
 							}
 						]
 					}
