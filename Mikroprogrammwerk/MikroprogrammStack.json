@@ -6,6 +6,10 @@
 				"clockPins": [
 					{
 						"active": false,
+						"bounds": [
+							1,
+							14
+						],
 						"forwardStep": 2,
 						"id": "R23",
 						"input": false,
@@ -17,6 +21,10 @@
 					},
 					{
 						"active": false,
+						"bounds": [
+							1,
+							14
+						],
 						"forwardStep": 2,
 						"id": "R23",
 						"input": false,
@@ -29,8 +37,8 @@
 					{
 						"active": false,
 						"bounds": [
-							0,
-							13
+							1,
+							14
 						],
 						"forwardStep": 0,
 						"id": "R22",
@@ -44,8 +52,8 @@
 					{
 						"active": false,
 						"bounds": [
-							0,
-							13
+							1,
+							14
 						],
 						"forwardStep": 0,
 						"id": "R22",
@@ -58,6 +66,10 @@
 					},
 					{
 						"active": false,
+						"bounds": [
+							1,
+							14
+						],
 						"forwardStep": 1,
 						"input": false,
 						"pos_x": "1.05",
@@ -68,6 +80,10 @@
 					},
 					{
 						"active": false,
+						"bounds": [
+							1,
+							14
+						],
 						"forwardStep": 1,
 						"input": false,
 						"pos_x": "0.45",
@@ -78,6 +94,10 @@
 					},
 					{
 						"active": false,
+						"bounds": [
+							1,
+							1
+						],
 						"forwardStep": 1,
 						"id": "R26",
 						"input": false,
@@ -89,6 +109,10 @@
 					},
 					{
 						"active": false,
+						"bounds": [
+							1,
+							1
+						],
 						"forwardStep": 1,
 						"id": "R26",
 						"input": false,
@@ -175,47 +199,79 @@
 				],
 				"globalPins": [
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.45",
 						"pos_z": "-1.05",
 						"static": true,
 						"uuid": 3
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "1.05",
 						"pos_z": "-1.05",
 						"static": true,
 						"uuid": 4
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "1.05",
 						"pos_z": "0.45",
 						"static": true,
 						"uuid": 5
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.45",
 						"pos_z": "0.45",
 						"static": true,
 						"uuid": 6
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "1.05",
 						"pos_z": "1.95",
 						"static": true,
 						"uuid": 7
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.45",
 						"pos_z": "1.95",
 						"static": true,
 						"uuid": 8
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.9",
 						"pos_z": "-0.975",
 						"uuid": 28
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "Op2",
 						"output": [
 							false,
@@ -226,6 +282,10 @@
 						"uuid": 39
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "Op1",
 						"output": [
 							false,
@@ -236,6 +296,10 @@
 						"uuid": 40
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "Op0",
 						"output": [
 							false,
@@ -246,6 +310,10 @@
 						"uuid": 41
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "S0 (1=+)",
 						"output": [
 							false,
@@ -256,6 +324,10 @@
 						"uuid": 42
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "S1 (1=+)",
 						"output": [
 							false,
@@ -266,6 +338,10 @@
 						"uuid": 43
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "ph4",
 						"output": [
 							false,
@@ -276,6 +352,10 @@
 						"uuid": 44
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "ph3",
 						"output": [
 							false,
@@ -286,6 +366,10 @@
 						"uuid": 45
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "ph2",
 						"output": [
 							false,
@@ -296,6 +380,10 @@
 						"uuid": 46
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "ph1",
 						"output": [
 							false,
@@ -306,6 +394,10 @@
 						"uuid": 47
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "ph0",
 						"output": [
 							false,
@@ -316,78 +408,130 @@
 						"uuid": 48
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.15",
 						"pos_z": "-1.8",
 						"static": true,
 						"uuid": 79
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.15",
 						"pos_z": "2.7",
 						"static": true,
 						"uuid": 80
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "1.95",
 						"pos_z": "2.7",
 						"static": true,
 						"uuid": 81
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "1.95",
 						"pos_z": "-1.8",
 						"static": true,
 						"uuid": 82
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "x,Ph0,S0",
 						"pos_x": "0.4125",
 						"pos_z": "-2.25",
 						"uuid": 83
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "'Lz",
 						"pos_x": "0.7125",
 						"pos_z": "-2.25",
 						"uuid": 84
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "Be->Bg",
 						"pos_x": "1.0125",
 						"pos_z": "-2.25",
 						"uuid": 85
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "b(10^-6)",
 						"pos_x": "1.3125",
 						"pos_z": "-2.25",
 						"uuid": 86
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "''R5 (9)",
 						"pos_x": "1.6125",
 						"pos_z": "-2.25",
 						"uuid": 87
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "''R4 (7)",
 						"pos_x": "1.9125",
 						"pos_z": "-2.25",
 						"uuid": 88
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "Kr. 24 (10)",
 						"pos_x": "1.3125",
 						"pos_z": "-1.35",
 						"uuid": 89
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "Ae (12)",
 						"pos_x": "1.9125",
 						"pos_z": "-1.35",
 						"uuid": 91
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "Ph1",
 						"output": [
 							false,
@@ -398,6 +542,10 @@
 						"uuid": 33
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "μPh",
 						"output": [
 							false,
@@ -408,313 +556,511 @@
 						"uuid": 34
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "u8 (input confirmed)",
 						"output": [
 							false,
 							1
 						],
-						"pos_x": "0.1925",
-						"pos_z": "3.1125",
+						"pos_x": "0.1875",
+						"pos_z": "3.15",
 						"uuid": 35
 					},
 					{
-						"id": "u8",
-						"pos_x": "-0.0937",
-						"pos_z": "3.2938",
-						"uuid": 36
-					},
-					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "d3 (output radix left)",
 						"output": [
 							false,
 							1
 						],
 						"pos_x": "0.4125",
-						"pos_z": "3.1125",
+						"pos_z": "3.15",
 						"uuid": 37
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "u5 (input radix right)",
 						"output": [
 							false,
 							1
 						],
 						"pos_x": "0.7125",
-						"pos_z": "3.1125",
+						"pos_z": "3.15",
 						"uuid": 38
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "u4 (input radix left)",
 						"output": [
 							false,
 							1
 						],
 						"pos_x": "1.0125",
-						"pos_z": "3.1125",
+						"pos_z": "3.15",
 						"uuid": 49
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "d4 (output radix right)",
 						"output": [
 							false,
 							1
 						],
 						"pos_x": "1.6313",
-						"pos_z": "3.1125",
+						"pos_z": "3.15",
 						"uuid": 70
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "μPh",
 						"pos_x": "0.1125",
 						"pos_z": "-2.25",
 						"uuid": 51
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.9",
 						"pos_z": "-0.675",
 						"uuid": 95
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.9",
 						"pos_z": "-0.375",
 						"uuid": 97
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.9",
 						"pos_z": "-0.075",
 						"uuid": 99
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.9",
 						"pos_z": "0.225",
 						"uuid": 101
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.9",
 						"pos_z": "0.825",
 						"uuid": 104
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.9",
 						"pos_z": "0.525",
 						"uuid": 106
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.9",
 						"pos_z": "1.125",
 						"uuid": 108
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.9",
 						"pos_z": "1.725",
 						"uuid": 110
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.9",
 						"pos_z": "1.425",
 						"uuid": 112
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.675",
 						"pos_z": "1.875",
 						"uuid": 113
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.675",
 						"pos_z": "1.575",
 						"uuid": 115
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.675",
 						"pos_z": "1.275",
 						"uuid": 117
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.675",
 						"pos_z": "0.975",
 						"uuid": 119
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.675",
 						"pos_z": "0.675",
 						"uuid": 121
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.675",
 						"pos_z": "0.375",
 						"uuid": 123
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.675",
 						"pos_z": "0.075",
 						"uuid": 125
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.675",
 						"pos_z": "-0.225",
 						"uuid": 128
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.675",
 						"pos_z": "-0.525",
 						"uuid": 129
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.675",
 						"pos_z": "-0.825",
 						"uuid": 137
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "1.8",
 						"pos_z": "2.4",
 						"static": true,
 						"uuid": 19
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "1.8",
 						"pos_z": "3.",
 						"static": true,
 						"uuid": 20
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "1.2",
 						"pos_z": "3.",
 						"static": true,
 						"uuid": 155
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "1.2",
 						"pos_z": "2.4",
 						"static": true,
 						"uuid": 156
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.3",
 						"pos_z": "3.",
 						"static": true,
 						"uuid": 157
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.3",
 						"pos_z": "2.4",
 						"static": true,
 						"uuid": 159
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.9",
 						"pos_z": "2.4",
 						"static": true,
 						"uuid": 160
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.9",
 						"pos_z": "3.",
 						"static": true,
 						"uuid": 161
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.6",
 						"pos_z": "3.",
 						"static": true,
 						"uuid": 162
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.6",
 						"pos_z": "2.4",
 						"static": true,
 						"uuid": 163
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "1.5",
 						"pos_z": "2.4",
 						"static": true,
 						"uuid": 164
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "1.5",
 						"pos_z": "3.",
 						"static": true,
 						"uuid": 165
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.3188",
 						"pos_z": "-1.5",
 						"static": true,
 						"uuid": 166
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.6188",
 						"pos_z": "-1.5",
 						"static": true,
 						"uuid": 167
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.9",
 						"pos_z": "-1.5",
 						"static": true,
 						"uuid": 168
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "1.2",
 						"pos_z": "-1.5",
 						"static": true,
 						"uuid": 169
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "1.5",
 						"pos_z": "-1.5",
 						"static": true,
 						"uuid": 170
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "1.8",
 						"pos_z": "-1.5",
 						"static": true,
 						"uuid": 171
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "1.8",
 						"pos_z": "-2.1",
 						"static": true,
 						"uuid": 172
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "1.5",
 						"pos_z": "-2.1",
 						"static": true,
 						"uuid": 173
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "1.2",
 						"pos_z": "-2.1",
 						"static": true,
 						"uuid": 174
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.9",
 						"pos_z": "-2.1",
 						"static": true,
 						"uuid": 175
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.6188",
 						"pos_z": "-2.1",
 						"static": true,
 						"uuid": 176
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"pos_x": "0.3188",
 						"pos_z": "-2.1",
 						"static": true,
 						"uuid": 177
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "u6 (10)",
 						"pos_x": "1.8",
 						"pos_z": "-0.8575",
 						"uuid": 488
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "u7 (input radix at -6)",
 						"output": [
 							false,
@@ -725,34 +1071,54 @@
 						"uuid": 489
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "d0 (5)",
 						"pos_x": "1.2563",
 						"pos_z": "-0.75",
 						"uuid": 490
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "Kr. 24 (10)",
 						"pos_x": "1.6125",
 						"pos_z": "2.25",
 						"uuid": 491
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "Kr. 43",
 						"pos_x": "1.9125",
 						"pos_z": "2.25",
 						"uuid": 492
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "d1 (write output digit)",
 						"output": [
 							false,
 							1
 						],
 						"pos_x": "1.9313",
-						"pos_z": "3.1125",
+						"pos_z": "3.15",
 						"uuid": 493
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "u6 (input radix at 0 or -6)",
 						"output": [
 							false,
@@ -763,11 +1129,19 @@
 						"uuid": 494
 					},
 					{
-						"pos_x": "0.3938",
-						"pos_z": "3.3988",
+						"bounds": [
+							1,
+							14
+						],
+						"pos_x": "0.3563",
+						"pos_z": "3.3938",
 						"uuid": 603
 					},
 					{
+						"bounds": [
+							1,
+							14
+						],
 						"id": "d0 (display cleared)",
 						"output": [
 							false,
@@ -779,8 +1153,8 @@
 					},
 					{
 						"bounds": [
-							0,
-							5
+							1,
+							6
 						],
 						"id": "u2 (next input digit)",
 						"output": [
@@ -788,7 +1162,7 @@
 							1
 						],
 						"pos_x": "1.3313",
-						"pos_z": "3.1125",
+						"pos_z": "3.15",
 						"uuid": 667
 					}
 				],
@@ -801,27 +1175,18 @@
 									0,
 									0
 								],
-								"pos_x": "1.65",
-								"pos_z": "2.0438",
-								"uuid": 628
+								"pos_x": "0.75",
+								"pos_z": "2.9625",
+								"uuid": 798
 							},
 							{
 								"bounds": [
 									0,
 									0
 								],
-								"pos_x": "1.35",
-								"pos_z": "-1.1438",
-								"uuid": 632
-							},
-							{
-								"bounds": [
-									0,
-									0
-								],
-								"pos_x": "1.95",
-								"pos_z": "2.0438",
-								"uuid": 633
+								"pos_x": "1.05",
+								"pos_z": "2.9625",
+								"uuid": 804
 							},
 							{
 								"bounds": [
@@ -830,12 +1195,74 @@
 								],
 								"pos_x": "0.15",
 								"pos_z": "3.3563",
-								"uuid": 662
+								"uuid": 808
+							}
+						],
+						"height": 0,
+						"pins": [
+							{
+								"id": "u5",
+								"pos_x": "0.5438",
+								"pos_z": "2.9063",
+								"uuid": 797
+							},
+							{
+								"id": "u4",
+								"pos_x": "0.8438",
+								"pos_z": "2.9063",
+								"uuid": 800
+							},
+							{
+								"id": "u8",
+								"pos_x": "-0.0562",
+								"pos_z": "3.3188",
+								"uuid": 807
+							}
+						],
+						"sheets": []
+					},
+					{
+						"arms": [
+							{
+								"bounds": [
+									1,
+									1
+								],
+								"pos_x": "1.65",
+								"pos_z": "2.0438",
+								"uuid": 628
+							},
+							{
+								"bounds": [
+									1,
+									1
+								],
+								"pos_x": "1.35",
+								"pos_z": "-1.1438",
+								"uuid": 632
+							},
+							{
+								"bounds": [
+									1,
+									1
+								],
+								"pos_x": "1.95",
+								"pos_z": "2.0438",
+								"uuid": 633
 							},
 							{
 								"bounds": [
 									0,
-									0
+									1
+								],
+								"pos_x": "0.15",
+								"pos_z": "3.3563",
+								"uuid": 662
+							},
+							{
+								"bounds": [
+									1,
+									1
 								],
 								"pos_x": "1.95",
 								"pos_z": "3.45",
@@ -843,15 +1270,33 @@
 							},
 							{
 								"bounds": [
-									0,
-									0
+									1,
+									1
 								],
 								"pos_x": "1.2938",
 								"pos_z": "3.45",
 								"uuid": 665
+							},
+							{
+								"bounds": [
+									0,
+									1
+								],
+								"pos_x": "0.75",
+								"pos_z": "2.9625",
+								"uuid": 805
+							},
+							{
+								"bounds": [
+									0,
+									1
+								],
+								"pos_x": "1.05",
+								"pos_z": "2.9625",
+								"uuid": 806
 							}
 						],
-						"height": 0,
+						"height": 1,
 						"pins": [
 							{
 								"id": "Kr. 43 (9)",
@@ -861,7 +1306,7 @@
 							},
 							{
 								"id": "d1",
-								"pos_x": "1.6125",
+								"pos_x": "1.65",
 								"pos_z": "3.4688",
 								"uuid": 114
 							},
@@ -1397,7 +1842,7 @@
 						]
 					},
 					{
-						"height": 1,
+						"height": 2,
 						"pins": [],
 						"sheets": [
 							{
@@ -1510,7 +1955,7 @@
 						]
 					},
 					{
-						"height": 2,
+						"height": 3,
 						"id": "1",
 						"pins": [
 							{
@@ -1891,7 +2336,7 @@
 						]
 					},
 					{
-						"height": 3,
+						"height": 4,
 						"id": "2",
 						"pins": [
 							{
@@ -2433,7 +2878,7 @@
 						]
 					},
 					{
-						"height": 4,
+						"height": 5,
 						"id": "3",
 						"pins": [
 							{
@@ -2956,7 +3401,7 @@
 						]
 					},
 					{
-						"height": 5,
+						"height": 6,
 						"id": "4",
 						"pins": [
 							{
@@ -3540,7 +3985,7 @@
 						]
 					},
 					{
-						"height": 6,
+						"height": 7,
 						"id": "5",
 						"pins": [
 							{
@@ -4305,7 +4750,7 @@
 						]
 					},
 					{
-						"height": 7,
+						"height": 8,
 						"id": "6",
 						"pins": [
 							{
@@ -4960,7 +5405,7 @@
 						]
 					},
 					{
-						"height": 8,
+						"height": 9,
 						"id": "7",
 						"pins": [
 							{
@@ -5767,7 +6212,7 @@
 						]
 					},
 					{
-						"height": 9,
+						"height": 10,
 						"id": "8",
 						"pins": [
 							{
@@ -6449,7 +6894,7 @@
 						]
 					},
 					{
-						"height": 10,
+						"height": 11,
 						"id": "9",
 						"pins": [
 							{
@@ -7214,7 +7659,7 @@
 						]
 					},
 					{
-						"height": 11,
+						"height": 12,
 						"id": "10",
 						"pins": [
 							{
@@ -7904,7 +8349,7 @@
 						]
 					},
 					{
-						"height": 12,
+						"height": 13,
 						"id": "11",
 						"pins": [
 							{
@@ -8313,7 +8758,7 @@
 						]
 					},
 					{
-						"height": 13,
+						"height": 14,
 						"id": "12",
 						"pins": [
 							{
@@ -9110,6 +9555,36 @@
 				],
 				"relations": [
 					{
+						"A": 797,
+						"B": 798,
+						"type": "arm"
+					},
+					{
+						"A": 800,
+						"B": 804,
+						"type": "arm"
+					},
+					{
+						"A": 807,
+						"B": 808,
+						"type": "arm"
+					},
+					{
+						"A": 805,
+						"B": 798,
+						"type": "link"
+					},
+					{
+						"A": 804,
+						"B": 806,
+						"type": "link"
+					},
+					{
+						"A": 808,
+						"B": 662,
+						"type": "link"
+					},
+					{
 						"A": 504,
 						"B": 505,
 						"type": "link"
@@ -9140,6 +9615,11 @@
 						"type": "arm"
 					},
 					{
+						"A": 664,
+						"B": 665,
+						"type": "arm"
+					},
+					{
 						"A": 491,
 						"B": 628,
 						"type": "arm"
@@ -9165,18 +9645,8 @@
 						"type": "arm"
 					},
 					{
-						"A": 36,
-						"B": 662,
-						"type": "arm"
-					},
-					{
 						"A": 493,
 						"B": 663,
-						"type": "arm"
-					},
-					{
-						"A": 664,
-						"B": 665,
 						"type": "arm"
 					},
 					{
@@ -9185,27 +9655,37 @@
 						"type": "arm"
 					},
 					{
+						"A": 38,
+						"B": 805,
+						"type": "arm"
+					},
+					{
+						"A": 49,
+						"B": 806,
+						"type": "arm"
+					},
+					{
 						"A": 9,
 						"B": 1,
-						"restLength": 1.08171737194061,
+						"restLength": 1.17563283443451,
 						"type": "spring"
 					},
 					{
 						"A": 2,
 						"B": 10,
-						"restLength": 1.08395731449127,
+						"restLength": 1.17769408226013,
 						"type": "spring"
 					},
 					{
 						"A": 139,
 						"B": 10,
-						"restLength": 1.10258257389069,
+						"restLength": 1.20236778259277,
 						"type": "spring"
 					},
 					{
 						"A": 140,
 						"B": 9,
-						"restLength": 1.1003805398941,
+						"restLength": 1.20034885406494,
 						"type": "spring"
 					},
 					{
@@ -9251,49 +9731,49 @@
 					{
 						"A": 12,
 						"B": 10,
-						"restLength": 1.27361226081848,
+						"restLength": 1.40715610980988,
 						"type": "spring"
 					},
 					{
 						"A": 148,
 						"B": 10,
-						"restLength": 1.3021764755249,
+						"restLength": 1.43932735919952,
 						"type": "spring"
 					},
 					{
 						"A": 149,
 						"B": 10,
-						"restLength": 1.33164870738983,
+						"restLength": 1.47217130661011,
 						"type": "spring"
 					},
 					{
 						"A": 150,
 						"B": 10,
-						"restLength": 1.3619704246521,
+						"restLength": 1.50564384460449,
 						"type": "spring"
 					},
 					{
 						"A": 151,
 						"B": 9,
-						"restLength": 1.27170646190643,
+						"restLength": 1.40543138980865,
 						"type": "spring"
 					},
 					{
 						"A": 152,
 						"B": 9,
-						"restLength": 1.3003123998642,
+						"restLength": 1.43764126300812,
 						"type": "spring"
 					},
 					{
 						"A": 153,
 						"B": 9,
-						"restLength": 1.32982611656189,
+						"restLength": 1.4705228805542,
 						"type": "spring"
 					},
 					{
 						"A": 154,
 						"B": 9,
-						"restLength": 1.36018836498261,
+						"restLength": 1.50403213500977,
 						"type": "spring"
 					},
 					{
@@ -9339,43 +9819,43 @@
 					{
 						"A": 178,
 						"B": 10,
-						"restLength": 1.52828764915466,
+						"restLength": 1.68513000011444,
 						"type": "spring"
 					},
 					{
 						"A": 203,
 						"B": 10,
-						"restLength": 1.56271827220917,
+						"restLength": 1.72165286540985,
 						"type": "spring"
 					},
 					{
 						"A": 204,
 						"B": 9,
-						"restLength": 1.52669990062714,
+						"restLength": 1.68369019031525,
 						"type": "spring"
 					},
 					{
 						"A": 205,
 						"B": 9,
-						"restLength": 1.56116545200348,
+						"restLength": 1.72024345397949,
 						"type": "spring"
 					},
 					{
 						"A": 206,
 						"B": 9,
-						"restLength": 1.59615552425385,
+						"restLength": 1.75718879699707,
 						"type": "spring"
 					},
 					{
 						"A": 207,
 						"B": 9,
-						"restLength": 1.63163650035858,
+						"restLength": 1.79450213909149,
 						"type": "spring"
 					},
 					{
 						"A": 981,
 						"B": 10,
-						"restLength": 1.59767425060272,
+						"restLength": 1.75856852531433,
 						"type": "spring"
 					},
 					{
@@ -9421,55 +9901,55 @@
 					{
 						"A": 208,
 						"B": 9,
-						"restLength": 1.81957066059113,
+						"restLength": 1.99018526077271,
 						"type": "spring"
 					},
 					{
 						"A": 209,
 						"B": 10,
-						"restLength": 1.82090306282043,
+						"restLength": 1.99140357971191,
 						"type": "spring"
 					},
 					{
 						"A": 310,
 						"B": 10,
-						"restLength": 1.8587532043457,
+						"restLength": 2.03050827980042,
 						"type": "spring"
 					},
 					{
 						"A": 311,
 						"B": 10,
-						"restLength": 1.89691543579102,
+						"restLength": 2.06985235214233,
 						"type": "spring"
 					},
 					{
 						"A": 312,
 						"B": 10,
-						"restLength": 1.93537163734436,
+						"restLength": 2.10942268371582,
 						"type": "spring"
 					},
 					{
 						"A": 313,
 						"B": 9,
-						"restLength": 1.85744786262512,
+						"restLength": 2.02931332588196,
 						"type": "spring"
 					},
 					{
 						"A": 314,
 						"B": 9,
-						"restLength": 1.89563643932343,
+						"restLength": 2.06868004798889,
 						"type": "spring"
 					},
 					{
 						"A": 315,
 						"B": 9,
-						"restLength": 1.93411803245544,
+						"restLength": 2.10827255249023,
 						"type": "spring"
 					},
 					{
 						"A": 648,
 						"B": 10,
-						"restLength": 1.97410440444946,
+						"restLength": 2.1492063999176,
 						"type": "spring"
 					},
 					{
@@ -9515,73 +9995,73 @@
 					{
 						"A": 237,
 						"B": 9,
-						"restLength": 2.1347861289978,
+						"restLength": 2.31372284889221,
 						"type": "spring"
 					},
 					{
 						"A": 238,
 						"B": 10,
-						"restLength": 2.13592219352722,
+						"restLength": 2.31477093696594,
 						"type": "spring"
 					},
 					{
 						"A": 340,
 						"B": 10,
-						"restLength": 2.17584204673767,
+						"restLength": 2.35548067092896,
 						"type": "spring"
 					},
 					{
 						"A": 341,
 						"B": 10,
-						"restLength": 2.21595644950867,
+						"restLength": 2.39634394645691,
 						"type": "spring"
 					},
 					{
 						"A": 342,
 						"B": 10,
-						"restLength": 2.25625562667847,
+						"restLength": 2.43735289573669,
 						"type": "spring"
 					},
 					{
 						"A": 343,
 						"B": 10,
-						"restLength": 2.29672884941101,
+						"restLength": 2.47850012779236,
 						"type": "spring"
 					},
 					{
 						"A": 344,
 						"B": 10,
-						"restLength": 2.33736801147461,
+						"restLength": 2.51977944374084,
 						"type": "spring"
 					},
 					{
 						"A": 346,
 						"B": 9,
-						"restLength": 2.21486163139343,
+						"restLength": 2.39533138275146,
 						"type": "spring"
 					},
 					{
 						"A": 347,
 						"B": 9,
-						"restLength": 2.25518035888672,
+						"restLength": 2.43635749816895,
 						"type": "spring"
 					},
 					{
 						"A": 348,
 						"B": 9,
-						"restLength": 2.29567241668701,
+						"restLength": 2.47752141952515,
 						"type": "spring"
 					},
 					{
 						"A": 854,
 						"B": 9,
-						"restLength": 2.17472696304321,
+						"restLength": 2.35445070266724,
 						"type": "spring"
 					},
 					{
 						"A": 964,
 						"B": 10,
-						"restLength": 2.37816405296326,
+						"restLength": 2.56118416786194,
 						"type": "spring"
 					},
 					{
@@ -9632,61 +10112,61 @@
 					{
 						"A": 316,
 						"B": 9,
-						"restLength": 2.46378540992737,
+						"restLength": 2.64806318283081,
 						"type": "spring"
 					},
 					{
 						"A": 317,
 						"B": 10,
-						"restLength": 2.4647696018219,
+						"restLength": 2.64897894859314,
 						"type": "spring"
 					},
 					{
 						"A": 373,
 						"B": 10,
-						"restLength": 2.50600552558899,
+						"restLength": 2.6907365322113,
 						"type": "spring"
 					},
 					{
 						"A": 374,
 						"B": 10,
-						"restLength": 2.5473690032959,
+						"restLength": 2.7325975894928,
 						"type": "spring"
 					},
 					{
 						"A": 375,
 						"B": 9,
-						"restLength": 2.50503730773926,
+						"restLength": 2.68983507156372,
 						"type": "spring"
 					},
 					{
 						"A": 376,
 						"B": 9,
-						"restLength": 2.54641652107239,
+						"restLength": 2.73170971870422,
 						"type": "spring"
 					},
 					{
 						"A": 593,
 						"B": 9,
-						"restLength": 2.5879168510437,
+						"restLength": 2.77368235588074,
 						"type": "spring"
 					},
 					{
 						"A": 605,
 						"B": 9,
-						"restLength": 2.62953186035156,
+						"restLength": 2.8157479763031,
 						"type": "spring"
 					},
 					{
 						"A": 606,
 						"B": 9,
-						"restLength": 2.67125678062439,
+						"restLength": 2.85790371894836,
 						"type": "spring"
 					},
 					{
 						"A": 607,
 						"B": 9,
-						"restLength": 2.71308636665344,
+						"restLength": 2.90014457702637,
 						"type": "spring"
 					},
 					{
@@ -9732,79 +10212,79 @@
 					{
 						"A": 349,
 						"B": 9,
-						"restLength": 2.80171608924866,
+						"restLength": 2.98958420753479,
 						"type": "spring"
 					},
 					{
 						"A": 350,
 						"B": 10,
-						"restLength": 2.80258178710938,
+						"restLength": 2.99039554595947,
 						"type": "spring"
 					},
 					{
 						"A": 402,
 						"B": 10,
-						"restLength": 2.88689517974854,
+						"restLength": 3.07541275024414,
 						"type": "spring"
 					},
 					{
 						"A": 403,
 						"B": 10,
-						"restLength": 2.9291787147522,
+						"restLength": 3.11802649497986,
 						"type": "spring"
 					},
 					{
 						"A": 404,
 						"B": 10,
-						"restLength": 2.97154211997986,
+						"restLength": 3.16070604324341,
 						"type": "spring"
 					},
 					{
 						"A": 405,
 						"B": 9,
-						"restLength": 2.84384202957153,
+						"restLength": 3.03206825256348,
 						"type": "spring"
 					},
 					{
 						"A": 406,
 						"B": 9,
-						"restLength": 2.8860547542572,
+						"restLength": 3.07462406158447,
 						"type": "spring"
 					},
 					{
 						"A": 407,
 						"B": 9,
-						"restLength": 2.92835068702698,
+						"restLength": 3.11724853515625,
 						"type": "spring"
 					},
 					{
 						"A": 408,
 						"B": 9,
-						"restLength": 2.97072601318359,
+						"restLength": 3.15993857383728,
 						"type": "spring"
 					},
 					{
 						"A": 409,
 						"B": 9,
-						"restLength": 3.01317739486694,
+						"restLength": 3.20269227027893,
 						"type": "spring"
 					},
 					{
 						"A": 410,
 						"B": 9,
-						"restLength": 3.0557017326355,
+						"restLength": 3.24550652503967,
 						"type": "spring"
 					},
 					{
 						"A": 853,
 						"B": 10,
-						"restLength": 2.8446946144104,
+						"restLength": 3.03286790847778,
 						"type": "spring"
 					},
 					{
 						"A": 517,
 						"B": 9,
-						"restLength": 3.09829568862915,
+						"restLength": 3.28837919235229,
 						"type": "spring"
 					},
 					{
@@ -9850,61 +10330,61 @@
 					{
 						"A": 377,
 						"B": 9,
-						"restLength": 3.2312285900116,
+						"restLength": 3.42211031913757,
 						"type": "spring"
 					},
 					{
 						"A": 378,
 						"B": 10,
-						"restLength": 3.18919491767883,
+						"restLength": 3.37978768348694,
 						"type": "spring"
 					},
 					{
 						"A": 281,
 						"B": 10,
-						"restLength": 3.23197889328003,
+						"restLength": 3.42281889915466,
 						"type": "spring"
 					},
 					{
 						"A": 282,
 						"B": 10,
-						"restLength": 3.31772351264954,
+						"restLength": 3.50902962684631,
 						"type": "spring"
 					},
 					{
 						"A": 283,
 						"B": 10,
-						"restLength": 3.36067891120911,
+						"restLength": 3.55220532417297,
 						"type": "spring"
 					},
 					{
 						"A": 284,
 						"B": 10,
-						"restLength": 3.40368747711182,
+						"restLength": 3.59542608261108,
 						"type": "spring"
 					},
 					{
 						"A": 285,
 						"B": 9,
-						"restLength": 3.1884343624115,
+						"restLength": 3.37907004356384,
 						"type": "spring"
 					},
 					{
 						"A": 135,
 						"B": 10,
-						"restLength": 3.27482271194458,
+						"restLength": 3.465900182724,
 						"type": "spring"
 					},
 					{
 						"A": 626,
 						"B": 10,
-						"restLength": 3.44674682617188,
+						"restLength": 3.63868999481201,
 						"type": "spring"
 					},
 					{
 						"A": 647,
 						"B": 10,
-						"restLength": 3.48985528945923,
+						"restLength": 3.68199515342712,
 						"type": "spring"
 					},
 					{
@@ -9950,85 +10430,85 @@
 					{
 						"A": 185,
 						"B": 9,
-						"restLength": 3.66689419746399,
+						"restLength": 3.85980749130249,
 						"type": "spring"
 					},
 					{
 						"A": 186,
 						"B": 10,
-						"restLength": 3.66755557060242,
+						"restLength": 3.86043572425842,
 						"type": "spring"
 					},
 					{
 						"A": 412,
 						"B": 9,
-						"restLength": 3.71023416519165,
+						"restLength": 3.90331125259399,
 						"type": "spring"
 					},
 					{
 						"A": 413,
 						"B": 9,
-						"restLength": 3.75361323356628,
+						"restLength": 3.94684863090515,
 						"type": "spring"
 					},
 					{
 						"A": 414,
 						"B": 10,
-						"restLength": 3.71088767051697,
+						"restLength": 3.90393233299255,
 						"type": "spring"
 					},
 					{
 						"A": 415,
 						"B": 10,
-						"restLength": 3.75425934791565,
+						"restLength": 3.9474630355835,
 						"type": "spring"
 					},
 					{
 						"A": 416,
 						"B": 10,
-						"restLength": 3.79766893386841,
+						"restLength": 3.9910261631012,
 						"type": "spring"
 					},
 					{
 						"A": 417,
 						"B": 10,
-						"restLength": 3.84111475944519,
+						"restLength": 4.03462076187134,
 						"type": "spring"
 					},
 					{
 						"A": 418,
 						"B": 10,
-						"restLength": 3.88459634780884,
+						"restLength": 4.07824611663818,
 						"type": "spring"
 					},
 					{
 						"A": 419,
 						"B": 10,
-						"restLength": 3.9281120300293,
+						"restLength": 4.12190055847168,
 						"type": "spring"
 					},
 					{
 						"A": 50,
 						"B": 9,
-						"restLength": 3.797030210495,
+						"restLength": 3.99041843414307,
 						"type": "spring"
 					},
 					{
 						"A": 615,
 						"B": 10,
-						"restLength": 3.97166085243225,
+						"restLength": 4.16558408737183,
 						"type": "spring"
 					},
 					{
 						"A": 100,
 						"B": 9,
-						"restLength": 3.84048342704773,
+						"restLength": 4.03401947021484,
 						"type": "spring"
 					},
 					{
 						"A": 496,
 						"B": 9,
-						"restLength": 3.88397192955017,
+						"restLength": 4.07765102386475,
 						"type": "spring"
 					},
 					{
@@ -10074,61 +10554,61 @@
 					{
 						"A": 287,
 						"B": 9,
-						"restLength": 4.10675525665283,
+						"restLength": 4.30109786987305,
 						"type": "spring"
 					},
 					{
 						"A": 288,
 						"B": 10,
-						"restLength": 4.10734558105469,
+						"restLength": 4.30166149139404,
 						"type": "spring"
 					},
 					{
 						"A": 444,
 						"B": 10,
-						"restLength": 4.06370115280151,
+						"restLength": 4.25789451599121,
 						"type": "spring"
 					},
 					{
 						"A": 445,
 						"B": 9,
-						"restLength": 4.06310415267944,
+						"restLength": 4.25732469558716,
 						"type": "spring"
 					},
 					{
 						"A": 635,
 						"B": 10,
-						"restLength": 4.15101957321167,
+						"restLength": 4.34545373916626,
 						"type": "spring"
 					},
 					{
 						"A": 638,
 						"B": 10,
-						"restLength": 4.19472169876099,
+						"restLength": 4.38926982879639,
 						"type": "spring"
 					},
 					{
 						"A": 639,
 						"B": 10,
-						"restLength": 4.23845100402832,
+						"restLength": 4.43310976028442,
 						"type": "spring"
 					},
 					{
 						"A": 640,
 						"B": 9,
-						"restLength": 4.15043544769287,
+						"restLength": 4.344895362854,
 						"type": "spring"
 					},
 					{
 						"A": 641,
 						"B": 9,
-						"restLength": 4.19414329528809,
+						"restLength": 4.38871717453003,
 						"type": "spring"
 					},
 					{
 						"A": 642,
 						"B": 9,
-						"restLength": 4.23787879943848,
+						"restLength": 4.43256282806396,
 						"type": "spring"
 					},
 					{
@@ -10174,31 +10654,31 @@
 					{
 						"A": 420,
 						"B": 9,
-						"restLength": 4.46180629730225,
+						"restLength": 4.65700674057007,
 						"type": "spring"
 					},
 					{
 						"A": 421,
 						"B": 10,
-						"restLength": 4.4623498916626,
+						"restLength": 4.65752744674683,
 						"type": "spring"
 					},
 					{
 						"A": 470,
 						"B": 9,
-						"restLength": 4.50568962097168,
+						"restLength": 4.70098257064819,
 						"type": "spring"
 					},
 					{
 						"A": 471,
 						"B": 9,
-						"restLength": 4.54959535598755,
+						"restLength": 4.7449779510498,
 						"type": "spring"
 					},
 					{
 						"A": 472,
 						"B": 10,
-						"restLength": 4.50622797012329,
+						"restLength": 4.70149850845337,
 						"type": "spring"
 					},
 					{
@@ -10244,79 +10724,79 @@
 					{
 						"A": 446,
 						"B": 9,
-						"restLength": 4.73031091690063,
+						"restLength": 4.9260368347168,
 						"type": "spring"
 					},
 					{
 						"A": 447,
 						"B": 10,
-						"restLength": 4.7308235168457,
+						"restLength": 4.92652940750122,
 						"type": "spring"
 					},
 					{
 						"A": 473,
 						"B": 9,
-						"restLength": 4.77431869506836,
+						"restLength": 4.97012233734131,
 						"type": "spring"
 					},
 					{
 						"A": 474,
 						"B": 9,
-						"restLength": 4.8183445930481,
+						"restLength": 5.0142240524292,
 						"type": "spring"
 					},
 					{
 						"A": 475,
 						"B": 10,
-						"restLength": 4.77482652664185,
+						"restLength": 4.97061014175415,
 						"type": "spring"
 					},
 					{
 						"A": 476,
 						"B": 9,
-						"restLength": 4.90644884109497,
+						"restLength": 5.10247373580933,
 						"type": "spring"
 					},
 					{
 						"A": 942,
 						"B": 9,
-						"restLength": 4.86238765716553,
+						"restLength": 5.05834102630615,
 						"type": "spring"
 					},
 					{
 						"A": 649,
 						"B": 10,
-						"restLength": 4.81884765625,
+						"restLength": 5.01470756530762,
 						"type": "spring"
 					},
 					{
 						"A": 654,
 						"B": 10,
-						"restLength": 4.86288642883301,
+						"restLength": 5.05882024765015,
 						"type": "spring"
 					},
 					{
 						"A": 655,
 						"B": 10,
-						"restLength": 4.90694332122803,
+						"restLength": 5.10294914245605,
 						"type": "spring"
 					},
 					{
 						"A": 138,
 						"B": 9,
-						"restLength": 4.95052671432495,
+						"restLength": 5.14662170410156,
 						"type": "spring"
 					},
 					{
 						"A": 625,
 						"B": 9,
-						"restLength": 4.99462127685547,
+						"restLength": 5.19078397750854,
 						"type": "spring"
 					},
 					{
 						"A": 636,
 						"B": 9,
-						"restLength": 5.03873157501221,
+						"restLength": 5.23496103286743,
 						"type": "spring"
 					},
 					{
