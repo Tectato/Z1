@@ -171,39 +171,6 @@
 					},
 					{
 						"active": false,
-						"forwardStep": 2,
-						"id": "R23",
-						"input": false,
-						"pos_x": "-0.0938",
-						"pos_z": "-1.8",
-						"pulsing": true,
-						"rotation": 1,
-						"uuid": 130
-					},
-					{
-						"active": false,
-						"forwardStep": 2,
-						"id": "R23",
-						"input": false,
-						"pos_x": "-0.0938",
-						"pos_z": "2.7",
-						"pulsing": true,
-						"rotation": 1,
-						"uuid": 131
-					},
-					{
-						"active": false,
-						"forwardStep": 0,
-						"id": "R22",
-						"input": false,
-						"pos_x": "1.05",
-						"pos_z": "3.4875",
-						"pulsing": true,
-						"rotation": 2,
-						"uuid": 132
-					},
-					{
-						"active": false,
 						"forwardStep": 3,
 						"id": "R24",
 						"input": false,
@@ -443,24 +410,6 @@
 						"pos_z": "-4.35",
 						"static": true,
 						"uuid": 76
-					},
-					{
-						"pos_x": "0.15",
-						"pos_z": "-1.8",
-						"static": true,
-						"uuid": 79
-					},
-					{
-						"pos_x": "0.15",
-						"pos_z": "2.7",
-						"static": true,
-						"uuid": 80
-					},
-					{
-						"pos_x": "1.95",
-						"pos_z": "2.7",
-						"static": true,
-						"uuid": 81
 					},
 					{
 						"id": "x,Ph0,S0",
@@ -751,48 +700,6 @@
 						"pos_x": "-0.1738",
 						"pos_z": "2.25",
 						"uuid": 34
-					},
-					{
-						"id": "u8",
-						"pos_x": "0.075",
-						"pos_z": "3.1688",
-						"uuid": 35
-					},
-					{
-						"id": "u8",
-						"pos_x": "-0.0375",
-						"pos_z": "3.4313",
-						"uuid": 36
-					},
-					{
-						"id": "d3",
-						"pos_x": "0.375",
-						"pos_z": "3.1688",
-						"uuid": 37
-					},
-					{
-						"id": "u5",
-						"pos_x": "0.6938",
-						"pos_z": "3.1688",
-						"uuid": 38
-					},
-					{
-						"id": "u4",
-						"pos_x": "0.9938",
-						"pos_z": "3.1688",
-						"uuid": 49
-					},
-					{
-						"id": "u2",
-						"pos_x": "1.2938",
-						"pos_z": "3.1688",
-						"uuid": 50
-					},
-					{
-						"id": "d4",
-						"pos_x": "1.5938",
-						"pos_z": "3.1688",
-						"uuid": 70
 					},
 					{
 						"id": "μPh",
