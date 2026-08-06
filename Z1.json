@@ -225,13 +225,6 @@
 					"708503": {
 						"machines": {
 							"518848": {
-								"86": {
-									"output": [
-										false,
-										false,
-										2
-									]
-								},
 								"1270": {
 									"pos_x": "-0.4594",
 									"pos_z": "-1.6299",
@@ -482,13 +475,13 @@
 						"uuid_override": 607114
 					}
 				],
-				"uuid_override": 636802
+				"uuid_override": 57615
 			},
 			"path": "Z1MemoryFull.json",
-			"pos_x": "5.5875",
+			"pos_x": "4.7813",
 			"pos_y": "0.",
-			"pos_z": "-4.8",
-			"uuid": 636802
+			"pos_z": "-4.7813",
+			"uuid": 57615
 		},
 		{
 			"diff": {
@@ -496,14 +489,6 @@
 					"-1": {
 						"machines": {
 							"584863": {
-								"31": {
-									"pos_x": "1.125",
-									"pos_z": "2.3488"
-								},
-								"32": {
-									"pos_x": "1.125",
-									"pos_z": "2.2925"
-								},
 								"33": {
 									"output": [
 										false,
@@ -517,10 +502,6 @@
 										false,
 										1
 									]
-								},
-								"68": {
-									"pos_x": "1.4913",
-									"pos_z": "2.9675"
 								},
 								"84": {
 									"output": [
@@ -543,44 +524,12 @@
 										1
 									]
 								},
-								"451": {
-									"output": [
-										true,
-										true,
-										2
-									],
-									"pos_x": "1.5",
-									"pos_z": "3.4925"
-								},
-								"490": {
-									"pos_x": "1.2563",
-									"pos_z": "-0.67"
-								},
-								"535": {
-									"pos_x": "1.4438",
-									"pos_z": "2.8925"
-								},
-								"576": {
-									"output": [
-										true,
-										false,
-										0
-									]
-								},
 								"937": {
 									"output": [
 										true,
 										false,
 										0
 									]
-								},
-								"966": {
-									"pos_x": "1.2063",
-									"pos_z": "-1.42"
-								},
-								"972": {
-									"pos_x": "1.1625",
-									"pos_z": "-1.5888"
 								}
 							}
 						}
@@ -614,13 +563,13 @@
 
 					}
 				],
-				"uuid_override": 761438
+				"uuid_override": 484810
 			},
 			"path": "Z1Rechenwerk.json",
-			"pos_x": "-1.0688",
+			"pos_x": "-2.0625",
 			"pos_y": "0.",
-			"pos_z": "2.1",
-			"uuid": 761438
+			"pos_z": "2.1188",
+			"uuid": 484810
 		}
 	],
 	"programs": [
@@ -1396,6 +1345,125 @@
 			"AParent": 570719,
 			"B": 1420,
 			"BParent": 22824,
+			"type": "link"
+		},
+		{
+			"A": 95,
+			"AParent": 74255,
+			"B": 95,
+			"BParent": 55247,
+			"type": "link"
+		},
+		{
+			"A": 94,
+			"AParent": 55247,
+			"B": 94,
+			"BParent": 74255,
+			"type": "link"
+		},
+		{
+			"A": 86,
+			"AParent": 55247,
+			"B": 86,
+			"BParent": 74255,
+			"type": "link"
+		},
+		{
+			"A": 85,
+			"AParent": 55247,
+			"B": 85,
+			"BParent": 74255,
+			"type": "link"
+		},
+		{
+			"A": 84,
+			"AParent": 55247,
+			"B": 84,
+			"BParent": 74255,
+			"type": "link"
+		},
+		{
+			"A": 83,
+			"AParent": 55247,
+			"B": 83,
+			"BParent": 74255,
+			"type": "link"
+		},
+		{
+			"A": 82,
+			"AParent": 55247,
+			"B": 82,
+			"BParent": 74255,
+			"type": "link"
+		},
+		{
+			"A": 74,
+			"AParent": 74255,
+			"B": 74,
+			"BParent": 55247,
+			"type": "link"
+		},
+		{
+			"A": 70,
+			"AParent": 55247,
+			"B": 70,
+			"BParent": 74255,
+			"type": "link"
+		},
+		{
+			"A": 71,
+			"AParent": 55247,
+			"B": 71,
+			"BParent": 74255,
+			"type": "link"
+		},
+		{
+			"A": 72,
+			"AParent": 55247,
+			"B": 72,
+			"BParent": 74255,
+			"type": "link"
+		},
+		{
+			"A": 73,
+			"AParent": 55247,
+			"B": 73,
+			"BParent": 74255,
+			"type": "link"
+		},
+		{
+			"A": 47,
+			"AParent": 55247,
+			"B": 47,
+			"BParent": 74255,
+			"type": "link"
+		},
+		{
+			"A": 48,
+			"AParent": 55247,
+			"B": 48,
+			"BParent": 74255,
+			"type": "link"
+		},
+		{
+			"A": 56,
+			"AParent": 55247,
+			"B": 56,
+			"BParent": 74255,
+			"type": "link"
+		},
+		{
+			"A": 57,
+			"AParent": 55247,
+			"B": 57,
+			"BParent": 74255,
+			"type": "link"
+		},
+		{
+			"A": 7,
+			"AParent": 55247,
+			"B": 304,
+			"BParent": 74255,
 			"type": "link"
 		},
 		{
@@ -2351,13 +2419,6 @@
 			"type": "link"
 		},
 		{
-			"A": 332,
-			"AParent": 364656,
-			"B": 379,
-			"BParent": 679916,
-			"type": "link"
-		},
-		{
 			"A": 831,
 			"AParent": 364656,
 			"B": 20,
@@ -2403,13 +2464,6 @@
 			"A": 242,
 			"AParent": 679916,
 			"B": 354,
-			"BParent": 833949,
-			"type": "link"
-		},
-		{
-			"A": 749,
-			"AParent": 364656,
-			"B": 51,
 			"BParent": 833949,
 			"type": "link"
 		},
@@ -2519,13 +2573,6 @@
 			"type": "link"
 		},
 		{
-			"A": 91,
-			"AParent": 679916,
-			"B": 749,
-			"BParent": 364656,
-			"type": "link"
-		},
-		{
 			"A": 426,
 			"AParent": 679916,
 			"B": 821,
@@ -2582,20 +2629,6 @@
 			"type": "link"
 		},
 		{
-			"A": 37,
-			"AParent": 584863,
-			"B": 556,
-			"BParent": 829737,
-			"type": "link"
-		},
-		{
-			"A": 70,
-			"AParent": 584863,
-			"B": 557,
-			"BParent": 829737,
-			"type": "link"
-		},
-		{
 			"A": 114,
 			"AParent": 584863,
 			"B": 522,
@@ -2631,38 +2664,10 @@
 			"type": "link"
 		},
 		{
-			"A": 49,
-			"AParent": 584863,
-			"B": 306,
-			"BParent": 74255,
-			"type": "link"
-		},
-		{
-			"A": 38,
-			"AParent": 584863,
-			"B": 307,
-			"BParent": 74255,
-			"type": "link"
-		},
-		{
-			"A": 506,
-			"AParent": 584863,
-			"B": 314,
-			"BParent": 74255,
-			"type": "link"
-		},
-		{
 			"A": 2077,
 			"AParent": 664187,
 			"B": 769,
 			"BParent": 230467,
-			"type": "link"
-		},
-		{
-			"A": 220,
-			"AParent": 829737,
-			"B": 263,
-			"BParent": 679916,
 			"type": "link"
 		},
 		{
@@ -2701,17 +2706,255 @@
 			"type": "link"
 		},
 		{
-			"A": 308,
+			"A": 314,
 			"AParent": 74255,
-			"B": 494,
+			"B": 667,
 			"BParent": 584863,
 			"type": "link"
 		},
 		{
-			"A": 489,
+			"A": 322,
+			"AParent": 74255,
+			"B": 807,
+			"BParent": 584863,
+			"type": "link"
+		},
+		{
+			"A": 797,
 			"AParent": 584863,
-			"B": 309,
+			"B": 7,
 			"BParent": 74255,
+			"type": "link"
+		},
+		{
+			"A": 12,
+			"AParent": 74255,
+			"B": 800,
+			"BParent": 584863,
+			"type": "link"
+		},
+		{
+			"A": 332,
+			"AParent": 364656,
+			"B": 379,
+			"BParent": 679916,
+			"type": "link"
+		},
+		{
+			"A": 749,
+			"AParent": 364656,
+			"B": 554,
+			"BParent": 833949,
+			"type": "link"
+		},
+		{
+			"A": 749,
+			"AParent": 364656,
+			"B": 91,
+			"BParent": 679916,
+			"type": "link"
+		},
+		{
+			"A": 284,
+			"AParent": 829737,
+			"B": 171,
+			"BParent": 74255,
+			"type": "link"
+		},
+		{
+			"A": 263,
+			"AParent": 679916,
+			"B": 547,
+			"BParent": 829737,
+			"type": "link"
+		},
+		{
+			"A": 602,
+			"AParent": 584863,
+			"B": 38,
+			"BParent": 74255,
+			"type": "link"
+		},
+		{
+			"A": 293,
+			"AParent": 829737,
+			"B": 672,
+			"BParent": 584863,
+			"type": "link"
+		},
+		{
+			"A": 292,
+			"AParent": 829737,
+			"B": 674,
+			"BParent": 584863,
+			"type": "link"
+		},
+		{
+			"A": 992,
+			"AParent": 230467,
+			"B": 152,
+			"BParent": 889278,
+			"type": "link"
+		},
+		{
+			"A": 150,
+			"AParent": 889278,
+			"B": 991,
+			"BParent": 230467,
+			"type": "link"
+		},
+		{
+			"A": 148,
+			"AParent": 889278,
+			"B": 990,
+			"BParent": 230467,
+			"type": "link"
+		},
+		{
+			"A": 146,
+			"AParent": 889278,
+			"B": 989,
+			"BParent": 230467,
+			"type": "link"
+		},
+		{
+			"A": 144,
+			"AParent": 889278,
+			"B": 987,
+			"BParent": 230467,
+			"type": "link"
+		},
+		{
+			"A": 142,
+			"AParent": 889278,
+			"B": 988,
+			"BParent": 230467,
+			"type": "link"
+		},
+		{
+			"A": 140,
+			"AParent": 889278,
+			"B": 986,
+			"BParent": 230467,
+			"type": "link"
+		},
+		{
+			"A": 84,
+			"AParent": 889278,
+			"B": 985,
+			"BParent": 230467,
+			"type": "link"
+		},
+		{
+			"A": 152,
+			"AParent": 529089,
+			"B": 984,
+			"BParent": 230467,
+			"type": "link"
+		},
+		{
+			"A": 150,
+			"AParent": 529089,
+			"B": 983,
+			"BParent": 230467,
+			"type": "link"
+		},
+		{
+			"A": 148,
+			"AParent": 529089,
+			"B": 982,
+			"BParent": 230467,
+			"type": "link"
+		},
+		{
+			"A": 146,
+			"AParent": 529089,
+			"B": 981,
+			"BParent": 230467,
+			"type": "link"
+		},
+		{
+			"A": 144,
+			"AParent": 529089,
+			"B": 979,
+			"BParent": 230467,
+			"type": "link"
+		},
+		{
+			"A": 142,
+			"AParent": 529089,
+			"B": 980,
+			"BParent": 230467,
+			"type": "link"
+		},
+		{
+			"A": 140,
+			"AParent": 529089,
+			"B": 951,
+			"BParent": 230467,
+			"type": "link"
+		},
+		{
+			"A": 84,
+			"AParent": 529089,
+			"B": 906,
+			"BParent": 230467,
+			"type": "link"
+		},
+		{
+			"A": 152,
+			"AParent": 804896,
+			"B": 898,
+			"BParent": 230467,
+			"type": "link"
+		},
+		{
+			"A": 150,
+			"AParent": 804896,
+			"B": 890,
+			"BParent": 230467,
+			"type": "link"
+		},
+		{
+			"A": 148,
+			"AParent": 804896,
+			"B": 889,
+			"BParent": 230467,
+			"type": "link"
+		},
+		{
+			"A": 146,
+			"AParent": 804896,
+			"B": 888,
+			"BParent": 230467,
+			"type": "link"
+		},
+		{
+			"A": 144,
+			"AParent": 804896,
+			"B": 886,
+			"BParent": 230467,
+			"type": "link"
+		},
+		{
+			"A": 142,
+			"AParent": 804896,
+			"B": 887,
+			"BParent": 230467,
+			"type": "link"
+		},
+		{
+			"A": 140,
+			"AParent": 804896,
+			"B": 879,
+			"BParent": 230467,
+			"type": "link"
+		},
+		{
+			"A": 84,
+			"AParent": 804896,
+			"B": 878,
+			"BParent": 230467,
 			"type": "link"
 		},
 		{
@@ -2729,10 +2972,10 @@
 			"type": "link"
 		},
 		{
-			"A": 476,
-			"AParent": 833949,
-			"B": 360,
-			"BParent": 386133,
+			"A": 360,
+			"AParent": 386133,
+			"B": 476,
+			"BParent": 833949,
 			"type": "link"
 		},
 		{
@@ -2743,178 +2986,10 @@
 			"type": "link"
 		},
 		{
-			"A": 878,
-			"AParent": 230467,
-			"B": 84,
-			"BParent": 804896,
-			"type": "link"
-		},
-		{
-			"A": 879,
-			"AParent": 230467,
-			"B": 140,
-			"BParent": 804896,
-			"type": "link"
-		},
-		{
-			"A": 887,
-			"AParent": 230467,
-			"B": 142,
-			"BParent": 804896,
-			"type": "link"
-		},
-		{
-			"A": 886,
-			"AParent": 230467,
-			"B": 144,
-			"BParent": 804896,
-			"type": "link"
-		},
-		{
-			"A": 888,
-			"AParent": 230467,
-			"B": 146,
-			"BParent": 804896,
-			"type": "link"
-		},
-		{
-			"A": 889,
-			"AParent": 230467,
-			"B": 148,
-			"BParent": 804896,
-			"type": "link"
-		},
-		{
-			"A": 890,
-			"AParent": 230467,
-			"B": 150,
-			"BParent": 804896,
-			"type": "link"
-		},
-		{
-			"A": 898,
-			"AParent": 230467,
-			"B": 152,
-			"BParent": 804896,
-			"type": "link"
-		},
-		{
-			"A": 906,
-			"AParent": 230467,
-			"B": 84,
-			"BParent": 529089,
-			"type": "link"
-		},
-		{
-			"A": 951,
-			"AParent": 230467,
-			"B": 140,
-			"BParent": 529089,
-			"type": "link"
-		},
-		{
-			"A": 980,
-			"AParent": 230467,
-			"B": 142,
-			"BParent": 529089,
-			"type": "link"
-		},
-		{
-			"A": 979,
-			"AParent": 230467,
-			"B": 144,
-			"BParent": 529089,
-			"type": "link"
-		},
-		{
-			"A": 981,
-			"AParent": 230467,
-			"B": 146,
-			"BParent": 529089,
-			"type": "link"
-		},
-		{
-			"A": 982,
-			"AParent": 230467,
-			"B": 148,
-			"BParent": 529089,
-			"type": "link"
-		},
-		{
-			"A": 983,
-			"AParent": 230467,
-			"B": 150,
-			"BParent": 529089,
-			"type": "link"
-		},
-		{
-			"A": 984,
-			"AParent": 230467,
-			"B": 152,
-			"BParent": 529089,
-			"type": "link"
-		},
-		{
-			"A": 985,
-			"AParent": 230467,
-			"B": 84,
-			"BParent": 889278,
-			"type": "link"
-		},
-		{
-			"A": 986,
-			"AParent": 230467,
-			"B": 140,
-			"BParent": 889278,
-			"type": "link"
-		},
-		{
-			"A": 988,
-			"AParent": 230467,
-			"B": 142,
-			"BParent": 889278,
-			"type": "link"
-		},
-		{
-			"A": 987,
-			"AParent": 230467,
-			"B": 144,
-			"BParent": 889278,
-			"type": "link"
-		},
-		{
-			"A": 989,
-			"AParent": 230467,
-			"B": 146,
-			"BParent": 889278,
-			"type": "link"
-		},
-		{
-			"A": 990,
-			"AParent": 230467,
-			"B": 148,
-			"BParent": 889278,
-			"type": "link"
-		},
-		{
-			"A": 991,
-			"AParent": 230467,
-			"B": 150,
-			"BParent": 889278,
-			"type": "link"
-		},
-		{
-			"A": 992,
-			"AParent": 230467,
-			"B": 152,
-			"BParent": 889278,
-			"type": "link"
-		},
-		{
-			"A": 126,
-			"AParent": 386133,
-			"B": 484,
-			"BParent": 833949,
+			"A": 484,
+			"AParent": 833949,
+			"B": 126,
+			"BParent": 386133,
 			"type": "link"
 		},
 		{
@@ -2925,10 +3000,10 @@
 			"type": "link"
 		},
 		{
-			"A": 486,
-			"AParent": 833949,
-			"B": 113,
-			"BParent": 386133,
+			"A": 113,
+			"AParent": 386133,
+			"B": 486,
+			"BParent": 833949,
 			"type": "link"
 		},
 		{
