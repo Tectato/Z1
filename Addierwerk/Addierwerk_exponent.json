@@ -4271,14 +4271,6 @@
 								"uuid": 653
 							},
 							{
-								"file": "253_6.svg",
-								"pos_x": "0.215",
-								"pos_y": 1,
-								"pos_z": "-2.5425",
-								"rotation": "-1q",
-								"uuid": 655
-							},
-							{
 								"file": "253_3a.svg",
 								"pos_x": "-0.8463",
 								"pos_y": 2,
@@ -5856,14 +5848,6 @@
 								"uuid": 370
 							},
 							{
-								"file": "258_4.svg",
-								"pos_x": "0.145",
-								"pos_y": 1,
-								"pos_z": "-1.0413",
-								"rotation": "-1q",
-								"uuid": 503
-							},
-							{
 								"file": "250_3.svg",
 								"pos_x": "-0.6988",
 								"pos_y": 3,
@@ -6153,7 +6137,7 @@
 							{
 								"file": "259_rev1.svg",
 								"pos_x": "-0.525",
-								"pos_y": 8,
+								"pos_y": 5,
 								"pos_z": "-2.5463",
 								"rotation": "-2q",
 								"uuid": 837
@@ -6165,6 +6149,15 @@
 								"pos_z": "-0.3138",
 								"rotation": "-1q",
 								"uuid": 849
+							},
+							{
+								"file": "241_2.svg",
+								"pos_x": "-0.75",
+								"pos_y": 6,
+								"pos_z": "0.2625",
+								"rotation": "-1q",
+								"static": true,
+								"uuid": 406
 							}
 						]
 					}

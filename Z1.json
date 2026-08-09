@@ -473,14 +473,17 @@
 							}
 						},
 						"uuid_override": 607114
+					},
+					{
+						"uuid_override": 251713
 					}
 				],
 				"uuid_override": 57615
 			},
 			"path": "Z1MemoryFull.json",
-			"pos_x": "4.7813",
+			"pos_x": "4.4626",
 			"pos_y": "0.",
-			"pos_z": "-4.7813",
+			"pos_z": "-4.0688",
 			"uuid": 57615
 		},
 		{
@@ -561,14 +564,22 @@
 					},
 					{
 
+					},
+					{
+						"machines": {
+							"999448": {
+								"uuid_override": 943229
+							}
+						},
+						"uuid_override": 427379
 					}
 				],
 				"uuid_override": 484810
 			},
 			"path": "Z1Rechenwerk.json",
-			"pos_x": "-2.0625",
+			"pos_x": "-1.7062",
 			"pos_y": "0.",
-			"pos_z": "2.1188",
+			"pos_z": "2.7001",
 			"uuid": 484810
 		}
 	],
