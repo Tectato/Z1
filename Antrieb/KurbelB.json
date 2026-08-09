@@ -1,0 +1,137 @@
+{
+	"machines": [
+		{
+			"currentStepOverride": 3,
+			"machine": {
+				"clockPins": [],
+				"globalPins": [
+					{
+						"pos_x": "-2.55",
+						"pos_z": "-0.6",
+						"static": true,
+						"uuid": 2
+					},
+					{
+						"pos_x": "-1.95",
+						"pos_z": "0.6",
+						"static": true,
+						"uuid": 3
+					},
+					{
+						"pos_x": "0.6",
+						"pos_z": "-0.9",
+						"static": true,
+						"uuid": 6
+					},
+					{
+						"pos_x": "0.75",
+						"pos_z": "0.9",
+						"static": true,
+						"uuid": 7
+					},
+					{
+						"pos_x": "-0.75",
+						"pos_z": "0.9",
+						"static": true,
+						"uuid": 8
+					},
+					{
+						"pos_x": "-0.75",
+						"pos_z": "-0.9",
+						"static": true,
+						"uuid": 9
+					},
+					{
+						"pos_x": "1.05",
+						"pos_z": "0.75",
+						"static": true,
+						"uuid": 15
+					},
+					{
+						"pos_x": "1.05",
+						"pos_z": "-0.75",
+						"static": true,
+						"uuid": 16
+					},
+					{
+						"pos_x": "4.65",
+						"pos_z": "0.6",
+						"static": true,
+						"uuid": 17
+					},
+					{
+						"pos_x": "4.35",
+						"pos_z": "-0.75",
+						"static": true,
+						"uuid": 18
+					},
+					{
+						"pos_x": "3.75",
+						"pos_z": "0.75",
+						"static": true,
+						"uuid": 19
+					},
+					{
+						"pos_x": "3.75",
+						"pos_z": "-0.75",
+						"static": true,
+						"uuid": 20
+					},
+					{
+						"pos_x": "-1.8",
+						"pos_z": "1.35",
+						"static": true,
+						"uuid": 21
+					}
+				],
+				"id": "UnnamedMachine0",
+				"layers": [
+					{
+						"height": 0,
+						"pins": [],
+						"sheets": [
+							{
+								"file": "171_1.svg",
+								"pos_x": "1.575",
+								"pos_y": 1,
+								"pos_z": "0.15",
+								"rotation": "0q",
+								"static": true,
+								"uuid": 13
+							}
+						]
+					},
+					{
+						"height": 1,
+						"offset": "0.675",
+						"peripherals": [
+							{
+								"pos_x": "0.",
+								"pos_z": "0.",
+								"type": 6,
+								"uuid": 12
+							}
+						],
+						"pins": [],
+						"sheets": [
+							{
+								"file": "171_2.svg",
+								"pos_x": "1.075",
+								"pos_y": 1,
+								"pos_z": "0.2",
+								"rotation": "0q",
+								"static": true,
+								"uuid": 14
+							}
+						]
+					}
+				]
+			},
+			"pos_x": 0.0,
+			"pos_y": 0.0,
+			"pos_z": 0.0,
+			"rotation": 0,
+			"uuid": 999448
+		}
+	]
+}

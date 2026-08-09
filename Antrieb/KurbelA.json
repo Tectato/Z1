@@ -1,0 +1,125 @@
+{
+	"machines": [
+		{
+			"currentStepOverride": 3,
+			"machine": {
+				"clockPins": [],
+				"globalPins": [
+					{
+						"pos_x": "1.65",
+						"pos_z": "-0.75",
+						"static": true,
+						"uuid": 2
+					},
+					{
+						"pos_x": "1.5",
+						"pos_z": "-0.6",
+						"static": true,
+						"uuid": 3
+					},
+					{
+						"pos_x": "-4.05",
+						"pos_z": "-0.75",
+						"static": true,
+						"uuid": 4
+					},
+					{
+						"pos_x": "-4.05",
+						"pos_z": "0.75",
+						"static": true,
+						"uuid": 5
+					},
+					{
+						"pos_x": "0.9",
+						"pos_z": "-0.9",
+						"static": true,
+						"uuid": 6
+					},
+					{
+						"pos_x": "0.9",
+						"pos_z": "0.9",
+						"static": true,
+						"uuid": 7
+					},
+					{
+						"pos_x": "-0.75",
+						"pos_z": "0.9",
+						"static": true,
+						"uuid": 8
+					},
+					{
+						"pos_x": "-0.9",
+						"pos_z": "-0.9",
+						"static": true,
+						"uuid": 9
+					},
+					{
+						"pos_x": "-3.45",
+						"pos_z": "-0.9",
+						"static": true,
+						"uuid": 10
+					},
+					{
+						"pos_x": "-3.45",
+						"pos_z": "0.9",
+						"static": true,
+						"uuid": 11
+					},
+					{
+						"pos_x": "-4.05",
+						"pos_z": "0.",
+						"static": true,
+						"uuid": 13
+					}
+				],
+				"id": "UnnamedMachine0",
+				"layers": [
+					{
+						"height": 0,
+						"pins": [],
+						"sheets": [
+							{
+								"file": "160_1.svg",
+								"pos_x": "-1.3275",
+								"pos_y": 1,
+								"pos_z": "0.0088",
+								"rotation": "0q",
+								"static": true,
+								"uuid": 0
+							}
+						]
+					},
+					{
+						"height": 1,
+						"offset": "0.675",
+						"peripherals": [
+							{
+								"pos_x": "0.",
+								"pos_z": "0.",
+								"type": 6,
+								"uuid": 12
+							}
+						],
+						"pins": [],
+						"sheets": [
+							{
+								"file": "160_2.svg",
+								"pos_x": "-1.2125",
+								"pos_y": 1,
+								"pos_z": "0.",
+								"rotation": "0q",
+								"static": true,
+								"uuid": 1
+							}
+						]
+					}
+				]
+			},
+			"pos_x": 0.0,
+			"pos_y": 0.0,
+			"pos_z": 0.0,
+			"rotation": 0,
+			"uuid": 999448
+		}
+	]
+}

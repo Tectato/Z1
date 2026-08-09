@@ -1258,6 +1258,16 @@
 			"pos_y": "0.855",
 			"pos_z": "11.1938",
 			"uuid": 607114
+		},
+		{
+			"overrides": {
+				"uuid_override": 251713
+			},
+			"path": "Antrieb/KurbelA.json",
+			"pos_x": "1.8",
+			"pos_y": "0.",
+			"pos_z": "-5.325",
+			"uuid": 251713
 		}
 	],
 	"relations": [
