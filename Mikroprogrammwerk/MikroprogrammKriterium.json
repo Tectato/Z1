@@ -6,6 +6,10 @@
 				"clockPins": [
 					{
 						"active": false,
+						"bounds": [
+							5,
+							11
+						],
 						"forwardStep": 1,
 						"id": "R26",
 						"input": false,
@@ -17,6 +21,10 @@
 					},
 					{
 						"active": false,
+						"bounds": [
+							5,
+							5
+						],
 						"forwardStep": 1,
 						"id": "R26 Lö",
 						"input": false,
@@ -28,6 +36,10 @@
 					},
 					{
 						"active": false,
+						"bounds": [
+							5,
+							11
+						],
 						"forwardStep": 1,
 						"id": "R26 Lö",
 						"input": false,
@@ -39,6 +51,10 @@
 					},
 					{
 						"active": false,
+						"bounds": [
+							5,
+							10
+						],
 						"forwardStep": 2,
 						"id": "R24",
 						"input": false,
@@ -50,6 +66,10 @@
 					},
 					{
 						"active": false,
+						"bounds": [
+							5,
+							10
+						],
 						"forwardStep": 3,
 						"id": "N2R24",
 						"input": false,
@@ -61,6 +81,10 @@
 					},
 					{
 						"active": false,
+						"bounds": [
+							5,
+							11
+						],
 						"forwardStep": 2,
 						"id": "R27",
 						"input": false,
@@ -72,6 +96,10 @@
 					},
 					{
 						"active": false,
+						"bounds": [
+							5,
+							11
+						],
 						"forwardStep": 2,
 						"id": "R27",
 						"input": false,
@@ -83,6 +111,10 @@
 					},
 					{
 						"active": false,
+						"bounds": [
+							5,
+							11
+						],
 						"forwardStep": 2,
 						"id": "R27",
 						"input": false,
@@ -94,6 +126,10 @@
 					},
 					{
 						"active": false,
+						"bounds": [
+							5,
+							11
+						],
 						"forwardStep": 1,
 						"id": "R26",
 						"input": false,
@@ -105,6 +141,10 @@
 					},
 					{
 						"active": false,
+						"bounds": [
+							5,
+							5
+						],
 						"forwardStep": 1,
 						"id": "R26",
 						"input": false,
@@ -116,6 +156,10 @@
 					},
 					{
 						"active": false,
+						"bounds": [
+							5,
+							11
+						],
 						"forwardStep": 1,
 						"id": "R26",
 						"input": false,
@@ -127,6 +171,10 @@
 					},
 					{
 						"active": false,
+						"bounds": [
+							5,
+							11
+						],
 						"forwardStep": 0,
 						"id": "R25",
 						"input": false,
@@ -138,6 +186,10 @@
 					},
 					{
 						"active": false,
+						"bounds": [
+							5,
+							11
+						],
 						"forwardStep": 0,
 						"id": "R25",
 						"input": false,
@@ -149,6 +201,10 @@
 					},
 					{
 						"active": false,
+						"bounds": [
+							5,
+							11
+						],
 						"forwardStep": 3,
 						"id": "R24",
 						"input": false,
@@ -160,6 +216,10 @@
 					},
 					{
 						"active": false,
+						"bounds": [
+							5,
+							11
+						],
 						"forwardStep": 3,
 						"id": "R24",
 						"input": false,
@@ -171,6 +231,10 @@
 					},
 					{
 						"active": false,
+						"bounds": [
+							5,
+							6
+						],
 						"forwardStep": 3,
 						"id": "R24",
 						"input": false,
@@ -182,6 +246,10 @@
 					},
 					{
 						"active": false,
+						"bounds": [
+							5,
+							10
+						],
 						"forwardStep": 0,
 						"id": "R25",
 						"input": false,
@@ -286,6 +354,10 @@
 				],
 				"globalPins": [
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"output": [
 							false,
 							1
@@ -295,6 +367,10 @@
 						"uuid": 39
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"output": [
 							false,
 							1
@@ -304,6 +380,10 @@
 						"uuid": 40
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"output": [
 							false,
 							1
@@ -313,6 +393,10 @@
 						"uuid": 41
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"output": [
 							false,
 							1
@@ -322,6 +406,10 @@
 						"uuid": 42
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"output": [
 							false,
 							1
@@ -331,6 +419,10 @@
 						"uuid": 43
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"output": [
 							false,
 							1
@@ -340,6 +432,10 @@
 						"uuid": 44
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"output": [
 							false,
 							1
@@ -349,6 +445,10 @@
 						"uuid": 45
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"output": [
 							false,
 							1
@@ -358,6 +458,10 @@
 						"uuid": 46
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"output": [
 							false,
 							1
@@ -367,6 +471,10 @@
 						"uuid": 47
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"output": [
 							false,
 							1
@@ -376,18 +484,30 @@
 						"uuid": 48
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"pos_x": "-0.9",
 						"pos_z": "-1.05",
 						"static": true,
 						"uuid": 66
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"pos_x": "-0.9",
 						"pos_z": "2.25",
 						"static": true,
 						"uuid": 67
 					},
 					{
+						"bounds": [
+							0,
+							10
+						],
 						"pos_x": "-0.6",
 						"pos_z": "-4.35",
 						"static": true,
@@ -400,24 +520,40 @@
 						"uuid": 74
 					},
 					{
+						"bounds": [
+							5,
+							10
+						],
 						"pos_x": "-0.9",
 						"pos_z": "-2.25",
 						"static": true,
 						"uuid": 75
 					},
 					{
+						"bounds": [
+							5,
+							10
+						],
 						"pos_x": "-0.9",
 						"pos_z": "-4.35",
 						"static": true,
 						"uuid": 76
 					},
 					{
+						"bounds": [
+							5,
+							9
+						],
 						"id": "x,Ph0,S0",
 						"pos_x": "0.4125",
 						"pos_z": "-2.25",
 						"uuid": 83
 					},
 					{
+						"bounds": [
+							5,
+							6
+						],
 						"id": "'Lz",
 						"output": [
 							false,
@@ -428,30 +564,50 @@
 						"uuid": 84
 					},
 					{
+						"bounds": [
+							5,
+							6
+						],
 						"id": "Be->Bg",
 						"pos_x": "1.0125",
 						"pos_z": "-2.25",
 						"uuid": 85
 					},
 					{
+						"bounds": [
+							5,
+							6
+						],
 						"id": "b(10^-6)",
 						"pos_x": "1.3125",
 						"pos_z": "-2.25",
 						"uuid": 86
 					},
 					{
+						"bounds": [
+							5,
+							5
+						],
 						"id": "''R5",
 						"pos_x": "1.6125",
 						"pos_z": "-2.25",
 						"uuid": 87
 					},
 					{
+						"bounds": [
+							5,
+							5
+						],
 						"id": "''R4",
 						"pos_x": "1.9125",
 						"pos_z": "-2.25",
 						"uuid": 88
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"id": "'lt0 (ph0)",
 						"output": [
 							false,
@@ -462,6 +618,10 @@
 						"uuid": 92
 					},
 					{
+						"bounds": [
+							5,
+							10
+						],
 						"id": "S1",
 						"output": [
 							false,
@@ -472,6 +632,10 @@
 						"uuid": 93
 					},
 					{
+						"bounds": [
+							5,
+							10
+						],
 						"id": "S0",
 						"output": [
 							false,
@@ -482,6 +646,10 @@
 						"uuid": 94
 					},
 					{
+						"bounds": [
+							5,
+							10
+						],
 						"id": "Op0",
 						"output": [
 							false,
@@ -492,6 +660,10 @@
 						"uuid": 95
 					},
 					{
+						"bounds": [
+							5,
+							10
+						],
 						"id": "Op1",
 						"output": [
 							false,
@@ -502,6 +674,10 @@
 						"uuid": 96
 					},
 					{
+						"bounds": [
+							5,
+							10
+						],
 						"id": "Op2",
 						"output": [
 							false,
@@ -512,6 +688,10 @@
 						"uuid": 97
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"id": "μPh",
 						"output": [
 							false,
@@ -522,6 +702,10 @@
 						"uuid": 98
 					},
 					{
+						"bounds": [
+							5,
+							7
+						],
 						"id": "Lö,Ph",
 						"output": [
 							false,
@@ -532,6 +716,10 @@
 						"uuid": 99
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"id": "'lt1 (ph1)",
 						"output": [
 							false,
@@ -542,6 +730,10 @@
 						"uuid": 104
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"id": "'lt3 (ph3)",
 						"output": [
 							false,
@@ -552,6 +744,10 @@
 						"uuid": 105
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"id": "'lt2 (ph2)",
 						"output": [
 							false,
@@ -562,6 +758,10 @@
 						"uuid": 106
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"id": "'lt4 (ph4)",
 						"output": [
 							false,
@@ -572,6 +772,10 @@
 						"uuid": 107
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"id": "'lt5 (S1)",
 						"output": [
 							false,
@@ -582,6 +786,10 @@
 						"uuid": 108
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"id": "'lt6 (S0)",
 						"output": [
 							false,
@@ -592,6 +800,10 @@
 						"uuid": 109
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"id": "'lt7 (Op0)",
 						"output": [
 							false,
@@ -602,6 +814,10 @@
 						"uuid": 110
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"id": "'lt8 (Op1)",
 						"output": [
 							false,
@@ -612,6 +828,10 @@
 						"uuid": 111
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"id": "'lt9 (Op2)",
 						"output": [
 							false,
@@ -622,6 +842,10 @@
 						"uuid": 112
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"id": "lt0''",
 						"output": [
 							false,
@@ -632,6 +856,10 @@
 						"uuid": 113
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"id": "lt1''",
 						"output": [
 							false,
@@ -642,6 +870,10 @@
 						"uuid": 114
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"id": "lt3''",
 						"output": [
 							false,
@@ -652,6 +884,10 @@
 						"uuid": 115
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"id": "lt2''",
 						"output": [
 							false,
@@ -662,6 +898,10 @@
 						"uuid": 116
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"id": "lt4''",
 						"output": [
 							false,
@@ -672,16 +912,28 @@
 						"uuid": 117
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"pos_x": "-1.4625",
 						"pos_z": "0.3",
 						"uuid": 118
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"pos_x": "-1.4625",
 						"pos_z": "2.1",
 						"uuid": 119
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"id": "Ph1",
 						"output": [
 							false,
@@ -692,6 +944,10 @@
 						"uuid": 33
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"id": "μPh",
 						"output": [
 							false,
@@ -702,6 +958,10 @@
 						"uuid": 34
 					},
 					{
+						"bounds": [
+							5,
+							8
+						],
 						"id": "μPh",
 						"output": [
 							false,
@@ -712,168 +972,280 @@
 						"uuid": 51
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"pos_x": "-1.2",
 						"pos_z": "-1.05",
 						"static": true,
 						"uuid": 31
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"pos_x": "-1.2",
 						"pos_z": "-0.75",
 						"static": true,
 						"uuid": 32
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"pos_x": "-1.2",
 						"pos_z": "2.25",
 						"static": true,
 						"uuid": 162
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"pos_x": "-0.6",
 						"pos_z": "2.25",
 						"static": true,
 						"uuid": 163
 					},
 					{
+						"bounds": [
+							0,
+							11
+						],
 						"pos_x": "-0.6",
 						"pos_z": "-1.05",
 						"static": true,
 						"uuid": 164
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"pos_x": "-1.2",
 						"pos_z": "0.15",
 						"static": true,
 						"uuid": 179
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"pos_x": "-1.2",
 						"pos_z": "1.05",
 						"static": true,
 						"uuid": 266
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"pos_x": "-0.6",
 						"pos_z": "1.05",
 						"static": true,
 						"uuid": 267
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"pos_x": "-0.6",
 						"pos_z": "1.35",
 						"static": true,
 						"uuid": 268
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"pos_x": "-1.2",
 						"pos_z": "1.35",
 						"static": true,
 						"uuid": 269
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"pos_x": "-0.6",
 						"pos_z": "0.75",
 						"static": true,
 						"uuid": 270
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"pos_x": "-1.2",
 						"pos_z": "0.75",
 						"static": true,
 						"uuid": 271
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"pos_x": "-0.6",
 						"pos_z": "1.65",
 						"static": true,
 						"uuid": 272
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"pos_x": "-1.2",
 						"pos_z": "1.65",
 						"static": true,
 						"uuid": 273
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"pos_x": "-0.6",
 						"pos_z": "0.45",
 						"static": true,
 						"uuid": 274
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"pos_x": "-1.2",
 						"pos_z": "0.45",
 						"static": true,
 						"uuid": 275
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"pos_x": "-0.6",
 						"pos_z": "1.95",
 						"static": true,
 						"uuid": 276
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"pos_x": "-1.2",
 						"pos_z": "1.95",
 						"static": true,
 						"uuid": 277
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"id": "Op3",
 						"pos_x": "-0.1875",
 						"pos_z": "-4.05",
 						"uuid": 242
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"id": "Op0",
 						"pos_x": "0.0938",
 						"pos_z": "-4.05",
 						"uuid": 243
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"id": "Op2",
 						"pos_x": "0.8625",
 						"pos_z": "-4.05",
 						"uuid": 244
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"id": "Op1",
 						"pos_x": "0.5625",
 						"pos_z": "-4.05",
 						"uuid": 245
 					},
 					{
+						"bounds": [
+							5,
+							6
+						],
 						"id": "Be -> Bg",
 						"pos_x": "0.1125",
 						"pos_z": "-3.15",
 						"uuid": 248
 					},
 					{
+						"bounds": [
+							5,
+							9
+						],
 						"id": "S1",
 						"pos_x": "-0.1125",
 						"pos_z": "-3.15",
 						"uuid": 249
 					},
 					{
+						"bounds": [
+							5,
+							6
+						],
 						"id": "μPh",
 						"pos_x": "0.5625",
 						"pos_z": "-3.15",
 						"uuid": 250
 					},
 					{
+						"bounds": [
+							5,
+							7
+						],
 						"id": "x, Ph0",
 						"pos_x": "0.8438",
 						"pos_z": "-3.15",
 						"uuid": 287
 					},
 					{
+						"bounds": [
+							5,
+							11
+						],
 						"id": "S0",
 						"pos_x": "1.1625",
 						"pos_z": "-4.05",
 						"uuid": 288
 					},
 					{
+						"bounds": [
+							5,
+							6
+						],
 						"id": "Lz",
 						"output": [
 							false,
@@ -884,102 +1256,170 @@
 						"uuid": 289
 					},
 					{
+						"bounds": [
+							5,
+							5
+						],
 						"id": "10^-6",
 						"pos_x": "0.9",
 						"pos_z": "-3.75",
 						"uuid": 290
 					},
 					{
+						"bounds": [
+							5,
+							5
+						],
 						"id": "''R5",
 						"pos_x": "1.2",
 						"pos_z": "-3.75",
 						"uuid": 296
 					},
 					{
+						"bounds": [
+							5,
+							5
+						],
 						"id": "''R4",
 						"pos_x": "1.5",
 						"pos_z": "-3.75",
 						"uuid": 297
 					},
 					{
+						"bounds": [
+							5,
+							10
+						],
 						"pos_x": "-1.2",
 						"pos_z": "-4.35",
 						"static": true,
 						"uuid": 304
 					},
 					{
+						"bounds": [
+							5,
+							10
+						],
 						"pos_x": "-1.2",
 						"pos_z": "-2.25",
 						"static": true,
 						"uuid": 305
 					},
 					{
+						"bounds": [
+							5,
+							10
+						],
 						"pos_x": "-1.2",
 						"pos_z": "-2.55",
 						"static": true,
 						"uuid": 306
 					},
 					{
+						"bounds": [
+							5,
+							10
+						],
 						"pos_x": "-0.6",
 						"pos_z": "-2.55",
 						"static": true,
 						"uuid": 307
 					},
 					{
+						"bounds": [
+							5,
+							10
+						],
 						"pos_x": "-1.2",
 						"pos_z": "-2.85",
 						"static": true,
 						"uuid": 308
 					},
 					{
+						"bounds": [
+							5,
+							10
+						],
 						"pos_x": "-0.6",
 						"pos_z": "-2.85",
 						"static": true,
 						"uuid": 309
 					},
 					{
+						"bounds": [
+							5,
+							10
+						],
 						"pos_x": "-1.2",
 						"pos_z": "-3.15",
 						"static": true,
 						"uuid": 310
 					},
 					{
+						"bounds": [
+							5,
+							10
+						],
 						"pos_x": "-0.6",
 						"pos_z": "-3.15",
 						"static": true,
 						"uuid": 311
 					},
 					{
+						"bounds": [
+							5,
+							10
+						],
 						"pos_x": "-0.6",
 						"pos_z": "-3.45",
 						"static": true,
 						"uuid": 312
 					},
 					{
+						"bounds": [
+							5,
+							10
+						],
 						"pos_x": "-1.2",
 						"pos_z": "-3.45",
 						"static": true,
 						"uuid": 313
 					},
 					{
+						"bounds": [
+							5,
+							10
+						],
 						"pos_x": "-1.2",
 						"pos_z": "-3.75",
 						"static": true,
 						"uuid": 314
 					},
 					{
+						"bounds": [
+							5,
+							10
+						],
 						"pos_x": "-0.6",
 						"pos_z": "-3.75",
 						"static": true,
 						"uuid": 315
 					},
 					{
+						"bounds": [
+							5,
+							10
+						],
 						"pos_x": "-0.6",
 						"pos_z": "-4.05",
 						"static": true,
 						"uuid": 316
 					},
 					{
+						"bounds": [
+							5,
+							10
+						],
 						"pos_x": "-1.2",
 						"pos_z": "-4.05",
 						"static": true,
@@ -987,8 +1427,8 @@
 					},
 					{
 						"bounds": [
-							0,
-							5
+							5,
+							10
 						],
 						"pos_x": "-1.35",
 						"pos_z": "0.3375",
@@ -996,8 +1436,8 @@
 					},
 					{
 						"bounds": [
-							0,
-							5
+							5,
+							10
 						],
 						"pos_x": "-1.35",
 						"pos_z": "2.1375",
@@ -1005,8 +1445,8 @@
 					},
 					{
 						"bounds": [
-							0,
-							5
+							5,
+							10
 						],
 						"output": [
 							false,
@@ -1018,8 +1458,8 @@
 					},
 					{
 						"bounds": [
-							0,
-							5
+							5,
+							10
 						],
 						"output": [
 							false,
@@ -1031,8 +1471,8 @@
 					},
 					{
 						"bounds": [
-							0,
-							5
+							5,
+							10
 						],
 						"output": [
 							false,
@@ -1044,8 +1484,8 @@
 					},
 					{
 						"bounds": [
-							0,
-							5
+							5,
+							10
 						],
 						"output": [
 							false,
@@ -1057,8 +1497,8 @@
 					},
 					{
 						"bounds": [
-							0,
-							5
+							5,
+							10
 						],
 						"output": [
 							false,
@@ -1078,14 +1518,224 @@
 									0,
 									0
 								],
+								"pos_x": "-0.6563",
+								"pos_z": "-3.9",
+								"uuid": 418
+							},
+							{
+								"bounds": [
+									0,
+									0
+								],
+								"pos_x": "-0.6563",
+								"pos_z": "-0.9",
+								"uuid": 440
+							}
+						],
+						"height": 0,
+						"pins": [
+							{
+								"pos_x": "-0.3563",
+								"pos_z": "-3.8438",
+								"uuid": 529
+							},
+							{
+								"pos_x": "-0.3375",
+								"pos_z": "-0.8438",
+								"uuid": 528
+							}
+						],
+						"sheets": []
+					},
+					{
+						"arms": [
+							{
+								"bounds": [
+									1,
+									1
+								],
+								"pos_x": "-0.6563",
+								"pos_z": "-3.6",
+								"uuid": 489
+							},
+							{
+								"bounds": [
+									1,
+									1
+								],
+								"pos_x": "-0.6563",
+								"pos_z": "-0.6",
+								"uuid": 494
+							}
+						],
+						"height": 1,
+						"pins": [
+							{
+								"pos_x": "-0.3563",
+								"pos_z": "-3.5438",
+								"uuid": 530
+							},
+							{
+								"pos_x": "-0.3563",
+								"pos_z": "-0.5438",
+								"uuid": 531
+							}
+						],
+						"sheets": []
+					},
+					{
+						"arms": [
+							{
+								"bounds": [
+									2,
+									2
+								],
+								"pos_x": "-0.6563",
+								"pos_z": "-3.3",
+								"uuid": 500
+							},
+							{
+								"bounds": [
+									2,
+									2
+								],
+								"pos_x": "-0.6563",
+								"pos_z": "-0.3",
+								"uuid": 505
+							}
+						],
+						"height": 2,
+						"pins": [
+							{
+								"pos_x": "-0.3563",
+								"pos_z": "-3.2438",
+								"uuid": 532
+							},
+							{
+								"pos_x": "-0.3375",
+								"pos_z": "-0.2438",
+								"uuid": 533
+							}
+						],
+						"sheets": []
+					},
+					{
+						"arms": [
+							{
+								"bounds": [
+									3,
+									3
+								],
+								"pos_x": "-0.6563",
+								"pos_z": "-3.",
+								"uuid": 511
+							},
+							{
+								"bounds": [
+									3,
+									3
+								],
+								"pos_x": "-0.6563",
+								"pos_z": "0.",
+								"uuid": 516
+							}
+						],
+						"height": 3,
+						"pins": [
+							{
+								"pos_x": "-0.3563",
+								"pos_z": "-2.925",
+								"uuid": 534
+							},
+							{
+								"pos_x": "-0.3563",
+								"pos_z": "0.075",
+								"uuid": 535
+							}
+						],
+						"sheets": []
+					},
+					{
+						"arms": [
+							{
+								"bounds": [
+									4,
+									4
+								],
+								"pos_x": "-0.6563",
+								"pos_z": "-2.7",
+								"uuid": 522
+							},
+							{
+								"bounds": [
+									4,
+									4
+								],
+								"pos_x": "-0.6563",
+								"pos_z": "0.3",
+								"uuid": 527
+							},
+							{
+								"bounds": [
+									4,
+									4
+								],
+								"pos_x": "1.9125",
+								"pos_z": "-3.5625",
+								"uuid": 38
+							},
+							{
+								"bounds": [
+									4,
+									4
+								],
+								"pos_x": "1.9125",
+								"pos_z": "-3.8625",
+								"uuid": 36
+							}
+						],
+						"height": 4,
+						"pins": [
+							{
+								"pos_x": "-0.3563",
+								"pos_z": "-2.625",
+								"uuid": 536
+							},
+							{
+								"pos_x": "-0.3563",
+								"pos_z": "0.375",
+								"uuid": 537
+							},
+							{
+								"id": "va",
+								"pos_x": "2.0813",
+								"pos_z": "-3.6",
+								"uuid": 37
+							},
+							{
+								"id": "ve",
+								"pos_x": "2.0813",
+								"pos_z": "-3.9",
+								"uuid": 35
+							}
+						],
+						"sheets": []
+					},
+					{
+						"arms": [
+							{
+								"bounds": [
+									4,
+									5
+								],
 								"pos_x": "0.9375",
 								"pos_z": "-3.5625",
 								"uuid": 15
 							},
 							{
 								"bounds": [
-									0,
-									0
+									4,
+									5
 								],
 								"pos_x": "1.2375",
 								"pos_z": "-3.5625",
@@ -1093,8 +1743,8 @@
 							},
 							{
 								"bounds": [
-									0,
-									0
+									4,
+									5
 								],
 								"pos_x": "1.5375",
 								"pos_z": "-3.5625",
@@ -1102,8 +1752,8 @@
 							},
 							{
 								"bounds": [
-									0,
-									0
+									4,
+									5
 								],
 								"pos_x": "1.35",
 								"pos_z": "-2.4375",
@@ -1111,8 +1761,8 @@
 							},
 							{
 								"bounds": [
-									0,
-									0
+									4,
+									5
 								],
 								"pos_x": "1.65",
 								"pos_z": "-2.4375",
@@ -1120,8 +1770,8 @@
 							},
 							{
 								"bounds": [
-									0,
-									0
+									4,
+									5
 								],
 								"pos_x": "1.95",
 								"pos_z": "-2.4375",
@@ -1129,8 +1779,8 @@
 							},
 							{
 								"bounds": [
-									0,
-									0
+									4,
+									5
 								],
 								"pos_x": "1.9125",
 								"pos_z": "-3.5625",
@@ -1138,15 +1788,294 @@
 							},
 							{
 								"bounds": [
-									0,
-									0
+									4,
+									5
 								],
 								"pos_x": "1.9125",
 								"pos_z": "-3.8625",
 								"uuid": 261
+							},
+							{
+								"bounds": [
+									0,
+									5
+								],
+								"pos_x": "-0.6563",
+								"pos_z": "-3.9",
+								"uuid": 457
+							},
+							{
+								"bounds": [
+									0,
+									5
+								],
+								"pos_x": "-0.6563",
+								"pos_z": "-3.6",
+								"uuid": 458
+							},
+							{
+								"bounds": [
+									0,
+									5
+								],
+								"pos_x": "-0.6563",
+								"pos_z": "-3.3",
+								"uuid": 459
+							},
+							{
+								"bounds": [
+									0,
+									5
+								],
+								"pos_x": "-0.6563",
+								"pos_z": "-3.",
+								"uuid": 460
+							},
+							{
+								"bounds": [
+									0,
+									5
+								],
+								"pos_x": "-0.6563",
+								"pos_z": "-2.7",
+								"uuid": 461
+							},
+							{
+								"bounds": [
+									0,
+									5
+								],
+								"pos_x": "-0.6563",
+								"pos_z": "-0.9",
+								"uuid": 462
+							},
+							{
+								"bounds": [
+									0,
+									5
+								],
+								"pos_x": "-0.6563",
+								"pos_z": "-0.6",
+								"uuid": 463
+							},
+							{
+								"bounds": [
+									0,
+									5
+								],
+								"pos_x": "-0.6563",
+								"pos_z": "-0.3",
+								"uuid": 464
+							},
+							{
+								"bounds": [
+									0,
+									5
+								],
+								"pos_x": "-0.6563",
+								"pos_z": "0.",
+								"uuid": 465
+							},
+							{
+								"bounds": [
+									0,
+									5
+								],
+								"pos_x": "-0.6563",
+								"pos_z": "0.3",
+								"uuid": 466
+							},
+							{
+								"bounds": [
+									0,
+									5
+								],
+								"pos_x": "-0.6563",
+								"pos_z": "0.6",
+								"uuid": 467
+							},
+							{
+								"bounds": [
+									0,
+									5
+								],
+								"pos_x": "-0.6563",
+								"pos_z": "0.9",
+								"uuid": 468
+							},
+							{
+								"bounds": [
+									0,
+									5
+								],
+								"pos_x": "-0.6563",
+								"pos_z": "1.2",
+								"uuid": 469
+							},
+							{
+								"bounds": [
+									0,
+									5
+								],
+								"pos_x": "-0.6563",
+								"pos_z": "1.5",
+								"uuid": 470
+							},
+							{
+								"bounds": [
+									0,
+									5
+								],
+								"pos_x": "-0.6563",
+								"pos_z": "1.8",
+								"uuid": 471
+							},
+							{
+								"bounds": [
+									0,
+									5
+								],
+								"pos_x": "-1.1438",
+								"pos_z": "2.1",
+								"uuid": 472
+							},
+							{
+								"bounds": [
+									0,
+									5
+								],
+								"pos_x": "-1.1438",
+								"pos_z": "1.8",
+								"uuid": 473
+							},
+							{
+								"bounds": [
+									0,
+									5
+								],
+								"pos_x": "-1.1438",
+								"pos_z": "1.5",
+								"uuid": 474
+							},
+							{
+								"bounds": [
+									0,
+									5
+								],
+								"pos_x": "-1.1438",
+								"pos_z": "1.2",
+								"uuid": 475
+							},
+							{
+								"bounds": [
+									0,
+									5
+								],
+								"pos_x": "-1.1438",
+								"pos_z": "0.9",
+								"uuid": 476
+							},
+							{
+								"bounds": [
+									0,
+									5
+								],
+								"pos_x": "-1.1438",
+								"pos_z": "0.6",
+								"uuid": 477
+							},
+							{
+								"bounds": [
+									0,
+									5
+								],
+								"pos_x": "-1.1438",
+								"pos_z": "0.3",
+								"uuid": 478
+							},
+							{
+								"bounds": [
+									0,
+									5
+								],
+								"pos_x": "-1.1813",
+								"pos_z": "-2.7",
+								"uuid": 479
+							},
+							{
+								"bounds": [
+									0,
+									5
+								],
+								"pos_x": "-1.1813",
+								"pos_z": "-3.",
+								"uuid": 480
+							},
+							{
+								"bounds": [
+									5,
+									5
+								],
+								"pos_x": "-1.5",
+								"pos_z": "0.0938",
+								"uuid": 481
+							},
+							{
+								"bounds": [
+									5,
+									5
+								],
+								"pos_x": "-1.5",
+								"pos_z": "0.3938",
+								"uuid": 482
+							},
+							{
+								"bounds": [
+									5,
+									5
+								],
+								"pos_x": "-1.5",
+								"pos_z": "0.6938",
+								"uuid": 483
+							},
+							{
+								"bounds": [
+									5,
+									5
+								],
+								"pos_x": "-1.5",
+								"pos_z": "1.0125",
+								"uuid": 484
+							},
+							{
+								"bounds": [
+									5,
+									5
+								],
+								"pos_x": "-1.5",
+								"pos_z": "1.3125",
+								"uuid": 485
+							},
+							{
+								"bounds": [
+									5,
+									5
+								],
+								"pos_x": "-1.5",
+								"pos_z": "1.6125",
+								"uuid": 486
+							},
+							{
+								"bounds": [
+									5,
+									5
+								],
+								"pos_x": "-1.5",
+								"pos_z": "1.9125",
+								"uuid": 487
 							}
 						],
-						"height": 0,
+						"height": 5,
 						"pins": [
 							{
 								"pos_x": "1.7438",
@@ -1181,14 +2110,8 @@
 							{
 								"id": "ve",
 								"pos_x": "1.875",
-								"pos_z": "-4.05",
+								"pos_z": "-4.0313",
 								"uuid": 262
-							},
-							{
-								"id": "ve",
-								"pos_x": "2.0813",
-								"pos_z": "-3.9",
-								"uuid": 168
 							},
 							{
 								"id": "va",
@@ -1197,15 +2120,9 @@
 								"uuid": 265
 							},
 							{
-								"id": "va",
-								"pos_x": "2.0813",
-								"pos_z": "-3.6",
-								"uuid": 263
-							},
-							{
 								"id": "ve",
 								"pos_x": "3.5813",
-								"pos_z": "-4.05",
+								"pos_z": "-4.0313",
 								"uuid": 285
 							}
 						],
@@ -1241,14 +2158,14 @@
 								"file": "custom_ve.svg",
 								"pos_x": "2.725",
 								"pos_y": 1,
-								"pos_z": "-4.1",
+								"pos_z": "-4.0813",
 								"rotation": "-1q",
 								"uuid": 283
 							}
 						]
 					},
 					{
-						"height": 1,
+						"height": 6,
 						"pins": [
 							{
 								"pos_x": "-0.9",
@@ -1341,7 +2258,7 @@
 							{
 								"file": "267_4.svg",
 								"pos_x": "-0.2938",
-								"pos_y": 2,
+								"pos_y": 1,
 								"pos_z": "0.4225",
 								"rotation": "-1q",
 								"uuid": 55
@@ -1529,7 +2446,7 @@
 						]
 					},
 					{
-						"height": 2,
+						"height": 7,
 						"pins": [
 							{
 								"pos_x": "-0.7125",
@@ -1899,7 +2816,7 @@
 						]
 					},
 					{
-						"height": 3,
+						"height": 8,
 						"pins": [
 							{
 								"pos_x": "-0.6938",
@@ -2298,7 +3215,7 @@
 						]
 					},
 					{
-						"height": 4,
+						"height": 9,
 						"pins": [
 							{
 								"pos_x": "-0.7925",
@@ -2692,7 +3609,7 @@
 						]
 					},
 					{
-						"height": 5,
+						"height": 10,
 						"pins": [
 							{
 								"pos_x": "-0.7875",
@@ -2916,15 +3833,15 @@
 						"arms": [
 							{
 								"bounds": [
-									0,
-									6
+									5,
+									11
 								],
 								"pos_x": "0.75",
 								"pos_z": "-2.625",
 								"uuid": 286
 							}
 						],
-						"height": 6,
+						"height": 11,
 						"pins": [
 							{
 								"pos_x": "-0.8063",
@@ -3203,8 +4120,148 @@
 				],
 				"relations": [
 					{
-						"A": 414,
-						"B": 425,
+						"A": 529,
+						"B": 418,
+						"type": "arm"
+					},
+					{
+						"A": 529,
+						"B": 528,
+						"type": "rod"
+					},
+					{
+						"A": 528,
+						"B": 440,
+						"type": "arm"
+					},
+					{
+						"A": 418,
+						"B": 457,
+						"type": "link"
+					},
+					{
+						"A": 440,
+						"B": 462,
+						"type": "link"
+					},
+					{
+						"A": 530,
+						"B": 489,
+						"type": "arm"
+					},
+					{
+						"A": 530,
+						"B": 531,
+						"type": "rod"
+					},
+					{
+						"A": 531,
+						"B": 494,
+						"type": "arm"
+					},
+					{
+						"A": 458,
+						"B": 489,
+						"type": "link"
+					},
+					{
+						"A": 494,
+						"B": 463,
+						"type": "link"
+					},
+					{
+						"A": 532,
+						"B": 500,
+						"type": "arm"
+					},
+					{
+						"A": 532,
+						"B": 533,
+						"type": "rod"
+					},
+					{
+						"A": 533,
+						"B": 505,
+						"type": "arm"
+					},
+					{
+						"A": 500,
+						"B": 459,
+						"type": "link"
+					},
+					{
+						"A": 505,
+						"B": 464,
+						"type": "link"
+					},
+					{
+						"A": 534,
+						"B": 511,
+						"type": "arm"
+					},
+					{
+						"A": 535,
+						"B": 534,
+						"type": "rod"
+					},
+					{
+						"A": 535,
+						"B": 516,
+						"type": "arm"
+					},
+					{
+						"A": 460,
+						"B": 511,
+						"type": "link"
+					},
+					{
+						"A": 465,
+						"B": 516,
+						"type": "link"
+					},
+					{
+						"A": 536,
+						"B": 522,
+						"type": "arm"
+					},
+					{
+						"A": 536,
+						"B": 537,
+						"type": "rod"
+					},
+					{
+						"A": 537,
+						"B": 527,
+						"type": "arm"
+					},
+					{
+						"A": 37,
+						"B": 38,
+						"type": "arm"
+					},
+					{
+						"A": 35,
+						"B": 36,
+						"type": "arm"
+					},
+					{
+						"A": 522,
+						"B": 461,
+						"type": "link"
+					},
+					{
+						"A": 466,
+						"B": 527,
+						"type": "link"
+					},
+					{
+						"A": 38,
+						"B": 264,
+						"type": "link"
+					},
+					{
+						"A": 36,
+						"B": 261,
 						"type": "link"
 					},
 					{
@@ -3213,14 +4270,19 @@
 						"type": "arm"
 					},
 					{
-						"A": 415,
-						"B": 424,
-						"type": "link"
+						"A": 425,
+						"B": 414,
+						"type": "rod"
 					},
 					{
 						"A": 415,
 						"B": 16,
 						"type": "arm"
+					},
+					{
+						"A": 415,
+						"B": 424,
+						"type": "rod"
 					},
 					{
 						"A": 416,
@@ -3248,17 +4310,7 @@
 						"type": "arm"
 					},
 					{
-						"A": 168,
-						"B": 261,
-						"type": "arm"
-					},
-					{
 						"A": 265,
-						"B": 264,
-						"type": "arm"
-					},
-					{
-						"A": 263,
 						"B": 264,
 						"type": "arm"
 					},
@@ -3290,6 +4342,161 @@
 					{
 						"A": 88,
 						"B": 142,
+						"type": "arm"
+					},
+					{
+						"A": 97,
+						"B": 457,
+						"type": "arm"
+					},
+					{
+						"A": 96,
+						"B": 458,
+						"type": "arm"
+					},
+					{
+						"A": 95,
+						"B": 459,
+						"type": "arm"
+					},
+					{
+						"A": 94,
+						"B": 460,
+						"type": "arm"
+					},
+					{
+						"A": 93,
+						"B": 461,
+						"type": "arm"
+					},
+					{
+						"A": 112,
+						"B": 462,
+						"type": "arm"
+					},
+					{
+						"A": 111,
+						"B": 463,
+						"type": "arm"
+					},
+					{
+						"A": 110,
+						"B": 464,
+						"type": "arm"
+					},
+					{
+						"A": 109,
+						"B": 465,
+						"type": "arm"
+					},
+					{
+						"A": 108,
+						"B": 466,
+						"type": "arm"
+					},
+					{
+						"A": 107,
+						"B": 467,
+						"type": "arm"
+					},
+					{
+						"A": 105,
+						"B": 468,
+						"type": "arm"
+					},
+					{
+						"A": 106,
+						"B": 469,
+						"type": "arm"
+					},
+					{
+						"A": 104,
+						"B": 470,
+						"type": "arm"
+					},
+					{
+						"A": 92,
+						"B": 471,
+						"type": "arm"
+					},
+					{
+						"A": 453,
+						"B": 472,
+						"type": "arm"
+					},
+					{
+						"A": 282,
+						"B": 473,
+						"type": "arm"
+					},
+					{
+						"A": 280,
+						"B": 474,
+						"type": "arm"
+					},
+					{
+						"A": 281,
+						"B": 475,
+						"type": "arm"
+					},
+					{
+						"A": 279,
+						"B": 476,
+						"type": "arm"
+					},
+					{
+						"A": 278,
+						"B": 477,
+						"type": "arm"
+					},
+					{
+						"A": 210,
+						"B": 478,
+						"type": "arm"
+					},
+					{
+						"A": 98,
+						"B": 479,
+						"type": "arm"
+					},
+					{
+						"A": 99,
+						"B": 480,
+						"type": "arm"
+					},
+					{
+						"A": 118,
+						"B": 481,
+						"type": "arm"
+					},
+					{
+						"A": 117,
+						"B": 482,
+						"type": "arm"
+					},
+					{
+						"A": 115,
+						"B": 483,
+						"type": "arm"
+					},
+					{
+						"A": 116,
+						"B": 484,
+						"type": "arm"
+					},
+					{
+						"A": 114,
+						"B": 485,
+						"type": "arm"
+					},
+					{
+						"A": 113,
+						"B": 486,
+						"type": "arm"
+					},
+					{
+						"A": 119,
+						"B": 487,
 						"type": "arm"
 					},
 					{
