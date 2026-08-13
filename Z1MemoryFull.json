@@ -744,8 +744,8 @@
 
 			},
 			"path": "SpeicherSteuerung/SpeicherSteuerung.json",
-			"pos_x": "-2.5875",
-			"pos_y": "0.86",
+			"pos_x": "-2.2875",
+			"pos_y": "0.005",
 			"pos_z": "1.5938",
 			"uuid": -1
 		},
@@ -1239,8 +1239,8 @@
 				"uuid_override": 32319
 			},
 			"path": "SpeicherSteuerung/SpeicherSteuerung.json",
-			"pos_x": "-2.5875",
-			"pos_y": "0.855",
+			"pos_x": "-2.2875",
+			"pos_y": "0.",
 			"pos_z": "6.3937",
 			"uuid": 32319
 		},
@@ -1254,8 +1254,8 @@
 				"uuid_override": 607114
 			},
 			"path": "SpeicherSteuerung/SpeicherSteuerung.json",
-			"pos_x": "-2.5875",
-			"pos_y": "0.855",
+			"pos_x": "-2.2875",
+			"pos_y": "0.",
 			"pos_z": "11.1938",
 			"uuid": 607114
 		},
@@ -1264,7 +1264,7 @@
 				"uuid_override": 251713
 			},
 			"path": "Antrieb/KurbelA.json",
-			"pos_x": "1.8",
+			"pos_x": "2.0812",
 			"pos_y": "0.",
 			"pos_z": "-5.325",
 			"uuid": 251713
@@ -1325,27 +1325,6 @@
 			"AParent": 804896,
 			"B": 76,
 			"BParent": 22824,
-			"type": "link"
-		},
-		{
-			"A": 206,
-			"AParent": 804896,
-			"B": 346,
-			"BParent": 386133,
-			"type": "link"
-		},
-		{
-			"A": 349,
-			"AParent": 386133,
-			"B": 239,
-			"BParent": 22824,
-			"type": "link"
-		},
-		{
-			"A": 348,
-			"AParent": 386133,
-			"B": 207,
-			"BParent": 804896,
 			"type": "link"
 		},
 		{
@@ -1482,34 +1461,6 @@
 			"type": "link"
 		},
 		{
-			"A": 95,
-			"AParent": 804896,
-			"B": 350,
-			"BParent": 386133,
-			"type": "link"
-		},
-		{
-			"A": 161,
-			"AParent": 804896,
-			"B": 347,
-			"BParent": 386133,
-			"type": "link"
-		},
-		{
-			"A": 161,
-			"AParent": 804896,
-			"B": 161,
-			"BParent": 529089,
-			"type": "link"
-		},
-		{
-			"A": 161,
-			"AParent": 529089,
-			"B": 161,
-			"BParent": 889278,
-			"type": "link"
-		},
-		{
 			"A": 86,
 			"AParent": 518848,
 			"B": 86,
@@ -1619,62 +1570,6 @@
 			"AParent": 824494,
 			"B": 1420,
 			"BParent": 518848,
-			"type": "link"
-		},
-		{
-			"A": 206,
-			"AParent": 804896,
-			"B": 206,
-			"BParent": 529089,
-			"type": "link"
-		},
-		{
-			"A": 206,
-			"AParent": 529089,
-			"B": 206,
-			"BParent": 889278,
-			"type": "link"
-		},
-		{
-			"A": 95,
-			"AParent": 889278,
-			"B": 95,
-			"BParent": 529089,
-			"type": "link"
-		},
-		{
-			"A": 95,
-			"AParent": 529089,
-			"B": 95,
-			"BParent": 804896,
-			"type": "link"
-		},
-		{
-			"A": 207,
-			"AParent": 804896,
-			"B": 207,
-			"BParent": 529089,
-			"type": "link"
-		},
-		{
-			"A": 207,
-			"AParent": 529089,
-			"B": 207,
-			"BParent": 889278,
-			"type": "link"
-		},
-		{
-			"A": 239,
-			"AParent": 824494,
-			"B": 239,
-			"BParent": 518848,
-			"type": "link"
-		},
-		{
-			"A": 239,
-			"AParent": 518848,
-			"B": 239,
-			"BParent": 22824,
 			"type": "link"
 		},
 		{
@@ -1956,6 +1851,195 @@
 			"B": 1420,
 			"BParent": 22824,
 			"type": "link"
+		},
+		{
+			"A": 235,
+			"AParent": 22824,
+			"B": 59,
+			"BParent": 804896,
+			"type": "link"
+		},
+		{
+			"A": 98,
+			"AParent": 804896,
+			"B": 236,
+			"BParent": 22824,
+			"type": "link"
+		},
+		{
+			"A": 59,
+			"AParent": 529089,
+			"B": 235,
+			"BParent": 518848,
+			"type": "link"
+		},
+		{
+			"A": 98,
+			"AParent": 529089,
+			"B": 236,
+			"BParent": 518848,
+			"type": "link"
+		},
+		{
+			"A": 59,
+			"AParent": 889278,
+			"B": 235,
+			"BParent": 824494,
+			"type": "link"
+		},
+		{
+			"A": 98,
+			"AParent": 889278,
+			"B": 236,
+			"BParent": 824494,
+			"type": "link"
+		},
+		{
+			"A": 162,
+			"AParent": 804896,
+			"B": 349,
+			"BParent": 386133,
+			"type": "rod"
+		},
+		{
+			"A": 3,
+			"AParent": 804896,
+			"B": 347,
+			"BParent": 386133,
+			"type": "rod"
+		},
+		{
+			"A": 193,
+			"AParent": 804896,
+			"B": 348,
+			"BParent": 386133,
+			"type": "rod"
+		},
+		{
+			"A": 192,
+			"AParent": 804896,
+			"B": 350,
+			"BParent": 386133,
+			"type": "rod"
+		},
+		{
+			"A": 205,
+			"AParent": 804896,
+			"B": 346,
+			"BParent": 386133,
+			"type": "rod"
+		},
+		{
+			"A": 205,
+			"AParent": 804896,
+			"B": 205,
+			"BParent": 529089,
+			"type": "rod"
+		},
+		{
+			"A": 205,
+			"AParent": 529089,
+			"B": 205,
+			"BParent": 889278,
+			"type": "rod"
+		},
+		{
+			"A": 203,
+			"AParent": 889278,
+			"B": 203,
+			"BParent": 529089,
+			"type": "rod"
+		},
+		{
+			"A": 203,
+			"AParent": 529089,
+			"B": 203,
+			"BParent": 804896,
+			"type": "rod"
+		},
+		{
+			"A": 193,
+			"AParent": 804896,
+			"B": 193,
+			"BParent": 529089,
+			"type": "rod"
+		},
+		{
+			"A": 193,
+			"AParent": 529089,
+			"B": 193,
+			"BParent": 889278,
+			"type": "rod"
+		},
+		{
+			"A": 6,
+			"AParent": 529089,
+			"B": 3,
+			"BParent": 889278,
+			"type": "rod"
+		},
+		{
+			"A": 198,
+			"AParent": 889278,
+			"B": 11,
+			"BParent": 529089,
+			"type": "rod"
+		},
+		{
+			"A": 164,
+			"AParent": 529089,
+			"B": 162,
+			"BParent": 889278,
+			"type": "rod"
+		},
+		{
+			"A": 169,
+			"AParent": 889278,
+			"B": 190,
+			"BParent": 529089,
+			"type": "rod"
+		},
+		{
+			"A": 198,
+			"AParent": 529089,
+			"B": 11,
+			"BParent": 804896,
+			"type": "rod"
+		},
+		{
+			"A": 3,
+			"AParent": 529089,
+			"B": 6,
+			"BParent": 804896,
+			"type": "rod"
+		},
+		{
+			"A": 169,
+			"AParent": 529089,
+			"B": 190,
+			"BParent": 804896,
+			"type": "rod"
+		},
+		{
+			"A": 164,
+			"AParent": 804896,
+			"B": 162,
+			"BParent": 529089,
+			"type": "rod"
+		},
+		{
+			"A": 192,
+			"AParent": 804896,
+			"B": 192,
+			"BParent": 529089,
+			"type": "rod"
+		},
+		{
+			"A": 192,
+			"AParent": 529089,
+			"B": 192,
+			"BParent": 889278,
+			"type": "rod"
 		}
 	]
 }

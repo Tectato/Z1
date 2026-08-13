@@ -462,7 +462,7 @@
 			},
 			"path": "Mikroprogrammwerk/MikroprogrammKriterium.json",
 			"pos_x": "-4.4813",
-			"pos_y": "1.08",
+			"pos_y": "0.135",
 			"pos_z": "-5.1563",
 			"uuid": -1
 		},
@@ -1790,13 +1790,6 @@
 			"type": "link"
 		},
 		{
-			"A": 114,
-			"AParent": 584863,
-			"B": 522,
-			"BParent": 829737,
-			"type": "link"
-		},
-		{
 			"A": 2119,
 			"AParent": 664187,
 			"B": 169,
@@ -1846,13 +1839,6 @@
 			"type": "link"
 		},
 		{
-			"A": 146,
-			"AParent": 74255,
-			"B": 168,
-			"BParent": 679916,
-			"type": "link"
-		},
-		{
 			"A": 489,
 			"AParent": 584863,
 			"B": 311,
@@ -1860,37 +1846,9 @@
 			"type": "link"
 		},
 		{
-			"A": 494,
-			"AParent": 584863,
-			"B": 321,
-			"BParent": 74255,
-			"type": "link"
-		},
-		{
 			"A": 314,
 			"AParent": 74255,
 			"B": 667,
-			"BParent": 584863,
-			"type": "link"
-		},
-		{
-			"A": 322,
-			"AParent": 74255,
-			"B": 807,
-			"BParent": 584863,
-			"type": "link"
-		},
-		{
-			"A": 797,
-			"AParent": 584863,
-			"B": 7,
-			"BParent": 74255,
-			"type": "link"
-		},
-		{
-			"A": 12,
-			"AParent": 74255,
-			"B": 800,
 			"BParent": 584863,
 			"type": "link"
 		},
@@ -1923,32 +1881,74 @@
 			"type": "link"
 		},
 		{
-			"A": 263,
-			"AParent": 679916,
-			"B": 547,
-			"BParent": 829737,
-			"type": "link"
-		},
-		{
 			"A": 602,
 			"AParent": 584863,
 			"B": 38,
 			"BParent": 74255,
-			"type": "link"
+			"type": "rod"
+		},
+		{
+			"A": 322,
+			"AParent": 74255,
+			"B": 807,
+			"BParent": 584863,
+			"type": "rod"
 		},
 		{
 			"A": 293,
 			"AParent": 829737,
 			"B": 672,
 			"BParent": 584863,
-			"type": "link"
+			"type": "rod"
 		},
 		{
-			"A": 292,
-			"AParent": 829737,
-			"B": 674,
+			"A": 797,
+			"AParent": 584863,
+			"B": 7,
+			"BParent": 74255,
+			"type": "rod"
+		},
+		{
+			"A": 12,
+			"AParent": 74255,
+			"B": 800,
 			"BParent": 584863,
-			"type": "link"
+			"type": "rod"
+		},
+		{
+			"A": 674,
+			"AParent": 584863,
+			"B": 292,
+			"BParent": 829737,
+			"type": "rod"
+		},
+		{
+			"A": 114,
+			"AParent": 584863,
+			"B": 522,
+			"BParent": 829737,
+			"type": "rod"
+		},
+		{
+			"A": 655,
+			"AParent": 584863,
+			"B": 20,
+			"BParent": 74255,
+			"type": "rod"
+		},
+		{
+			"A": 146,
+			"AParent": 74255,
+			"B": 35,
+			"BParent": 679916,
+			"type": "rod"
+		},
+		{
+			"A": 547,
+			"AParent": 829737,
+			"B": 37,
+			"BParent": 679916,
+			"type": "rod"
 		}
 	],
 	"values": {

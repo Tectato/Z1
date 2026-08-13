@@ -1,0 +1,60 @@
+<svg height="4700.0" viewBox="-1130.0 -2510.0 2120.0 4700.0" width="2120.0" xmlns="http://www.w3.org/2000/svg" z1svg_version="2">
+	<g style="stroke:black;fill:#3d9ecb">
+		<path d="M -1120.0 -2500.0 L 980.0 -2500.0 L 980.0 2180.0 L -1120.0 2180.0 Z" id="outlinePath" />
+		<g id="holes" style="stroke:black;fill:#ffffff">
+			<circle cx="-1050.0" cy="-1950.0" id="pointHole_0_80mm" r="40.0" />
+			<circle cx="-450.0" cy="-1650.0" id="pointHole_1_80mm" r="40.0" />
+			<circle cx="300.0" cy="-1950.0" id="pointHole_2_80mm" r="40.0" />
+			<circle cx="900.0" cy="-1950.0" id="pointHole_3_80mm" r="40.0" />
+			<circle cx="900.0" cy="-1650.0" id="pointHole_4_80mm" r="40.0" />
+			<circle cx="-1050.0" cy="-1550.0" id="pointHole_5_80mm" r="40.0" />
+			<circle cx="-1050.0" cy="1150.0" id="pointHole_6_80mm" r="40.0" />
+			<circle cx="-1050.0" cy="1650.0" id="pointHole_7_80mm" r="40.0" />
+			<circle cx="-450.0" cy="1650.0" id="pointHole_8_80mm" r="40.0" />
+			<circle cx="300.0" cy="1400.0" id="pointHole_9_80mm" r="40.0" />
+			<circle cx="300.0" cy="1650.0" id="pointHole_10_80mm" r="40.0" />
+			<circle cx="300.0" cy="1850.0" id="pointHole_11_80mm" r="40.0" />
+			<circle cx="900.0" cy="1650.0" id="pointHole_12_80mm" r="40.0" />
+			<circle cx="900.0" cy="1400.0" id="pointHole_13_80mm" r="40.0" />
+			<circle cx="-450.0" cy="1200.0" id="pointHole_14_60mm" r="30.0" />
+			<circle cx="150.0" cy="1200.0" id="pointHole_15_60mm" r="30.0" />
+			<circle cx="-450.0" cy="-1200.0" id="pointHole_16_60mm" r="30.0" />
+			<circle cx="150.0" cy="-1500.0" id="pointHole_17_60mm" r="30.0" />
+			<circle cx="-1050.0" cy="-1250.0" id="pointHole_18_50mm" r="25.0" />
+			<circle cx="-1050.0" cy="-950.0" id="pointHole_19_50mm" r="25.0" />
+			<circle cx="-1050.0" cy="-650.0" id="pointHole_20_50mm" r="25.0" />
+			<circle cx="-1050.0" cy="-350.0" id="pointHole_21_50mm" r="25.0" />
+			<circle cx="-1050.0" cy="-50.0" id="pointHole_22_50mm" r="25.0" />
+			<circle cx="-1050.0" cy="250.0" id="pointHole_23_50mm" r="25.0" />
+			<circle cx="-1050.0" cy="550.0" id="pointHole_24_50mm" r="25.0" />
+			<circle cx="-1050.0" cy="850.0" id="pointHole_25_50mm" r="25.0" />
+			<circle cx="-250.0" cy="1050.0" id="pointHole_26_50mm" r="25.0" />
+			<circle cx="-250.0" cy="750.0" id="pointHole_27_50mm" r="25.0" />
+			<circle cx="-250.0" cy="450.0" id="pointHole_28_50mm" r="25.0" />
+			<circle cx="-250.0" cy="150.0" id="pointHole_29_50mm" r="25.0" />
+			<circle cx="-250.0" cy="-150.0" id="pointHole_30_50mm" r="25.0" />
+			<circle cx="-250.0" cy="-450.0" id="pointHole_31_50mm" r="25.0" />
+			<circle cx="-250.0" cy="-750.0" id="pointHole_32_50mm" r="25.0" />
+			<circle cx="-250.0" cy="-1050.0" id="pointHole_33_50mm" r="25.0" />
+			<circle cx="900.0" cy="-1050.0" id="pointHole_34_50mm" r="25.0" />
+			<circle cx="900.0" cy="-750.0" id="pointHole_35_50mm" r="25.0" />
+			<circle cx="900.0" cy="-450.0" id="pointHole_36_50mm" r="25.0" />
+			<circle cx="900.0" cy="-150.0" id="pointHole_37_50mm" r="25.0" />
+			<circle cx="900.0" cy="150.0" id="pointHole_38_50mm" r="25.0" />
+			<circle cx="900.0" cy="450.0" id="pointHole_39_50mm" r="25.0" />
+			<circle cx="900.0" cy="750.0" id="pointHole_40_50mm" r="25.0" />
+			<circle cx="900.0" cy="1050.0" id="pointHole_41_50mm" r="25.0" />
+			<circle cx="300.0" cy="750.0" id="pointHole_42_40mm" r="20.0" />
+			<circle cx="-1050.0" cy="-2400.0" id="pointHole_43_100mm" r="50.0" />
+			<circle cx="750.0" cy="-2400.0" id="pointHole_44_100mm" r="50.0" />
+			<circle cx="-600.0" cy="-1350.0" id="pointHole_45_60mm" r="30.0" />
+			<circle cx="300.0" cy="-300.0" id="pointHole_46_60mm" r="30.0" />
+			<circle cx="-600.0" cy="0.0" id="pointHole_47_60mm" r="30.0" />
+			<circle cx="300.0" cy="1050.0" id="pointHole_48_60mm" r="30.0" />
+			<circle cx="-600.0" cy="1350.0" id="pointHole_49_60mm" r="30.0" />
+			<circle cx="-900.0" cy="2100.0" id="pointHole_50_50mm" r="25.0" />
+			<circle cx="-1050.0" cy="2100.0" id="pointHole_51_100mm" r="50.0" />
+			<circle cx="750.0" cy="2100.0" id="pointHole_52_100mm" r="50.0" />
+		</g>
+	</g>
+</svg>

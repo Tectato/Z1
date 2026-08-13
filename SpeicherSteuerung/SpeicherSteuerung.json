@@ -6,6 +6,10 @@
 				"clockPins": [
 					{
 						"active": false,
+						"bounds": [
+							3,
+							4
+						],
 						"forwardStep": 3,
 						"id": "S11'",
 						"input": false,
@@ -17,16 +21,10 @@
 					},
 					{
 						"active": false,
-						"forwardStep": 3,
-						"input": false,
-						"pos_x": "0.5063",
-						"pos_z": "2.1563",
-						"pulsing": true,
-						"rotation": 3,
-						"uuid": 56
-					},
-					{
-						"active": false,
+						"bounds": [
+							3,
+							5
+						],
 						"forwardStep": 0,
 						"id": "S16",
 						"input": false,
@@ -38,6 +36,10 @@
 					},
 					{
 						"active": false,
+						"bounds": [
+							3,
+							4
+						],
 						"forwardStep": 2,
 						"input": false,
 						"pos_x": "1.7438",
@@ -48,6 +50,10 @@
 					},
 					{
 						"active": false,
+						"bounds": [
+							3,
+							4
+						],
 						"forwardStep": 2,
 						"input": false,
 						"pos_x": "1.7438",
@@ -58,6 +64,10 @@
 					},
 					{
 						"active": false,
+						"bounds": [
+							3,
+							4
+						],
 						"forwardStep": 2,
 						"input": false,
 						"pos_x": "1.8563",
@@ -68,6 +78,10 @@
 					},
 					{
 						"active": false,
+						"bounds": [
+							3,
+							4
+						],
 						"forwardStep": 2,
 						"id": "S11",
 						"input": false,
@@ -80,119 +94,199 @@
 				],
 				"globalPins": [
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"pos_x": "0.1875",
 						"pos_z": "1.2",
 						"static": true,
 						"uuid": 21
 					},
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"pos_x": "0.1875",
 						"pos_z": "0.9",
 						"static": true,
 						"uuid": 22
 					},
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"pos_x": "0.1875",
 						"pos_z": "0.6",
 						"static": true,
 						"uuid": 23
 					},
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"pos_x": "0.1875",
 						"pos_z": "0.3",
 						"static": true,
 						"uuid": 24
 					},
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"pos_x": "0.6",
 						"pos_z": "0.3",
 						"static": true,
 						"uuid": 25
 					},
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"pos_x": "0.6",
 						"pos_z": "0.6",
 						"static": true,
 						"uuid": 26
 					},
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"pos_x": "0.6",
 						"pos_z": "0.9",
 						"static": true,
 						"uuid": 27
 					},
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"pos_x": "0.6",
 						"pos_z": "1.2",
 						"static": true,
 						"uuid": 28
 					},
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"pos_x": "0.1875",
 						"pos_z": "-0.9",
 						"static": true,
 						"uuid": 29
 					},
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"pos_x": "0.1875",
 						"pos_z": "-0.6",
 						"static": true,
 						"uuid": 30
 					},
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"pos_x": "0.1875",
 						"pos_z": "-0.3",
 						"static": true,
 						"uuid": 31
 					},
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"pos_x": "0.1875",
 						"pos_z": "0.",
 						"static": true,
 						"uuid": 32
 					},
 					{
+						"bounds": [
+							3,
+							5
+						],
 						"pos_x": "0.6",
 						"pos_z": "-0.9",
 						"static": true,
 						"uuid": 33
 					},
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"pos_x": "0.6",
 						"pos_z": "-0.6",
 						"static": true,
 						"uuid": 34
 					},
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"pos_x": "0.6",
 						"pos_z": "-0.3",
 						"static": true,
 						"uuid": 35
 					},
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"pos_x": "0.6",
 						"pos_z": "0.",
 						"static": true,
 						"uuid": 36
 					},
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"pos_x": "0.1875",
 						"pos_z": "1.5",
 						"static": true,
 						"uuid": 45
 					},
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"pos_x": "0.6",
 						"pos_z": "1.5",
 						"static": true,
 						"uuid": 46
 					},
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"pos_x": "-0.225",
 						"pos_z": "-0.5438",
 						"uuid": 84
 					},
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"output": [
 							false,
 							2
@@ -202,100 +296,172 @@
 						"uuid": 92
 					},
 					{
+						"bounds": [
+							4,
+							4
+						],
 						"pos_x": "0.9",
 						"pos_z": "-0.9",
 						"static": true,
 						"uuid": 116
 					},
 					{
+						"bounds": [
+							4,
+							4
+						],
 						"pos_x": "0.9",
 						"pos_z": "-0.6",
 						"static": true,
 						"uuid": 117
 					},
 					{
+						"bounds": [
+							4,
+							4
+						],
 						"pos_x": "0.9",
 						"pos_z": "-0.3",
 						"static": true,
 						"uuid": 118
 					},
 					{
+						"bounds": [
+							4,
+							4
+						],
 						"pos_x": "0.9",
 						"pos_z": "0.",
 						"static": true,
 						"uuid": 119
 					},
 					{
+						"bounds": [
+							4,
+							4
+						],
 						"pos_x": "0.9",
 						"pos_z": "0.3",
 						"static": true,
 						"uuid": 120
 					},
 					{
+						"bounds": [
+							4,
+							4
+						],
 						"pos_x": "0.9",
 						"pos_z": "0.6",
 						"static": true,
 						"uuid": 121
 					},
 					{
+						"bounds": [
+							4,
+							4
+						],
 						"pos_x": "0.9",
 						"pos_z": "0.9",
 						"static": true,
 						"uuid": 122
 					},
 					{
+						"bounds": [
+							4,
+							4
+						],
 						"pos_x": "0.9",
 						"pos_z": "1.2",
 						"static": true,
 						"uuid": 123
 					},
 					{
+						"bounds": [
+							4,
+							4
+						],
 						"pos_x": "0.9",
 						"pos_z": "1.5",
 						"static": true,
 						"uuid": 124
 					},
 					{
+						"bounds": [
+							3,
+							5
+						],
 						"pos_x": "0.75",
 						"pos_z": "1.3875",
 						"uuid": 37
 					},
 					{
+						"bounds": [
+							3,
+							5
+						],
 						"pos_x": "0.75",
 						"pos_z": "1.0875",
 						"uuid": 38
 					},
 					{
+						"bounds": [
+							3,
+							5
+						],
 						"pos_x": "0.75",
 						"pos_z": "0.4875",
 						"uuid": 39
 					},
 					{
+						"bounds": [
+							3,
+							5
+						],
 						"pos_x": "0.75",
 						"pos_z": "0.7875",
 						"uuid": 40
 					},
 					{
+						"bounds": [
+							3,
+							5
+						],
 						"pos_x": "0.75",
 						"pos_z": "-0.4125",
 						"uuid": 41
 					},
 					{
+						"bounds": [
+							3,
+							5
+						],
 						"pos_x": "0.75",
 						"pos_z": "0.1875",
 						"uuid": 42
 					},
 					{
+						"bounds": [
+							3,
+							5
+						],
 						"pos_x": "0.75",
 						"pos_z": "-0.1125",
 						"uuid": 43
 					},
 					{
+						"bounds": [
+							3,
+							5
+						],
 						"pos_x": "0.75",
 						"pos_z": "-0.7125",
 						"uuid": 44
 					},
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"output": [
 							false,
 							2
@@ -305,11 +471,19 @@
 						"uuid": 139
 					},
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"pos_x": "-0.225",
 						"pos_z": "-0.2438",
 						"uuid": 140
 					},
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"output": [
 							false,
 							2
@@ -319,11 +493,19 @@
 						"uuid": 141
 					},
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"pos_x": "-0.225",
 						"pos_z": "0.0563",
 						"uuid": 142
 					},
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"output": [
 							false,
 							2
@@ -333,11 +515,19 @@
 						"uuid": 143
 					},
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"pos_x": "-0.225",
 						"pos_z": "0.3563",
 						"uuid": 144
 					},
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"output": [
 							false,
 							2
@@ -347,11 +537,19 @@
 						"uuid": 145
 					},
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"pos_x": "-0.225",
 						"pos_z": "0.6563",
 						"uuid": 146
 					},
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"output": [
 							false,
 							2
@@ -361,11 +559,19 @@
 						"uuid": 147
 					},
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"pos_x": "-0.225",
 						"pos_z": "0.9563",
 						"uuid": 148
 					},
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"output": [
 							false,
 							2
@@ -375,11 +581,19 @@
 						"uuid": 149
 					},
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"pos_x": "-0.225",
 						"pos_z": "1.2563",
 						"uuid": 150
 					},
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"output": [
 							false,
 							2
@@ -389,139 +603,249 @@
 						"uuid": 151
 					},
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"pos_x": "-0.225",
 						"pos_z": "1.5563",
 						"uuid": 152
 					},
 					{
+						"bounds": [
+							3,
+							4
+						],
 						"pos_x": "1.805",
 						"pos_z": "-0.75",
 						"uuid": 15
 					},
 					{
+						"bounds": [
+							3,
+							4
+						],
 						"pos_x": "1.8",
 						"pos_z": "-0.45",
 						"uuid": 16
 					},
 					{
+						"bounds": [
+							3,
+							4
+						],
 						"pos_x": "1.8",
 						"pos_z": "-0.15",
 						"uuid": 17
 					},
 					{
+						"bounds": [
+							3,
+							4
+						],
 						"pos_x": "1.8",
 						"pos_z": "0.15",
 						"uuid": 18
 					},
 					{
+						"bounds": [
+							3,
+							4
+						],
 						"pos_x": "1.8",
 						"pos_z": "0.45",
 						"uuid": 19
 					},
 					{
+						"bounds": [
+							3,
+							4
+						],
 						"pos_x": "1.8",
 						"pos_z": "0.75",
 						"uuid": 20
 					},
 					{
+						"bounds": [
+							3,
+							4
+						],
 						"pos_x": "1.8",
 						"pos_z": "1.05",
 						"uuid": 85
 					},
 					{
+						"bounds": [
+							3,
+							4
+						],
 						"pos_x": "1.8",
 						"pos_z": "1.35",
 						"uuid": 86
 					},
 					{
+						"bounds": [
+							3,
+							5
+						],
 						"pos_x": "0.6",
 						"pos_z": "1.8",
 						"static": true,
 						"uuid": 13
 					},
 					{
+						"bounds": [
+							4,
+							5
+						],
 						"pos_x": "0.1875",
 						"pos_z": "1.8",
 						"static": true,
 						"uuid": 135
 					},
 					{
+						"bounds": [
+							4,
+							4
+						],
 						"pos_x": "0.9",
 						"pos_z": "1.8",
+						"static": true,
 						"uuid": 136
 					},
 					{
+						"bounds": [
+							4,
+							4
+						],
 						"pos_x": "1.4625",
 						"pos_z": "1.2",
 						"static": true,
 						"uuid": 137
 					},
 					{
+						"bounds": [
+							4,
+							4
+						],
 						"pos_x": "1.4625",
 						"pos_z": "0.3",
 						"static": true,
 						"uuid": 138
 					},
 					{
+						"bounds": [
+							4,
+							4
+						],
 						"pos_x": "1.4625",
 						"pos_z": "-0.6",
 						"static": true,
 						"uuid": 170
 					},
 					{
+						"bounds": [
+							3,
+							4
+						],
 						"pos_x": "1.2",
 						"pos_z": "-0.9",
 						"static": true,
 						"uuid": 171
 					},
 					{
+						"bounds": [
+							3,
+							4
+						],
 						"pos_x": "1.2",
 						"pos_z": "1.5",
 						"static": true,
 						"uuid": 172
 					},
 					{
+						"bounds": [
+							3,
+							5
+						],
 						"id": "S13'",
 						"pos_x": "0.0375",
 						"pos_z": "-1.4063",
 						"uuid": 206
 					},
 					{
+						"bounds": [
+							3,
+							5
+						],
 						"pos_x": "0.2438",
-						"pos_z": "-1.1813",
+						"pos_z": "-1.1625",
 						"uuid": 60
 					},
 					{
+						"bounds": [
+							3,
+							5
+						],
 						"id": "S13",
 						"pos_x": "0.6375",
 						"pos_z": "-1.0688",
 						"uuid": 95
 					},
 					{
+						"bounds": [
+							3,
+							4
+						],
 						"id": "S15",
 						"pos_x": "0.6563",
 						"pos_z": "-1.3125",
 						"uuid": 207
 					},
 					{
+						"bounds": [
+							3,
+							4
+						],
 						"pos_x": "1.2563",
 						"pos_z": "-1.1625",
 						"uuid": 186
 					},
 					{
+						"bounds": [
+							3,
+							4
+						],
 						"pos_x": "1.1625",
 						"pos_z": "-1.5563",
 						"uuid": 188
 					},
 					{
+						"bounds": [
+							3,
+							4
+						],
 						"pos_x": "1.1625",
 						"pos_z": "1.7438",
 						"uuid": 173
 					},
 					{
+						"bounds": [
+							3,
+							4
+						],
 						"pos_x": "1.2563",
 						"pos_z": "2.1563",
 						"uuid": 184
+					},
+					{
+						"bounds": [
+							4,
+							4
+						],
+						"pos_x": "0.5063",
+						"pos_z": "2.025",
+						"uuid": 89
 					}
 				],
 				"id": "UnnamedMachine0",
@@ -531,43 +855,128 @@
 							{
 								"bounds": [
 									0,
-									0
-								],
-								"pos_x": "1.2005",
-								"pos_z": "1.952",
-								"uuid": 177
-							},
-							{
-								"bounds": [
-									0,
-									0
+									3
 								],
 								"pos_x": "1.1984",
 								"pos_z": "-1.3568",
-								"uuid": 187
+								"uuid": 58
+							},
+							{
+								"bounds": [
+									0,
+									2
+								],
+								"pos_x": "-0.1688",
+								"pos_z": "-1.35",
+								"uuid": 208
 							},
 							{
 								"bounds": [
 									0,
 									0
 								],
-								"pos_x": "0.4399",
-								"pos_z": "-1.1225",
-								"uuid": 2
+								"pos_x": "1.2",
+								"pos_z": "1.95",
+								"uuid": 209
 							}
 						],
 						"height": 0,
 						"pins": [
 							{
 								"id": "S14",
-								"pos_x": "0.9938",
-								"pos_z": "-1.2938",
-								"uuid": 161
+								"pos_x": "0.9",
+								"pos_z": "-1.275",
+								"uuid": 3
 							},
 							{
-								"pos_x": "0.975",
-								"pos_z": "2.0063",
-								"uuid": 185
+								"pos_x": "0.8813",
+								"pos_z": "2.025",
+								"uuid": 6
+							},
+							{
+								"id": "S13'",
+								"pos_x": "0.1313",
+								"pos_z": "-1.4438",
+								"uuid": 205
+							}
+						],
+						"sheets": [
+							{
+								"file": "140_1.svg",
+								"pos_x": "0.7925",
+								"pos_y": 0,
+								"pos_z": "0.4588",
+								"rotation": "-2q",
+								"static": true,
+								"uuid": 196
+							}
+						]
+					},
+					{
+						"arms": [
+							{
+								"bounds": [
+									0,
+									1
+								],
+								"pos_x": "0.4313",
+								"pos_z": "-1.35",
+								"uuid": 194
+							},
+							{
+								"bounds": [
+									0,
+									2
+								],
+								"pos_x": "-0.1688",
+								"pos_z": "-1.1063",
+								"uuid": 204
+							},
+							{
+								"bounds": [
+									0,
+									1
+								],
+								"pos_x": "1.7813",
+								"pos_z": "1.8375",
+								"uuid": 165
+							},
+							{
+								"bounds": [
+									0,
+									1
+								],
+								"pos_x": "1.7813",
+								"pos_z": "-0.8625",
+								"uuid": 163
+							}
+						],
+						"height": 1,
+						"offset": "0.09",
+						"pins": [
+							{
+								"id": "S15",
+								"pos_x": "0.7313",
+								"pos_z": "-1.275",
+								"uuid": 193
+							},
+							{
+								"id": "S16",
+								"pos_x": "0.1313",
+								"pos_z": "-1.1625",
+								"uuid": 203
+							},
+							{
+								"id": "S10",
+								"pos_x": "1.4813",
+								"pos_z": "-0.8063",
+								"uuid": 162
+							},
+							{
+								"id": "S10",
+								"pos_x": "1.4813",
+								"pos_z": "1.8938",
+								"uuid": 164
 							}
 						],
 						"sheets": []
@@ -577,7 +986,228 @@
 							{
 								"bounds": [
 									0,
-									1
+									2
+								],
+								"pos_x": "0.4399",
+								"pos_z": "-1.1225",
+								"uuid": 127
+							},
+							{
+								"bounds": [
+									0,
+									2
+								],
+								"pos_x": "1.8",
+								"pos_z": "-1.3313",
+								"uuid": 189
+							},
+							{
+								"bounds": [
+									2,
+									2
+								],
+								"pos_x": "1.8",
+								"pos_z": "2.25",
+								"uuid": 191
+							},
+							{
+								"bounds": [
+									0,
+									2
+								],
+								"pos_x": "0.4313",
+								"pos_z": "-1.5563",
+								"uuid": 197
+							},
+							{
+								"bounds": [
+									0,
+									2
+								],
+								"pos_x": "0.45",
+								"pos_z": "2.25",
+								"uuid": 56
+							}
+						],
+						"height": 2,
+						"offset": "0.09",
+						"pins": [
+							{
+								"id": "S11",
+								"pos_x": "1.5",
+								"pos_z": "-1.2563",
+								"uuid": 169
+							},
+							{
+								"id": "S11",
+								"pos_x": "1.5",
+								"pos_z": "2.325",
+								"uuid": 190
+							},
+							{
+								"id": "S13",
+								"pos_x": "0.7313",
+								"pos_z": "-1.05",
+								"uuid": 192
+							},
+							{
+								"id": "S11'",
+								"pos_x": "0.1313",
+								"pos_z": "-1.65",
+								"uuid": 198
+							},
+							{
+								"id": "S11'",
+								"pos_x": "0.15",
+								"pos_z": "2.1563",
+								"uuid": 11
+							}
+						],
+						"sheets": []
+					},
+					{
+						"arms": [
+							{
+								"bounds": [
+									1,
+									3
+								],
+								"pos_x": "1.2005",
+								"pos_z": "1.952",
+								"uuid": 177
+							},
+							{
+								"bounds": [
+									2,
+									3
+								],
+								"pos_x": "1.1984",
+								"pos_z": "-1.3568",
+								"uuid": 187
+							},
+							{
+								"bounds": [
+									2,
+									3
+								],
+								"pos_x": "0.4399",
+								"pos_z": "-1.1225",
+								"uuid": 2
+							},
+							{
+								"bounds": [
+									2,
+									3
+								],
+								"pos_x": "1.8",
+								"pos_z": "-1.3313",
+								"uuid": 167
+							},
+							{
+								"bounds": [
+									3,
+									3
+								],
+								"pos_x": "1.8",
+								"pos_z": "2.25",
+								"uuid": 168
+							},
+							{
+								"bounds": [
+									1,
+									3
+								],
+								"pos_x": "0.4313",
+								"pos_z": "-1.35",
+								"uuid": 195
+							},
+							{
+								"bounds": [
+									2,
+									3
+								],
+								"pos_x": "0.4313",
+								"pos_z": "-1.5563",
+								"uuid": 200
+							},
+							{
+								"bounds": [
+									2,
+									3
+								],
+								"pos_x": "-0.1688",
+								"pos_z": "-1.1063",
+								"uuid": 201
+							},
+							{
+								"bounds": [
+									2,
+									3
+								],
+								"pos_x": "-0.1688",
+								"pos_z": "-1.35",
+								"uuid": 202
+							},
+							{
+								"bounds": [
+									0,
+									3
+								],
+								"pos_x": "0.45",
+								"pos_z": "2.25",
+								"uuid": 93
+							},
+							{
+								"bounds": [
+									1,
+									3
+								],
+								"pos_x": "1.7813",
+								"pos_z": "-0.8625",
+								"uuid": 94
+							},
+							{
+								"bounds": [
+									1,
+									3
+								],
+								"pos_x": "1.7813",
+								"pos_z": "1.8375",
+								"uuid": 161
+							}
+						],
+						"height": 3,
+						"offset": "0.09",
+						"pins": [
+							{
+								"pos_x": "1.7438",
+								"pos_z": "-1.0688",
+								"uuid": 59
+							},
+							{
+								"pos_x": "1.7438",
+								"pos_z": "1.6313",
+								"uuid": 98
+							}
+						],
+						"sheets": [
+							{
+								"file": "140_2.svg",
+								"pos_x": "0.8037",
+								"pos_y": 0,
+								"pos_z": "0.3525",
+								"rotation": "-2q",
+								"static": true,
+								"uuid": 199
+							}
+						]
+					},
+					{
+						"arms": [
+							{
+								"bounds": [
+									3,
+									4
 								],
 								"pos_x": "-0.1798",
 								"pos_z": "-0.7435",
@@ -585,8 +1215,8 @@
 							},
 							{
 								"bounds": [
-									0,
-									1
+									3,
+									4
 								],
 								"pos_x": "-0.1688",
 								"pos_z": "-0.45",
@@ -594,8 +1224,8 @@
 							},
 							{
 								"bounds": [
-									0,
-									1
+									3,
+									4
 								],
 								"pos_x": "-0.1688",
 								"pos_z": "1.35",
@@ -603,8 +1233,8 @@
 							},
 							{
 								"bounds": [
-									0,
-									1
+									3,
+									4
 								],
 								"pos_x": "-0.1688",
 								"pos_z": "1.05",
@@ -612,8 +1242,8 @@
 							},
 							{
 								"bounds": [
-									0,
-									1
+									3,
+									4
 								],
 								"pos_x": "-0.1688",
 								"pos_z": "0.75",
@@ -621,8 +1251,8 @@
 							},
 							{
 								"bounds": [
-									0,
-									1
+									3,
+									4
 								],
 								"pos_x": "-0.1688",
 								"pos_z": "0.45",
@@ -630,8 +1260,8 @@
 							},
 							{
 								"bounds": [
-									0,
-									1
+									3,
+									4
 								],
 								"pos_x": "-0.1688",
 								"pos_z": "0.15",
@@ -639,15 +1269,15 @@
 							},
 							{
 								"bounds": [
-									0,
-									1
+									3,
+									4
 								],
 								"pos_x": "-0.1688",
 								"pos_z": "-0.15",
 								"uuid": 9
 							}
 						],
-						"height": 1,
+						"height": 4,
 						"pins": [
 							{
 								"pos_x": "1.2",
@@ -992,7 +1622,7 @@
 						]
 					},
 					{
-						"height": 2,
+						"height": 5,
 						"pins": [
 							{
 								"pos_x": "0.3938",
@@ -1219,13 +1849,138 @@
 				],
 				"relations": [
 					{
-						"A": 161,
-						"B": 187,
+						"A": 6,
+						"B": 3,
+						"type": "rod"
+					},
+					{
+						"A": 3,
+						"B": 58,
 						"type": "arm"
 					},
 					{
-						"A": 185,
-						"B": 177,
+						"A": 6,
+						"B": 209,
+						"type": "arm"
+					},
+					{
+						"A": 205,
+						"B": 208,
+						"type": "arm"
+					},
+					{
+						"A": 187,
+						"B": 58,
+						"type": "link"
+					},
+					{
+						"A": 208,
+						"B": 202,
+						"type": "link"
+					},
+					{
+						"A": 193,
+						"B": 194,
+						"type": "arm"
+					},
+					{
+						"A": 203,
+						"B": 204,
+						"type": "arm"
+					},
+					{
+						"A": 162,
+						"B": 163,
+						"type": "arm"
+					},
+					{
+						"A": 164,
+						"B": 162,
+						"type": "rod"
+					},
+					{
+						"A": 164,
+						"B": 165,
+						"type": "arm"
+					},
+					{
+						"A": 194,
+						"B": 195,
+						"type": "link"
+					},
+					{
+						"A": 204,
+						"B": 201,
+						"type": "link"
+					},
+					{
+						"A": 165,
+						"B": 161,
+						"type": "link"
+					},
+					{
+						"A": 163,
+						"B": 94,
+						"type": "link"
+					},
+					{
+						"A": 169,
+						"B": 189,
+						"type": "arm"
+					},
+					{
+						"A": 169,
+						"B": 190,
+						"type": "rod"
+					},
+					{
+						"A": 190,
+						"B": 191,
+						"type": "arm"
+					},
+					{
+						"A": 192,
+						"B": 127,
+						"type": "arm"
+					},
+					{
+						"A": 198,
+						"B": 197,
+						"type": "arm"
+					},
+					{
+						"A": 198,
+						"B": 11,
+						"type": "rod"
+					},
+					{
+						"A": 11,
+						"B": 56,
+						"type": "arm"
+					},
+					{
+						"A": 127,
+						"B": 2,
+						"type": "link"
+					},
+					{
+						"A": 189,
+						"B": 167,
+						"type": "link"
+					},
+					{
+						"A": 200,
+						"B": 197,
+						"type": "link"
+					},
+					{
+						"A": 59,
+						"B": 94,
+						"type": "arm"
+					},
+					{
+						"A": 98,
+						"B": 161,
 						"type": "arm"
 					},
 					{
@@ -1256,6 +2011,51 @@
 					{
 						"A": 95,
 						"B": 2,
+						"type": "arm"
+					},
+					{
+						"A": 91,
+						"B": 167,
+						"type": "arm"
+					},
+					{
+						"A": 88,
+						"B": 167,
+						"type": "arm"
+					},
+					{
+						"A": 87,
+						"B": 168,
+						"type": "arm"
+					},
+					{
+						"A": 90,
+						"B": 168,
+						"type": "arm"
+					},
+					{
+						"A": 207,
+						"B": 195,
+						"type": "arm"
+					},
+					{
+						"A": 55,
+						"B": 200,
+						"type": "arm"
+					},
+					{
+						"A": 131,
+						"B": 201,
+						"type": "arm"
+					},
+					{
+						"A": 206,
+						"B": 202,
+						"type": "arm"
+					},
+					{
+						"A": 89,
+						"B": 93,
 						"type": "arm"
 					},
 					{
