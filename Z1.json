@@ -481,9 +481,9 @@
 				"uuid_override": 57615
 			},
 			"path": "Z1MemoryFull.json",
-			"pos_x": "4.7813",
+			"pos_x": "4.2563",
 			"pos_y": "0.",
-			"pos_z": "-4.7813",
+			"pos_z": "-4.7438",
 			"uuid": 57615
 		},
 		{
@@ -577,9 +577,9 @@
 				"uuid_override": 484810
 			},
 			"path": "Z1Rechenwerk.json",
-			"pos_x": "-2.0625",
+			"pos_x": "-1.6125",
 			"pos_y": "0.",
-			"pos_z": "2.1188",
+			"pos_z": "2.0438",
 			"uuid": 484810
 		}
 	],

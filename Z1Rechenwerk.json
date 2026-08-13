@@ -249,9 +249,9 @@
 
 			},
 			"path": "Addierwerk/Addierwerk_exponent.json",
-			"pos_x": "-0.75",
+			"pos_x": "-0.525",
 			"pos_y": "1.08",
-			"pos_z": "-5.1",
+			"pos_z": "-4.8375",
 			"uuid": -1
 		},
 		{
@@ -393,9 +393,9 @@
 
 			},
 			"path": "Register/Register.json",
-			"pos_x": "2.4938",
+			"pos_x": "2.0063",
 			"pos_y": "1.08",
-			"pos_z": "1.1625",
+			"pos_z": "1.275",
 			"uuid": -1
 		},
 		{
@@ -451,9 +451,9 @@
 
 			},
 			"path": "Mikroprogrammwerk/MikroprogrammStack.json",
-			"pos_x": "-4.4813",
+			"pos_x": "-4.3688",
 			"pos_y": "0.9",
-			"pos_z": "-5.1563",
+			"pos_z": "-5.0251",
 			"uuid": -1
 		},
 		{
@@ -461,9 +461,9 @@
 
 			},
 			"path": "Mikroprogrammwerk/MikroprogrammKriterium.json",
-			"pos_x": "-4.4813",
+			"pos_x": "-4.3688",
 			"pos_y": "0.135",
-			"pos_z": "-5.1563",
+			"pos_z": "-5.0251",
 			"uuid": -1
 		},
 		{
@@ -471,9 +471,9 @@
 
 			},
 			"path": "Leitwerk/Leitwerk.json",
-			"pos_x": "0.45",
+			"pos_x": "0.4875",
 			"pos_y": "1.08",
-			"pos_z": "-9.4875",
+			"pos_z": "-9.075",
 			"uuid": -1
 		},
 		{
@@ -501,132 +501,13 @@
 				"uuid_override": 427379
 			},
 			"path": "Antrieb/KurbelB.json",
-			"pos_x": "-3.375",
+			"pos_x": "-2.9437",
 			"pos_y": "0.",
-			"pos_z": "-12.6563",
+			"pos_z": "-12.1125",
 			"uuid": 427379
 		}
 	],
 	"relations": [
-		{
-			"A": 95,
-			"AParent": 74255,
-			"B": 95,
-			"BParent": 55247,
-			"type": "link"
-		},
-		{
-			"A": 94,
-			"AParent": 55247,
-			"B": 94,
-			"BParent": 74255,
-			"type": "link"
-		},
-		{
-			"A": 86,
-			"AParent": 55247,
-			"B": 86,
-			"BParent": 74255,
-			"type": "link"
-		},
-		{
-			"A": 85,
-			"AParent": 55247,
-			"B": 85,
-			"BParent": 74255,
-			"type": "link"
-		},
-		{
-			"A": 84,
-			"AParent": 55247,
-			"B": 84,
-			"BParent": 74255,
-			"type": "link"
-		},
-		{
-			"A": 83,
-			"AParent": 55247,
-			"B": 83,
-			"BParent": 74255,
-			"type": "link"
-		},
-		{
-			"A": 82,
-			"AParent": 55247,
-			"B": 82,
-			"BParent": 74255,
-			"type": "link"
-		},
-		{
-			"A": 74,
-			"AParent": 74255,
-			"B": 74,
-			"BParent": 55247,
-			"type": "link"
-		},
-		{
-			"A": 70,
-			"AParent": 55247,
-			"B": 70,
-			"BParent": 74255,
-			"type": "link"
-		},
-		{
-			"A": 71,
-			"AParent": 55247,
-			"B": 71,
-			"BParent": 74255,
-			"type": "link"
-		},
-		{
-			"A": 72,
-			"AParent": 55247,
-			"B": 72,
-			"BParent": 74255,
-			"type": "link"
-		},
-		{
-			"A": 73,
-			"AParent": 55247,
-			"B": 73,
-			"BParent": 74255,
-			"type": "link"
-		},
-		{
-			"A": 47,
-			"AParent": 55247,
-			"B": 47,
-			"BParent": 74255,
-			"type": "link"
-		},
-		{
-			"A": 48,
-			"AParent": 55247,
-			"B": 48,
-			"BParent": 74255,
-			"type": "link"
-		},
-		{
-			"A": 56,
-			"AParent": 55247,
-			"B": 56,
-			"BParent": 74255,
-			"type": "link"
-		},
-		{
-			"A": 57,
-			"AParent": 55247,
-			"B": 57,
-			"BParent": 74255,
-			"type": "link"
-		},
-		{
-			"A": 7,
-			"AParent": 55247,
-			"B": 304,
-			"BParent": 74255,
-			"type": "link"
-		},
 		{
 			"A": 62,
 			"AParent": 364656,
