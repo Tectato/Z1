@@ -731,59 +731,43 @@
 				}
 			},
 			"overrides": {
-				"machines": {
-					"22007": {
-						"uuid_override": 22824
-					}
-				}
+
 			},
 			"path": "Speicher/Speicher.json",
 			"pos_x": "1.0125",
 			"pos_y": "0.86",
 			"pos_z": "1.7438",
-			"uuid": 22007
+			"uuid": -1
 		},
 		{
 			"overrides": {
-				"machines": {
-					"432575": {
-						"uuid_override": 804896
-					}
-				}
+
 			},
 			"path": "SpeicherSteuerung/SpeicherSteuerung.json",
 			"pos_x": "-2.5875",
-			"pos_y": "0.86",
+			"pos_y": "0.005",
 			"pos_z": "1.5938",
-			"uuid": 432575
+			"uuid": -1
 		},
 		{
 			"overrides": {
-				"machines": {
-					"840065": {
-						"uuid_override": 386133
-					}
-				}
+
 			},
 			"path": "Planwerk/Planwerk.json",
 			"pos_x": "-1.2188",
 			"pos_y": "0.",
 			"pos_z": "-2.3063",
-			"uuid": 840065
+			"uuid": -1
 		},
 		{
 			"overrides": {
-				"machines": {
-					"237118": {
-						"uuid_override": 566882
-					}
-				}
+
 			},
 			"path": "Waehlwerk/Waehlwerk_Zellen.json",
 			"pos_x": "1.6125",
 			"pos_y": "0.86",
 			"pos_z": "-1.5563",
-			"uuid": 237118
+			"uuid": -1
 		},
 		{
 			"diff": {
@@ -805,31 +789,23 @@
 				}
 			},
 			"overrides": {
-				"machines": {
-					"648191": {
-						"uuid_override": 570719
-					}
-				}
+
 			},
 			"path": "Waehlwerk/Waehlwerk_Schichten.json",
 			"pos_x": "1.6125",
 			"pos_y": "0.86",
 			"pos_z": "-1.5938",
-			"uuid": 648191
+			"uuid": -1
 		},
 		{
 			"overrides": {
-				"machines": {
-					"736641": {
-						"uuid_override": 520341
-					}
-				}
+
 			},
 			"path": "LeserMockup.json",
 			"pos_x": "-0.1312",
 			"pos_y": "2.",
 			"pos_z": "-2.3062",
-			"uuid": 736641
+			"uuid": -1
 		}
 	],
 	"relations": [
@@ -887,27 +863,6 @@
 			"AParent": 804896,
 			"B": 76,
 			"BParent": 22824,
-			"type": "link"
-		},
-		{
-			"A": 206,
-			"AParent": 804896,
-			"B": 346,
-			"BParent": 386133,
-			"type": "link"
-		},
-		{
-			"A": 349,
-			"AParent": 386133,
-			"B": 239,
-			"BParent": 22824,
-			"type": "link"
-		},
-		{
-			"A": 348,
-			"AParent": 386133,
-			"B": 207,
-			"BParent": 804896,
 			"type": "link"
 		},
 		{
@@ -1100,20 +1055,6 @@
 			"type": "link"
 		},
 		{
-			"A": 95,
-			"AParent": 804896,
-			"B": 350,
-			"BParent": 386133,
-			"type": "link"
-		},
-		{
-			"A": 347,
-			"AParent": 386133,
-			"B": 161,
-			"BParent": 804896,
-			"type": "link"
-		},
-		{
 			"A": 167,
 			"AParent": 570719,
 			"B": 86,
@@ -1168,6 +1109,55 @@
 			"B": 1420,
 			"BParent": 22824,
 			"type": "link"
+		},
+		{
+			"A": 205,
+			"AParent": 804896,
+			"B": 346,
+			"BParent": 386133,
+			"type": "rod"
+		},
+		{
+			"A": 3,
+			"AParent": 804896,
+			"B": 347,
+			"BParent": 386133,
+			"type": "rod"
+		},
+		{
+			"A": 193,
+			"AParent": 804896,
+			"B": 348,
+			"BParent": 386133,
+			"type": "rod"
+		},
+		{
+			"A": 192,
+			"AParent": 804896,
+			"B": 350,
+			"BParent": 386133,
+			"type": "rod"
+		},
+		{
+			"A": 162,
+			"AParent": 804896,
+			"B": 349,
+			"BParent": 386133,
+			"type": "rod"
+		},
+		{
+			"A": 59,
+			"AParent": 804896,
+			"B": 235,
+			"BParent": 22824,
+			"type": "link"
+		},
+		{
+			"A": 98,
+			"AParent": 804896,
+			"B": 236,
+			"BParent": 22824,
+			"type": "link"
 		}
 	],
 	"sequences": [
@@ -1206,39 +1196,6 @@
 					],
 					"parent": 520341,
 					"uuid": 27
-				},
-				{
-					"activations": [
-						1,
-						1,
-						1,
-						1,
-						0
-					],
-					"parent": 520341,
-					"uuid": 28
-				},
-				{
-					"activations": [
-						1,
-						1,
-						1,
-						1,
-						0
-					],
-					"parent": 520341,
-					"uuid": 32
-				},
-				{
-					"activations": [
-						1,
-						1,
-						1,
-						1,
-						0
-					],
-					"parent": 520341,
-					"uuid": 31
 				},
 				{
 					"activations": [
