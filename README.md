@@ -1,7 +1,9 @@
 # Z1
 Digital recreation of Konrad Zuse's Z1 reconstruction, to be run using the Z1 Simulator (https://tectato.itch.io/z1-simulator)
 
-For the repository: the `main` branch is where development happens, and, while functional, contains a lot of floating and unused parts. Use the `clean` branch for a more true-to-life view.
+For the repository: the `main` branch is where development happens, and, while functional, contains a lot of floating and unused parts. The `clean` branch removes those and places the machine's sections closer to their intended positions.
+
+The vertical scale is displayed greatly exaggerated. You can set the "sheet spacing" in settings to 0.021 for something closer to reality, but keep in mind that the placement of comment boxes assumes a spacing of 0.045
 
 # DISCLAIMER
 This project makes no claim to be a 1:1 identical twin to the physical machine, due mainly to the fact that so far the data to make that possible has not been published. This recreation is based primarily on the technical drawings available on the Konrad Zuse Internet Archive (https://zuse.zib.de/) and photos of the machine. Numerous changes had to be made to enable the digital version to operate correctly, these are marked in each scene through comment boxes and/or through suffixes (usually -) in sheet file names. Changes to the machine's microcode are listed below (WIP)
