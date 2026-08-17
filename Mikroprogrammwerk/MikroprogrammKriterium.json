@@ -305,7 +305,7 @@
 						],
 						"pos": [
 							"-0.82",
-							"2.685",
+							"2.64",
 							"1.656"
 						],
 						"start": [
@@ -341,7 +341,7 @@
 						],
 						"pos": [
 							"-1.2408",
-							"2.885",
+							"2.84",
 							"1.4958"
 						],
 						"start": [
@@ -350,6 +350,24 @@
 							"-0.05"
 						],
 						"text": "Pin added for delay, otherwise setting bit 0 of the phase happens too early and gets cleared\n-> Confirmed"
+					},
+					{
+						"end": [
+							"-0.0125",
+							"-0.185",
+							"0.1563"
+						],
+						"pos": [
+							"-1.5694",
+							"1.57",
+							"-2.3209"
+						],
+						"start": [
+							"-0.4556",
+							"-0.33",
+							"-0.3059"
+						],
+						"text": "Emergency stop"
 					}
 				],
 				"globalPins": [
@@ -2431,7 +2449,7 @@
 								"file": "custom_13.svg",
 								"pos_x": "-0.6025",
 								"pos_y": 6,
-								"pos_z": "-3.11",
+								"pos_z": "-3.19",
 								"rotation": "-1q",
 								"uuid": 393
 							},
@@ -4518,31 +4536,6 @@
 						"A": 377,
 						"B": 286,
 						"type": "arm"
-					},
-					{
-						"A": 108,
-						"B": 93,
-						"type": "link"
-					},
-					{
-						"A": 109,
-						"B": 94,
-						"type": "link"
-					},
-					{
-						"A": 110,
-						"B": 95,
-						"type": "link"
-					},
-					{
-						"A": 111,
-						"B": 96,
-						"type": "link"
-					},
-					{
-						"A": 112,
-						"B": 97,
-						"type": "link"
 					}
 				]
 			},
