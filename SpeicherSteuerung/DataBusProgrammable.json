@@ -1,0 +1,460 @@
+{
+	"machines": [
+		{
+			"currentStepOverride": 3,
+			"machine": {
+				"clockPins": [
+					{
+						"active": false,
+						"forwardStep": 2,
+						"id": "writeData",
+						"input": true,
+						"pos_x": "-0.825",
+						"pos_z": "-1.2375",
+						"pulsing": true,
+						"rotation": 1,
+						"uuid": 212
+					},
+					{
+						"active": false,
+						"forwardStep": 1,
+						"id": "data_128",
+						"input": true,
+						"pos_x": "-1.2",
+						"pos_z": "-0.6375",
+						"pulsing": false,
+						"rotation": 0,
+						"uuid": 229
+					},
+					{
+						"active": false,
+						"forwardStep": 1,
+						"id": "data_64",
+						"input": true,
+						"pos_x": "-1.2",
+						"pos_z": "-0.3375",
+						"pulsing": false,
+						"rotation": 0,
+						"uuid": 230
+					},
+					{
+						"active": false,
+						"forwardStep": 1,
+						"id": "data_16",
+						"input": true,
+						"pos_x": "-1.2",
+						"pos_z": "0.2625",
+						"pulsing": false,
+						"rotation": 0,
+						"uuid": 231
+					},
+					{
+						"active": false,
+						"forwardStep": 1,
+						"id": "data_32",
+						"input": true,
+						"pos_x": "-1.2",
+						"pos_z": "-0.0375",
+						"pulsing": false,
+						"rotation": 0,
+						"uuid": 232
+					},
+					{
+						"active": false,
+						"forwardStep": 1,
+						"id": "data_1",
+						"input": true,
+						"pos_x": "-1.2",
+						"pos_z": "1.4625",
+						"pulsing": false,
+						"rotation": 0,
+						"uuid": 233
+					},
+					{
+						"active": false,
+						"forwardStep": 1,
+						"id": "data_2",
+						"input": true,
+						"pos_x": "-1.2",
+						"pos_z": "1.1625",
+						"pulsing": false,
+						"rotation": 0,
+						"uuid": 234
+					},
+					{
+						"active": false,
+						"forwardStep": 1,
+						"id": "data_4",
+						"input": true,
+						"pos_x": "-1.2",
+						"pos_z": "0.8625",
+						"pulsing": false,
+						"rotation": 0,
+						"uuid": 235
+					},
+					{
+						"active": false,
+						"forwardStep": 1,
+						"id": "data_8",
+						"input": true,
+						"pos_x": "-1.2",
+						"pos_z": "0.5625",
+						"pulsing": false,
+						"rotation": 0,
+						"uuid": 236
+					}
+				],
+				"globalPins": [
+					{
+						"pos_x": "-0.225",
+						"pos_z": "-0.5625",
+						"uuid": 84
+					},
+					{
+						"pos_x": "-0.225",
+						"pos_z": "-0.2625",
+						"uuid": 140
+					},
+					{
+						"pos_x": "-0.225",
+						"pos_z": "0.0375",
+						"uuid": 142
+					},
+					{
+						"pos_x": "-0.225",
+						"pos_z": "0.3375",
+						"uuid": 144
+					},
+					{
+						"pos_x": "-0.225",
+						"pos_z": "0.6375",
+						"uuid": 146
+					},
+					{
+						"pos_x": "-0.225",
+						"pos_z": "0.9375",
+						"uuid": 148
+					},
+					{
+						"pos_x": "-0.225",
+						"pos_z": "1.2375",
+						"uuid": 150
+					},
+					{
+						"pos_x": "-0.225",
+						"pos_z": "1.5375",
+						"uuid": 152
+					}
+				],
+				"id": "UnnamedMachine0",
+				"layers": [
+					{
+						"height": 0,
+						"pins": [
+							{
+								"pos_x": "-0.7875",
+								"pos_z": "1.9313",
+								"static": true,
+								"uuid": 177
+							},
+							{
+								"pos_x": "-0.7875",
+								"pos_z": "-1.05",
+								"static": true,
+								"uuid": 184
+							},
+							{
+								"pos_x": "-0.825",
+								"pos_z": "1.7438",
+								"uuid": 185
+							},
+							{
+								"pos_x": "-0.75",
+								"pos_z": "2.1375",
+								"uuid": 186
+							},
+							{
+								"pos_x": "-0.75",
+								"pos_z": "-0.8625",
+								"uuid": 187
+							},
+							{
+								"pos_x": "-0.825",
+								"pos_z": "-0.6375",
+								"uuid": 189
+							},
+							{
+								"pos_x": "-0.825",
+								"pos_z": "-0.3375",
+								"uuid": 190
+							},
+							{
+								"pos_x": "-0.825",
+								"pos_z": "-0.0375",
+								"uuid": 191
+							},
+							{
+								"pos_x": "-0.825",
+								"pos_z": "0.2625",
+								"uuid": 192
+							},
+							{
+								"pos_x": "-0.825",
+								"pos_z": "0.5625",
+								"uuid": 208
+							},
+							{
+								"pos_x": "-0.825",
+								"pos_z": "0.8625",
+								"uuid": 209
+							},
+							{
+								"pos_x": "-0.825",
+								"pos_z": "1.1625",
+								"uuid": 210
+							},
+							{
+								"pos_x": "-0.825",
+								"pos_z": "1.4625",
+								"uuid": 211
+							},
+							{
+								"pos_x": "-1.05",
+								"pos_z": "-0.75",
+								"static": true,
+								"uuid": 220
+							},
+							{
+								"pos_x": "-1.05",
+								"pos_z": "-0.45",
+								"static": true,
+								"uuid": 221
+							},
+							{
+								"pos_x": "-1.05",
+								"pos_z": "0.15",
+								"static": true,
+								"uuid": 222
+							},
+							{
+								"pos_x": "-1.05",
+								"pos_z": "-0.15",
+								"static": true,
+								"uuid": 223
+							},
+							{
+								"pos_x": "-1.05",
+								"pos_z": "0.75",
+								"static": true,
+								"uuid": 224
+							},
+							{
+								"pos_x": "-1.05",
+								"pos_z": "0.45",
+								"static": true,
+								"uuid": 225
+							},
+							{
+								"pos_x": "-1.05",
+								"pos_z": "1.35",
+								"static": true,
+								"uuid": 226
+							},
+							{
+								"pos_x": "-1.05",
+								"pos_z": "1.05",
+								"static": true,
+								"uuid": 227
+							},
+							{
+								"pos_x": "-1.05",
+								"pos_z": "1.65",
+								"static": true,
+								"uuid": 228
+							}
+						],
+						"sheets": [
+							{
+								"file": "../Planwerk/130_45.svg",
+								"id": "../Planwerk/130_45",
+								"pos_x": "-0.8288",
+								"pos_y": 3,
+								"pos_z": "0.295",
+								"rotation": "1q",
+								"uuid": 2
+							},
+							{
+								"file": "../Planwerk/seesaw_b.svg",
+								"id": "../Planwerk/seesaw_b",
+								"pos_x": "-0.7875",
+								"pos_y": 1,
+								"pos_z": "-1.05",
+								"rotation": "10.58",
+								"uuid": 3
+							},
+							{
+								"file": "../Planwerk/130_45.svg",
+								"id": "../Planwerk/130_45",
+								"pos_x": "-0.75",
+								"pos_y": 4,
+								"pos_z": "0.5925",
+								"rotation": "-1q",
+								"uuid": 4
+							},
+							{
+								"file": "dataInterface.svg",
+								"pos_x": "-0.525",
+								"pos_y": 2,
+								"pos_z": "1.5",
+								"rotation": "1q",
+								"uuid": 5
+							},
+							{
+								"file": "dataInterface.svg",
+								"pos_x": "-0.525",
+								"pos_y": 2,
+								"pos_z": "1.2",
+								"rotation": "1q",
+								"uuid": 9
+							},
+							{
+								"file": "dataInterface.svg",
+								"pos_x": "-0.525",
+								"pos_y": 2,
+								"pos_z": "0.6",
+								"rotation": "1q",
+								"uuid": 10
+							},
+							{
+								"file": "dataInterface.svg",
+								"pos_x": "-0.525",
+								"pos_y": 2,
+								"pos_z": "0.9",
+								"rotation": "1q",
+								"uuid": 14
+							},
+							{
+								"file": "dataInterface.svg",
+								"pos_x": "-0.525",
+								"pos_y": 2,
+								"pos_z": "-0.6",
+								"rotation": "1q",
+								"uuid": 57
+							},
+							{
+								"file": "dataInterface.svg",
+								"pos_x": "-0.525",
+								"pos_y": 2,
+								"pos_z": "-0.3",
+								"rotation": "1q",
+								"uuid": 68
+							},
+							{
+								"file": "dataInterface.svg",
+								"pos_x": "-0.525",
+								"pos_y": 2,
+								"pos_z": "-0.",
+								"rotation": "1q",
+								"uuid": 133
+							},
+							{
+								"file": "dataInterface.svg",
+								"pos_x": "-0.525",
+								"pos_y": 2,
+								"pos_z": "0.3",
+								"rotation": "1q",
+								"uuid": 161
+							},
+							{
+								"file": "../Planwerk/seesaw_b.svg",
+								"id": "../Planwerk/seesaw_b",
+								"pos_x": "-0.7849",
+								"pos_y": 1,
+								"pos_z": "1.9406",
+								"rotation": "10.06",
+								"uuid": 173
+							},
+							{
+								"file": "../Planwerk/130_46N.svg",
+								"id": "../Planwerk/130_46N",
+								"pos_x": "-0.9638",
+								"pos_y": 5,
+								"pos_z": "1.3125",
+								"rotation": "-1q",
+								"uuid": 188
+							},
+							{
+								"file": "../Planwerk/130_46N.svg",
+								"id": "../Planwerk/130_46N",
+								"pos_x": "-0.9638",
+								"pos_y": 5,
+								"pos_z": "0.4125",
+								"rotation": "-1q",
+								"uuid": 213
+							},
+							{
+								"file": "../Planwerk/130_46N.svg",
+								"id": "../Planwerk/130_46N",
+								"pos_x": "-0.9638",
+								"pos_y": 5,
+								"pos_z": "-0.4875",
+								"rotation": "-1q",
+								"uuid": 214
+							},
+							{
+								"file": "../Planwerk/130_46N.svg",
+								"id": "../Planwerk/130_46N",
+								"pos_x": "-0.9638",
+								"pos_y": 6,
+								"pos_z": "1.0125",
+								"rotation": "-1q",
+								"uuid": 215
+							},
+							{
+								"file": "../Planwerk/130_46N.svg",
+								"id": "../Planwerk/130_46N",
+								"pos_x": "-0.9638",
+								"pos_y": 6,
+								"pos_z": "0.1125",
+								"rotation": "-1q",
+								"uuid": 216
+							},
+							{
+								"file": "../Planwerk/130_46N.svg",
+								"id": "../Planwerk/130_46N",
+								"pos_x": "-0.9638",
+								"pos_y": 7,
+								"pos_z": "0.7125",
+								"rotation": "-1q",
+								"uuid": 217
+							},
+							{
+								"file": "../Planwerk/130_46N.svg",
+								"id": "../Planwerk/130_46N",
+								"pos_x": "-0.9638",
+								"pos_y": 7,
+								"pos_z": "-0.1875",
+								"rotation": "-1q",
+								"uuid": 218
+							},
+							{
+								"file": "../Planwerk/130_46Nf.svg",
+								"id": "../Planwerk/130_46Nf",
+								"pos_x": "-0.9638",
+								"pos_y": 8,
+								"pos_z": "-0.4875",
+								"rotation": "-1q",
+								"uuid": 219
+							}
+						]
+					}
+				]
+			},
+			"pos_x": 0.0,
+			"pos_y": 0.0,
+			"pos_z": 0.0,
+			"rotation": 0,
+			"uuid": 804896
+		}
+	]
+}
