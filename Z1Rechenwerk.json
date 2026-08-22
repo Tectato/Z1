@@ -249,9 +249,9 @@
 
 			},
 			"path": "Addierwerk/Addierwerk_exponent.json",
-			"pos_x": "-0.75",
+			"pos_x": "-0.525",
 			"pos_y": "1.08",
-			"pos_z": "-5.1",
+			"pos_z": "-4.8187",
 			"uuid": -1
 		},
 		{
@@ -393,9 +393,9 @@
 
 			},
 			"path": "Register/Register.json",
-			"pos_x": "2.4938",
+			"pos_x": "2.0063",
 			"pos_y": "1.08",
-			"pos_z": "1.1625",
+			"pos_z": "1.275",
 			"uuid": -1
 		},
 		{
@@ -451,9 +451,9 @@
 
 			},
 			"path": "Mikroprogrammwerk/MikroprogrammStack.json",
-			"pos_x": "-4.4813",
+			"pos_x": "-4.3875",
 			"pos_y": "0.9",
-			"pos_z": "-5.1563",
+			"pos_z": "-5.0063",
 			"uuid": -1
 		},
 		{
@@ -461,9 +461,9 @@
 
 			},
 			"path": "Mikroprogrammwerk/MikroprogrammKriterium.json",
-			"pos_x": "-4.4813",
+			"pos_x": "-4.3875",
 			"pos_y": "0.135",
-			"pos_z": "-5.1563",
+			"pos_z": "-5.0063",
 			"uuid": -1
 		},
 		{
@@ -473,7 +473,7 @@
 			"path": "Leitwerk/Leitwerk.json",
 			"pos_x": "0.45",
 			"pos_y": "0.",
-			"pos_z": "-9.4875",
+			"pos_z": "-9.075",
 			"uuid": -1
 		},
 		{
@@ -501,9 +501,9 @@
 				"uuid_override": 427379
 			},
 			"path": "Antrieb/KurbelB.json",
-			"pos_x": "-3.375",
+			"pos_x": "-3.",
 			"pos_y": "0.",
-			"pos_z": "-12.6563",
+			"pos_z": "-12.0375",
 			"uuid": 427379
 		}
 	],
