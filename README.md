@@ -42,12 +42,32 @@ F and G are only reset when an arithmetic operation finishes, so a sequence of r
 
 # Microprogram changes:
 
-- DEC2BIN (↗):
+## DEC2BIN (↗):
 To prevent an overflow of the mantissa after too many multiplications by ten when factoring in the input radix slider, an extra phase has been added between phases 9 and 10, where the mantissa is shifted down by two digits before the multiplications start. The constant that the exponent is set to has been changed from 15 to 17 to compensate. Also, the adjustment to the right in the original phase 10 has been swapped to a leftwards adjustment equal to phase 8, and the check for u7 was moved to a new phase, since the adjustment may need more than one cycle. These changes are identical to the "↗P5" patch on https://zuse-z1.gitlab.io/ALU-Sim/
 
 This is the best option we could identify until now. While the addition unit could instead be easily modified to only perform the multiplication by 10 if Be+1 is zero and a down-shift otherwise, the core issue is that the movement of the radix slider is still controlled by the microprogram unit (which has no access to the state of Be+1), and would still be performed even if no multiplication by 10 was executed.
 
-- BIN2DEC (↘):
-To solve the same overflow issue, aforementioned modifications to the addition unit were made here, since in the case of very small exponents (minimum value -64), up to 22 multiplications by ten may be necessary, and shifting the mantissa down far enough to prevent an overflow would not be feasible. The decimal point slider will still move when a shift instead of a multiplication occurs, so may end up too far to the left.
+## BIN2DEC (↘):
+To solve the same overflow issue, aforementioned modifications to the addition unit were made here, since in the case of very small exponents (minimum value -64), up to 22 multiplications by ten may be necessary, and shifting the mantissa down far enough to prevent an overflow would not be feasible. To address the issue of the microprogram unit moving the slider even during an adjustment, that movement was made conditional and controlled by the arithmetic unit.
 
-Photos and plans indicate that the same approach was used to fix the issue on the real machine, but with an additional fix for the slider issue by adding extra functionality to the S1 output pin of the exponent addition unit and reusing the unused Be=>Bg pin of the microprogram unit, but exactly what this fix looks like has yet to be determined.
+Photos and plans indicate that an approach like this was used to fix the issue on the real machine. The six output pins on the side of the exponent half of the arithmetic unit show up in several plans, but solely in the control unit's (which were drafted after the other occurences), the pin setting the S1 flag is marked "S1(d3)". The sheet in the exponent unit instructing the mantissa unit to add Be/4 further has a hook to pull on this S1(d3) pin, even though the microprogram would not call for an S1 signal at this point. Photos show that the line connecting this pin to the signal distributor of the microprogram unit has had an extra hook attached to it, which acts to reset the Be=>Bg pin. Said pin was never connected to the control unit (the function instead being coalesced into the equivalent output of the exponent adder), as such it appears to have been reused for a conditional d3 signal (d3 moves the output slider leftwards). Be=>Bg is regularly reset in step II already, but the S1(d3) signal would arrive earlier in step IV. How this signal is used on the real machine is not yet known for certain.
+
+Our approach adds a relay to the basement section, to add a conditional step I impulse line, connected to the rotating element which executes a shift of the output slider. Both the original d3 signal and this impulse line need to activate for a leftwards shift to occur. The relay is closed whenever Be=>Bg is in its resting state, and we've added sheets to activate Be=>Bg during the multiplication phase of BIN2DEC.
+
+The two cases go as follows:
+
+Case A (Be+1 is set, corrective shift instead of multiplication):
+
+- III: Microprogram unit activates d3 and Be=>Bg, relay is opened
+- IV: Shift is performed, S1(d3) does not activate
+- I: Relay is open, so output slider does not move
+- II: d3 and Be=>Bg are reset, relay is closed
+
+Case B (Be+1 not set, multiplication can occur):
+
+- III: Microprogram unit activates d3 and Be=>Bg, relay is opened
+- IV: Multiplication is performed, S1(d3) is activated and resets Be=>Bg
+- I: Relay is closed, output slider moves to the left
+- II: d3 is reset, Be=>Bg already in resting state
+
+The rotating element which is now controlled by the new relay also executes shifts to the right, but since the relay is closed in its resting state and Be=>Bg is regularly reset, this operation is not affected. Likewise, since the original d3 still has to be active for the shift to occur, S1(d3) being activated during other operations like the Sum has no effect on the output slider.
