@@ -31,8 +31,6 @@ Reading an input always writes to F, so if you intend to add/subtract/multiply/d
 
 If a program contains two output instructions, the second one will not start until the display has been cleared, use the lever with the ↘ arrow for that. The machine further treats an output instruction like any other arithmetic operation, and will write the "result" (consisting of all zeroes) to register F. While this has no effect on the content of F, the control unit still considers the register as "full" and a subsequent load from memory will target G. To work around this, write to an unused address after an output operation.
 
-/!\ Due to the way the algorithm for the output instruction has been fixed (↘P8), the decimal point may be shown several places too far to the left, but the digits should be correct. Fixes are being investigated.
-
 /!\ The machine cannot handle zero or infinity. The input and subtraction operations contain a normalizing step, where the mantissa is shifted up until it starts with a 1. If it's all zero, this phase never finishes. An emergency stop button is built into the microprogram unit which you can right-click during clock step III to abort the current operation.
 
 /!\ The machine has no over- or underflow detection in the exponent addition unit. For instance, squaring 9999 * 10^6 will result in a near-zero value, as the exponent overflows during multiplication. Keep your calculations reasonable and you should be fine.
