@@ -45,34 +45,6 @@
 						"pulsing": true,
 						"rotation": 2,
 						"uuid": 517
-					},
-					{
-						"active": false,
-						"bounds": [
-							1,
-							1
-						],
-						"forwardStep": 2,
-						"input": false,
-						"pos_x": "1.2563",
-						"pos_z": "0.75",
-						"pulsing": true,
-						"rotation": 1,
-						"uuid": 331
-					},
-					{
-						"active": false,
-						"bounds": [
-							1,
-							1
-						],
-						"forwardStep": 2,
-						"input": false,
-						"pos_x": "1.2563",
-						"pos_z": "-0.75",
-						"pulsing": true,
-						"rotation": 1,
-						"uuid": 333
 					}
 				],
 				"comments": [
@@ -93,24 +65,6 @@
 							"-0.05"
 						],
 						"text": "Modification to reset the ring counter output when clearing the display. Otherwise, this digit will keep displaying things."
-					},
-					{
-						"end": [
-							"0.196",
-							"-0.05",
-							"-0.05"
-						],
-						"pos": [
-							"1.2644",
-							"0.615",
-							"0.7317"
-						],
-						"start": [
-							"-0.05",
-							"-0.34",
-							"-1.4531"
-						],
-						"text": "Techically not necessary but makes the simulation more stable"
 					}
 				],
 				"globalPins": [
@@ -426,6 +380,42 @@
 						"pos_x": "0.9375",
 						"pos_z": "-0.7125",
 						"uuid": 147
+					},
+					{
+						"bounds": [
+							1,
+							2
+						],
+						"pos_x": "1.5563",
+						"pos_z": "-0.2063",
+						"uuid": 373
+					},
+					{
+						"bounds": [
+							1,
+							2
+						],
+						"pos_x": "1.5563",
+						"pos_z": "0.0938",
+						"uuid": 359
+					},
+					{
+						"bounds": [
+							1,
+							2
+						],
+						"pos_x": "1.5563",
+						"pos_z": "0.3938",
+						"uuid": 339
+					},
+					{
+						"bounds": [
+							1,
+							2
+						],
+						"pos_x": "1.5563",
+						"pos_z": "0.6938",
+						"uuid": 335
 					}
 				],
 				"id": "Ausgabe",
@@ -610,6 +600,42 @@
 								"pos_x": "1.6313",
 								"pos_z": "-1.6125",
 								"uuid": 550
+							},
+							{
+								"bounds": [
+									0,
+									1
+								],
+								"pos_x": "1.35",
+								"pos_z": "-0.2438",
+								"uuid": 273
+							},
+							{
+								"bounds": [
+									0,
+									1
+								],
+								"pos_x": "1.35",
+								"pos_z": "0.0563",
+								"uuid": 272
+							},
+							{
+								"bounds": [
+									0,
+									1
+								],
+								"pos_x": "1.35",
+								"pos_z": "0.3563",
+								"uuid": 209
+							},
+							{
+								"bounds": [
+									0,
+									1
+								],
+								"pos_x": "1.35",
+								"pos_z": "0.6563",
+								"uuid": 208
 							}
 						],
 						"height": 1,
@@ -666,13 +692,23 @@
 											"pos_x": "0.3188",
 											"pos_z": "0.2625",
 											"uuid": 281
+										},
+										{
+											"id": "ExecuteShift",
+											"output": [
+												false,
+												2
+											],
+											"pos_x": "0.5437",
+											"pos_z": "0.2437",
+											"uuid": 334
 										}
 									],
 									"pos_x": "0.",
 									"pos_z": "0.",
 									"type": 2,
 									"uuid": 277,
-									"value": 0.0
+									"value": 0
 								},
 								"type": 2,
 								"uuid": 274
@@ -727,23 +763,6 @@
 						],
 						"sheets": [
 							{
-								"file": "296_2.svg",
-								"pos_x": "0.75",
-								"pos_y": 1,
-								"pos_z": "0.",
-								"rotation": "-1q",
-								"static": true,
-								"uuid": 474
-							},
-							{
-								"file": "296_1.svg",
-								"pos_x": "1.2125",
-								"pos_y": 5,
-								"pos_z": "-0.725",
-								"rotation": "1q",
-								"uuid": 475
-							},
-							{
 								"file": "296_3.svg",
 								"pos_x": "0.9763",
 								"pos_y": 4,
@@ -770,7 +789,7 @@
 							{
 								"file": "296_6-.svg",
 								"pos_x": "0.7587",
-								"pos_y": 6,
+								"pos_y": 5,
 								"pos_z": "0.025",
 								"rotation": "-1q",
 								"uuid": 542
@@ -802,12 +821,21 @@
 								"uuid": 229
 							},
 							{
-								"file": "custom_6.svg",
-								"pos_x": "1.355",
-								"pos_y": 7,
-								"pos_z": "0.0075",
-								"rotation": "-1q",
+								"file": "296_1.svg",
+								"pos_x": "1.2125",
+								"pos_y": 2,
+								"pos_z": "-0.725",
+								"rotation": "1q",
 								"uuid": 104
+							},
+							{
+								"file": "296_2.svg",
+								"pos_x": "0.75",
+								"pos_y": 1,
+								"pos_z": "-0.",
+								"rotation": "-1q",
+								"static": true,
+								"uuid": 224
 							}
 						]
 					},
@@ -821,42 +849,6 @@
 								"pos_x": "0.2438",
 								"pos_z": "-1.0313",
 								"uuid": 103
-							},
-							{
-								"bounds": [
-									1,
-									2
-								],
-								"pos_x": "1.35",
-								"pos_z": "0.6563",
-								"uuid": 208
-							},
-							{
-								"bounds": [
-									1,
-									2
-								],
-								"pos_x": "1.35",
-								"pos_z": "0.3563",
-								"uuid": 209
-							},
-							{
-								"bounds": [
-									1,
-									2
-								],
-								"pos_x": "1.35",
-								"pos_z": "0.0563",
-								"uuid": 272
-							},
-							{
-								"bounds": [
-									1,
-									2
-								],
-								"pos_x": "1.35",
-								"pos_z": "-0.2438",
-								"uuid": 273
 							}
 						],
 						"height": 2,
@@ -901,26 +893,6 @@
 								"pos_x": "1.5188",
 								"pos_z": "-1.1625",
 								"uuid": 204
-							},
-							{
-								"pos_x": "1.5563",
-								"pos_z": "-0.2062",
-								"uuid": 216
-							},
-							{
-								"pos_x": "1.5563",
-								"pos_z": "0.0938",
-								"uuid": 224
-							},
-							{
-								"pos_x": "1.5563",
-								"pos_z": "0.6938",
-								"uuid": 227
-							},
-							{
-								"pos_x": "1.5563",
-								"pos_z": "0.3938",
-								"uuid": 230
 							},
 							{
 								"output": [
@@ -1285,7 +1257,7 @@
 								"pos_y": 2,
 								"pos_z": "0.4438",
 								"rotation": "-1q",
-								"uuid": 205
+								"uuid": 70769
 							},
 							{
 								"file": "297_1-.svg",
@@ -1293,7 +1265,7 @@
 								"pos_y": 5,
 								"pos_z": "0.1738",
 								"rotation": "-2q",
-								"uuid": 206
+								"uuid": 739203
 							},
 							{
 								"file": "custom_8.svg",
@@ -4779,29 +4751,49 @@
 						"type": "arm"
 					},
 					{
-						"A": 285,
-						"B": 62,
-						"type": "link"
-					},
-					{
-						"A": 216,
+						"A": 23,
 						"B": 273,
 						"type": "arm"
 					},
 					{
-						"A": 224,
+						"A": 373,
+						"B": 273,
+						"type": "arm"
+					},
+					{
+						"A": 24,
 						"B": 272,
 						"type": "arm"
 					},
 					{
-						"A": 227,
+						"A": 359,
+						"B": 272,
+						"type": "arm"
+					},
+					{
+						"A": 25,
+						"B": 209,
+						"type": "arm"
+					},
+					{
+						"A": 339,
+						"B": 209,
+						"type": "arm"
+					},
+					{
+						"A": 26,
 						"B": 208,
 						"type": "arm"
 					},
 					{
-						"A": 230,
-						"B": 209,
+						"A": 335,
+						"B": 208,
 						"type": "arm"
+					},
+					{
+						"A": 285,
+						"B": 62,
+						"type": "link"
 					},
 					{
 						"A": 49,
@@ -4816,26 +4808,6 @@
 					{
 						"A": 67,
 						"B": 103,
-						"type": "arm"
-					},
-					{
-						"A": 26,
-						"B": 208,
-						"type": "arm"
-					},
-					{
-						"A": 25,
-						"B": 209,
-						"type": "arm"
-					},
-					{
-						"A": 24,
-						"B": 272,
-						"type": "arm"
-					},
-					{
-						"A": 23,
-						"B": 273,
 						"type": "arm"
 					}
 				]

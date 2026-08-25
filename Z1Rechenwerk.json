@@ -1830,6 +1830,13 @@
 			"B": 37,
 			"BParent": 679916,
 			"type": "rod"
+		},
+		{
+			"A": 693,
+			"AParent": 584863,
+			"B": 334,
+			"BParent": 829737,
+			"type": "rod"
 		}
 	],
 	"values": {
