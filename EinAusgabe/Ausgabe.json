@@ -45,6 +45,20 @@
 						"pulsing": true,
 						"rotation": 2,
 						"uuid": 517
+					},
+					{
+						"active": false,
+						"bounds": [
+							1,
+							1
+						],
+						"forwardStep": 3,
+						"input": false,
+						"pos_x": "-0.2063",
+						"pos_z": "-0.1688",
+						"pulsing": true,
+						"rotation": 0,
+						"uuid": 216
 					}
 				],
 				"comments": [
@@ -4789,6 +4803,11 @@
 						"A": 335,
 						"B": 208,
 						"type": "arm"
+					},
+					{
+						"A": 334,
+						"B": 216,
+						"type": "rod"
 					},
 					{
 						"A": 285,
