@@ -474,24 +474,6 @@
 							"-0.05"
 						],
 						"text": "Made conditional based on Be+1 to prevent mantissa overflow during mult. by 10 in output"
-					},
-					{
-						"end": [
-							"-0.05",
-							"-0.05",
-							"0.2005"
-						],
-						"pos": [
-							"-1.6592",
-							"2.975",
-							"-4.5689"
-						],
-						"start": [
-							"-0.1391",
-							"-0.42",
-							"-0.05"
-						],
-						"text": "Flipped on real machine\n[TODO: 255.2c/d]"
 					}
 				],
 				"globalPins": [
@@ -9533,7 +9515,7 @@
 								"uuid": 2018
 							},
 							{
-								"id": "Bb := Bg if im else -Bg",
+								"id": "Bb := -Bg",
 								"pos_x": "-1.7438",
 								"pos_z": "-4.425",
 								"uuid": 2019
@@ -9699,7 +9681,7 @@
 								"uuid": 2038
 							},
 							{
-								"id": "Bb := -Bg",
+								"id": "Bb := Bg if im else -Bg",
 								"pos_x": "-1.7438",
 								"pos_z": "-4.5375",
 								"uuid": 2118
@@ -10438,22 +10420,6 @@
 								"uuid": 1601
 							},
 							{
-								"file": "257_1a-.svg",
-								"pos_x": "-0.9375",
-								"pos_y": 8,
-								"pos_z": "-4.4812",
-								"rotation": "-1q",
-								"uuid": 1734
-							},
-							{
-								"file": "257_1b-.svg",
-								"pos_x": "-0.9188",
-								"pos_y": 5,
-								"pos_z": "-4.4913",
-								"rotation": "-1q",
-								"uuid": 1782
-							},
-							{
 								"file": "254_7a-.svg",
 								"pos_x": "-0.765",
 								"pos_y": 2,
@@ -10823,6 +10789,22 @@
 								"pos_z": "-4.7463",
 								"rotation": "-1q",
 								"uuid": 120
+							},
+							{
+								"file": "255_2c_rev.svg",
+								"pos_x": "-0.9188",
+								"pos_y": 8,
+								"pos_z": "-4.4862",
+								"rotation": "-1q",
+								"uuid": 525
+							},
+							{
+								"file": "255_2d_rev.svg",
+								"pos_x": "-0.9188",
+								"pos_y": 5,
+								"pos_z": "-4.4862",
+								"rotation": "-1q",
+								"uuid": 526
 							}
 						]
 					},
