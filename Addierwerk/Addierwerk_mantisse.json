@@ -419,7 +419,7 @@
 							"-0.49",
 							"-0.05"
 						],
-						"text": "Relay added to be able to prevent Be/2->Bb during phase 4 of output op."
+						"text": "Relay added to only enable automatic Be/2->Bb during phase 3 of sum"
 					},
 					{
 						"end": [
@@ -12523,31 +12523,6 @@
 								"uuid": 33
 							},
 							{
-								"file": "258_5a-a.svg",
-								"pos_x": "-0.6513",
-								"pos_y": 6,
-								"pos_z": "-4.8837",
-								"rotation": "-1q",
-								"uuid": 34
-							},
-							{
-								"file": "258_5a-b.svg",
-								"pos_x": "-0.6663",
-								"pos_y": 3,
-								"pos_z": "-2.7163",
-								"rotation": "-1q",
-								"uuid": 35
-							},
-							{
-								"file": "248_1d_custom.svg",
-								"pos_x": "-0.825",
-								"pos_y": 1,
-								"pos_z": "-4.6313",
-								"rotation": "-1q",
-								"static": true,
-								"uuid": 36
-							},
-							{
 								"file": "258_3a-.svg",
 								"pos_x": "-1.1675",
 								"pos_y": 3,
@@ -12586,6 +12561,31 @@
 								"pos_z": "3.8363",
 								"rotation": "-1q",
 								"uuid": 521
+							},
+							{
+								"file": "258_5a--a.svg",
+								"pos_x": "-0.5325",
+								"pos_y": 2,
+								"pos_z": "-4.8563",
+								"rotation": "-1q",
+								"uuid": 522
+							},
+							{
+								"file": "258_5a--b.svg",
+								"pos_x": "-0.6738",
+								"pos_y": 3,
+								"pos_z": "-2.6788",
+								"rotation": "-1q",
+								"uuid": 523
+							},
+							{
+								"file": "248_1a.svg",
+								"pos_x": "-0.825",
+								"pos_y": 1,
+								"pos_z": "-4.6313",
+								"rotation": "-1q",
+								"static": true,
+								"uuid": 524
 							}
 						]
 					},
