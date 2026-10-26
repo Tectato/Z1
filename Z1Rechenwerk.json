@@ -52,7 +52,7 @@
 			},
 			"path": "Addierwerk/Addierwerk_mantisse.json",
 			"pos_x": "-0.525",
-			"pos_y": "1.08",
+			"pos_y": "0.135",
 			"pos_z": "2.2125",
 			"uuid": -1
 		},
@@ -250,7 +250,7 @@
 			},
 			"path": "Addierwerk/Addierwerk_exponent.json",
 			"pos_x": "-0.75",
-			"pos_y": "1.08",
+			"pos_y": "0.135",
 			"pos_z": "-5.1",
 			"uuid": -1
 		},
@@ -382,6 +382,10 @@
 							"pos_x": "-0.4925",
 							"pos_z": "3.1125"
 						},
+						"939": {
+							"pos_x": "0.2063",
+							"pos_z": "-6.6938"
+						},
 						"997": {
 							"pos_x": "-0.8763",
 							"pos_z": "-2.5125"
@@ -451,8 +455,8 @@
 
 			},
 			"path": "Mikroprogrammwerk/MikroprogrammStack.json",
-			"pos_x": "-4.4813",
-			"pos_y": "0.9",
+			"pos_x": "-4.5188",
+			"pos_y": "0.135",
 			"pos_z": "-5.1563",
 			"uuid": -1
 		},
@@ -501,7 +505,7 @@
 				"uuid_override": 427379
 			},
 			"path": "Antrieb/KurbelB.json",
-			"pos_x": "-3.375",
+			"pos_x": "-3.1313",
 			"pos_y": "0.",
 			"pos_z": "-12.6563",
 			"uuid": 427379
@@ -1832,10 +1836,31 @@
 			"type": "rod"
 		},
 		{
-			"A": 693,
-			"AParent": 584863,
-			"B": 334,
-			"BParent": 829737,
+			"A": 456,
+			"AParent": 679916,
+			"B": 178,
+			"BParent": 999448,
+			"type": "rod"
+		},
+		{
+			"A": 318,
+			"AParent": 679916,
+			"B": 179,
+			"BParent": 999448,
+			"type": "rod"
+		},
+		{
+			"A": 47,
+			"AParent": 999448,
+			"B": 495,
+			"BParent": 679916,
+			"type": "rod"
+		},
+		{
+			"A": 488,
+			"AParent": 679916,
+			"B": 37,
+			"BParent": 999448,
 			"type": "rod"
 		}
 	],
