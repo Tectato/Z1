@@ -1,0 +1,48 @@
+<svg height="3780.0" viewBox="-2190.0 -2040.0 4650.0 3780.0" width="4650.0" xmlns="http://www.w3.org/2000/svg" z1svg_version="2">
+	<g style="stroke:black;fill:#3d9ecb">
+		<path d="M -2180.0 -1560.0 L -1920.0 -1560.0 A 50.0,50.0 0 0,1 -1870.0,-1610.0 L -1870.0 -2030.0 L 1880.0 -2030.0 L 1880.0 -1340.0 A 50.0,50.0 0 0,0 1930.0,-1290.0 L 2450.0 -1290.0 L 2450.0 970.0 L 2080.0 970.0 A 50.0,50.0 0 0,0 2030.0,1020.0 L 2030.0 1280.0 L 1770.0 1280.0 A 50.0,50.0 0 0,0 1720.0,1330.0 L 1720.0 1730.0 L -2000.0 1730.0 L -2000.0 1580.0 L -2180.0 1580.0 Z" id="outlinePath" />
+		<g id="holes" style="stroke:black;fill:#ffffff">
+			<circle cx="1800.0" cy="900.0" id="pointHole_0_80mm" r="40.0" />
+			<circle cx="1800.0" cy="-1950.0" id="pointHole_1_80mm" r="40.0" />
+			<circle cx="-2100.0" cy="-1000.0" id="pointHole_2_50mm" r="25.0" />
+			<circle cx="-2100.0" cy="-700.0" id="pointHole_3_50mm" r="25.0" />
+			<circle cx="-2100.0" cy="-400.0" id="pointHole_4_50mm" r="25.0" />
+			<circle cx="-2100.0" cy="-100.0" id="pointHole_5_50mm" r="25.0" />
+			<circle cx="-2100.0" cy="200.0" id="pointHole_6_50mm" r="25.0" />
+			<circle cx="-2100.0" cy="500.0" id="pointHole_7_50mm" r="25.0" />
+			<circle cx="-2100.0" cy="800.0" id="pointHole_8_50mm" r="25.0" />
+			<circle cx="-2100.0" cy="1100.0" id="pointHole_9_50mm" r="25.0" />
+			<circle cx="1950.0" cy="1200.0" id="pointHole_10_50mm" r="25.0" />
+			<circle cx="1950.0" cy="900.0" id="pointHole_11_50mm" r="25.0" />
+			<circle cx="1950.0" cy="600.0" id="pointHole_12_50mm" r="25.0" />
+			<circle cx="1950.0" cy="300.0" id="pointHole_13_50mm" r="25.0" />
+			<circle cx="1950.0" cy="0.0" id="pointHole_14_50mm" r="25.0" />
+			<circle cx="1950.0" cy="-300.0" id="pointHole_15_50mm" r="25.0" />
+			<circle cx="1950.0" cy="-600.0" id="pointHole_16_50mm" r="25.0" />
+			<circle cx="1950.0" cy="-900.0" id="pointHole_17_50mm" r="25.0" />
+			<circle cx="1650.0" cy="1350.0" id="pointHole_18_60mm" r="30.0" />
+			<circle cx="-1950.0" cy="1650.0" id="pointHole_19_60mm" r="30.0" />
+			<circle cx="-1800.0" cy="-1950.0" id="pointHole_20_80mm" r="40.0" />
+			<circle cx="2400.0" cy="-1050.0" id="pointHole_21_40mm" r="20.0" />
+			<circle cx="2400.0" cy="750.0" id="pointHole_22_40mm" r="20.0" />
+			<circle cx="1350.0" cy="1200.0" id="pointHole_23_40mm" r="20.0" />
+			<circle cx="1050.0" cy="1200.0" id="pointHole_24_40mm" r="20.0" />
+			<circle cx="150.0" cy="1200.0" id="pointHole_25_40mm" r="20.0" />
+			<circle cx="-150.0" cy="1200.0" id="pointHole_26_40mm" r="20.0" />
+			<circle cx="-1350.0" cy="1200.0" id="pointHole_27_40mm" r="20.0" />
+			<circle cx="-1650.0" cy="1200.0" id="pointHole_28_40mm" r="20.0" />
+			<circle cx="-1650.0" cy="-150.0" id="pointHole_29_40mm" r="20.0" />
+			<circle cx="-1350.0" cy="-150.0" id="pointHole_30_40mm" r="20.0" />
+			<circle cx="-1650.0" cy="-1350.0" id="pointHole_31_40mm" r="20.0" />
+			<circle cx="-1350.0" cy="-1350.0" id="pointHole_32_40mm" r="20.0" />
+			<circle cx="-150.0" cy="-1350.0" id="pointHole_33_40mm" r="20.0" />
+			<circle cx="150.0" cy="-1350.0" id="pointHole_34_40mm" r="20.0" />
+			<circle cx="-150.0" cy="-150.0" id="pointHole_35_40mm" r="20.0" />
+			<circle cx="150.0" cy="-150.0" id="pointHole_36_40mm" r="20.0" />
+			<circle cx="1050.0" cy="-150.0" id="pointHole_37_40mm" r="20.0" />
+			<circle cx="1350.0" cy="-150.0" id="pointHole_38_40mm" r="20.0" />
+			<circle cx="1350.0" cy="-1350.0" id="pointHole_39_40mm" r="20.0" />
+			<circle cx="1050.0" cy="-1350.0" id="pointHole_40_40mm" r="20.0" />
+		</g>
+	</g>
+</svg>
