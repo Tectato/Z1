@@ -210,17 +210,7 @@
 								"uuid": 59
 							}
 						],
-						"sheets": [
-							{
-								"file": "160_1.svg",
-								"pos_x": "-1.3275",
-								"pos_y": 0,
-								"pos_z": "0.0088",
-								"rotation": "0q",
-								"static": true,
-								"uuid": 14
-							}
-						]
+						"sheets": []
 					},
 					{
 						"arms": [
