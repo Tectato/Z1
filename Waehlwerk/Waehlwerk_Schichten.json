@@ -7,19 +7,23 @@
 					{
 						"active": false,
 						"bounds": [
-							0,
-							7
+							5,
+							13
 						],
 						"forwardStep": 1,
 						"input": false,
-						"pos_x": "1.425",
-						"pos_z": "0.4125",
+						"pos_x": "1.4063",
+						"pos_z": "0.375",
 						"pulsing": true,
 						"rotation": 2,
 						"uuid": 20
 					},
 					{
 						"active": false,
+						"bounds": [
+							5,
+							13
+						],
 						"forwardStep": 2,
 						"input": false,
 						"pos_x": "1.6125",
@@ -31,105 +35,177 @@
 				],
 				"globalPins": [
 					{
+						"bounds": [
+							6,
+							13
+						],
 						"pos_x": "1.5563",
 						"pos_z": "-0.15",
 						"static": true,
 						"uuid": 24
 					},
 					{
+						"bounds": [
+							6,
+							13
+						],
 						"pos_x": "1.5563",
 						"pos_z": "-1.35",
 						"static": true,
 						"uuid": 25
 					},
 					{
+						"bounds": [
+							6,
+							13
+						],
 						"pos_x": "1.8563",
 						"pos_z": "-1.35",
 						"static": true,
 						"uuid": 26
 					},
 					{
+						"bounds": [
+							6,
+							13
+						],
 						"pos_x": "1.8563",
 						"pos_z": "-0.15",
 						"static": true,
 						"uuid": 27
 					},
 					{
+						"bounds": [
+							6,
+							13
+						],
 						"pos_x": "1.8563",
 						"pos_z": "-0.75",
 						"static": true,
 						"uuid": 28
 					},
 					{
+						"bounds": [
+							6,
+							13
+						],
 						"pos_x": "1.5563",
 						"pos_z": "-0.75",
 						"static": true,
 						"uuid": 29
 					},
 					{
+						"bounds": [
+							6,
+							13
+						],
 						"pos_x": "1.5563",
 						"pos_z": "-0.45",
 						"static": true,
 						"uuid": 30
 					},
 					{
+						"bounds": [
+							6,
+							13
+						],
 						"pos_x": "1.8563",
 						"pos_z": "-0.45",
 						"static": true,
 						"uuid": 31
 					},
 					{
+						"bounds": [
+							6,
+							13
+						],
 						"pos_x": "1.8563",
 						"pos_z": "-1.05",
 						"static": true,
 						"uuid": 32
 					},
 					{
+						"bounds": [
+							6,
+							13
+						],
 						"pos_x": "1.5563",
 						"pos_z": "-1.05",
 						"static": true,
 						"uuid": 33
 					},
 					{
+						"bounds": [
+							0,
+							13
+						],
 						"pos_x": "1.8563",
 						"pos_z": "0.45",
 						"static": true,
 						"uuid": 34
 					},
 					{
+						"bounds": [
+							6,
+							13
+						],
 						"pos_x": "1.8563",
 						"pos_z": "0.75",
 						"static": true,
 						"uuid": 35
 					},
 					{
+						"bounds": [
+							6,
+							13
+						],
 						"pos_x": "1.5563",
 						"pos_z": "0.75",
 						"static": true,
 						"uuid": 36
 					},
 					{
+						"bounds": [
+							6,
+							13
+						],
 						"pos_x": "1.7063",
 						"pos_z": "0.3",
 						"static": true,
 						"uuid": 8
 					},
 					{
+						"bounds": [
+							5,
+							13
+						],
 						"pos_x": "1.4438",
 						"pos_z": "-0.7125",
 						"uuid": 104
 					},
 					{
+						"bounds": [
+							5,
+							13
+						],
 						"pos_x": "1.4438",
 						"pos_z": "-0.4125",
 						"uuid": 101
 					},
 					{
+						"bounds": [
+							5,
+							13
+						],
 						"pos_x": "1.4438",
 						"pos_z": "-0.1125",
 						"uuid": 82
 					},
 					{
+						"bounds": [
+							0,
+							13
+						],
 						"pos_x": "1.8563",
 						"pos_z": "-1.5",
 						"static": true,
@@ -139,8 +215,172 @@
 				"id": "UnnamedMachine0",
 				"layers": [
 					{
+						"arms": [
+							{
+								"bounds": [
+									0,
+									5
+								],
+								"pos_x": "1.8563",
+								"pos_z": "-1.35",
+								"uuid": 144
+							},
+							{
+								"bounds": [
+									0,
+									5
+								],
+								"pos_x": "1.8563",
+								"pos_z": "0.75",
+								"uuid": 156
+							}
+						],
 						"height": 0,
-						"offset": "0.135",
+						"pins": [
+							{
+								"pos_x": "0.8063",
+								"pos_z": "-0.7125",
+								"uuid": 49
+							},
+							{
+								"id": "S6",
+								"pos_x": "1.5563",
+								"pos_z": "-1.4063",
+								"uuid": 139
+							},
+							{
+								"id": "S6",
+								"pos_x": "1.5563",
+								"pos_z": "0.6938",
+								"uuid": 150
+							}
+						],
+						"sheets": [
+							{
+								"file": "120_1.svg",
+								"pos_x": "0.04",
+								"pos_y": 0,
+								"pos_z": "-0.2675",
+								"rotation": "-1q",
+								"static": true,
+								"uuid": 43
+							}
+						]
+					},
+					{
+						"height": 1,
+						"pins": [
+							{
+								"pos_x": "0.8063",
+								"pos_z": "-0.7125",
+								"uuid": 68
+							}
+						],
+						"sheets": []
+					},
+					{
+						"height": 2,
+						"pins": [
+							{
+								"pos_x": "0.8063",
+								"pos_z": "-0.7125",
+								"uuid": 81
+							}
+						],
+						"sheets": []
+					},
+					{
+						"height": 3,
+						"pins": [
+							{
+								"pos_x": "0.8063",
+								"pos_z": "-0.7125",
+								"uuid": 87
+							}
+						],
+						"sheets": []
+					},
+					{
+						"height": 4,
+						"pins": [
+							{
+								"pos_x": "0.8063",
+								"pos_z": "-0.7125",
+								"uuid": 99
+							}
+						],
+						"sheets": []
+					},
+					{
+						"arms": [
+							{
+								"bounds": [
+									0,
+									5
+								],
+								"pos_x": "1.4063",
+								"pos_z": "-1.65",
+								"uuid": 118
+							},
+							{
+								"bounds": [
+									0,
+									5
+								],
+								"pos_x": "1.2",
+								"pos_z": "0.3188",
+								"uuid": 123
+							},
+							{
+								"bounds": [
+									0,
+									5
+								],
+								"pos_x": "1.4063",
+								"pos_z": "-0.9",
+								"uuid": 125
+							},
+							{
+								"bounds": [
+									0,
+									5
+								],
+								"pos_x": "1.4063",
+								"pos_z": "-0.6",
+								"uuid": 137
+							},
+							{
+								"bounds": [
+									0,
+									5
+								],
+								"pos_x": "1.4063",
+								"pos_z": "-0.3",
+								"uuid": 138
+							}
+						],
+						"height": 5,
+						"pins": [
+							{
+								"pos_x": "0.8063",
+								"pos_z": "-0.7125",
+								"uuid": 106
+							}
+						],
+						"sheets": [
+							{
+								"file": "120_2.svg",
+								"pos_x": "0.05",
+								"pos_y": 0,
+								"pos_z": "-0.3337",
+								"rotation": "-1q",
+								"static": true,
+								"uuid": 117
+							}
+						]
+					},
+					{
+						"height": 6,
 						"pins": [
 							{
 								"pos_x": "1.7438",
@@ -267,7 +507,7 @@
 						]
 					},
 					{
-						"height": 1,
+						"height": 7,
 						"pins": [
 							{
 								"pos_x": "1.7438",
@@ -394,7 +634,7 @@
 						]
 					},
 					{
-						"height": 2,
+						"height": 8,
 						"pins": [
 							{
 								"pos_x": "1.7438",
@@ -521,7 +761,7 @@
 						]
 					},
 					{
-						"height": 3,
+						"height": 9,
 						"pins": [
 							{
 								"pos_x": "1.7438",
@@ -648,7 +888,7 @@
 						]
 					},
 					{
-						"height": 4,
+						"height": 10,
 						"pins": [
 							{
 								"pos_x": "1.7438",
@@ -775,7 +1015,7 @@
 						]
 					},
 					{
-						"height": 5,
+						"height": 11,
 						"pins": [
 							{
 								"pos_x": "1.7438",
@@ -902,7 +1142,7 @@
 						]
 					},
 					{
-						"height": 6,
+						"height": 12,
 						"pins": [
 							{
 								"pos_x": "1.7438",
@@ -1029,7 +1269,7 @@
 						]
 					},
 					{
-						"height": 7,
+						"height": 13,
 						"pins": [
 							{
 								"pos_x": "1.7438",
@@ -1048,7 +1288,7 @@
 							},
 							{
 								"pos_x": "1.7063",
-								"pos_z": "0.75",
+								"pos_z": "0.83",
 								"uuid": 3
 							}
 						],
@@ -1074,7 +1314,7 @@
 								"file": "120_39.svg",
 								"pos_x": "1.6013",
 								"pos_y": 3,
-								"pos_z": "0.6875",
+								"pos_z": "0.7675",
 								"rotation": "-1q",
 								"uuid": 2
 							},
@@ -1115,7 +1355,7 @@
 								"file": "120_39a_mod.svg",
 								"pos_x": "1.7063",
 								"pos_y": 2,
-								"pos_z": "0.2613",
+								"pos_z": "0.3413",
 								"rotation": "-1q",
 								"uuid": 23
 							},
@@ -1154,6 +1394,48 @@
 								"uuid": 9
 							}
 						]
+					}
+				],
+				"relations": [
+					{
+						"A": 139,
+						"B": 144,
+						"type": "arm"
+					},
+					{
+						"A": 150,
+						"B": 156,
+						"type": "arm"
+					},
+					{
+						"A": 150,
+						"B": 139,
+						"type": "rod"
+					},
+					{
+						"A": 21,
+						"B": 118,
+						"type": "arm"
+					},
+					{
+						"A": 20,
+						"B": 123,
+						"type": "arm"
+					},
+					{
+						"A": 104,
+						"B": 125,
+						"type": "arm"
+					},
+					{
+						"A": 101,
+						"B": 137,
+						"type": "arm"
+					},
+					{
+						"A": 82,
+						"B": 138,
+						"type": "arm"
 					}
 				]
 			},
