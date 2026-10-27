@@ -398,7 +398,7 @@
 			},
 			"path": "Register/Register.json",
 			"pos_x": "2.4938",
-			"pos_y": "1.08",
+			"pos_y": "0.",
 			"pos_z": "1.1625",
 			"uuid": -1
 		},
@@ -1535,55 +1535,6 @@
 			"type": "link"
 		},
 		{
-			"A": 394,
-			"AParent": 230467,
-			"B": 501,
-			"BParent": 833949,
-			"type": "link"
-		},
-		{
-			"A": 502,
-			"AParent": 833949,
-			"B": 403,
-			"BParent": 230467,
-			"type": "link"
-		},
-		{
-			"A": 503,
-			"AParent": 833949,
-			"B": 629,
-			"BParent": 230467,
-			"type": "link"
-		},
-		{
-			"A": 523,
-			"AParent": 833949,
-			"B": 328,
-			"BParent": 230467,
-			"type": "link"
-		},
-		{
-			"A": 507,
-			"AParent": 833949,
-			"B": 145,
-			"BParent": 230467,
-			"type": "link"
-		},
-		{
-			"A": 118,
-			"AParent": 230467,
-			"B": 510,
-			"BParent": 833949,
-			"type": "link"
-		},
-		{
-			"A": 514,
-			"AParent": 833949,
-			"B": 21,
-			"BParent": 230467,
-			"type": "link"
-		},
-		{
 			"A": 832,
 			"AParent": 364656,
 			"B": 492,
@@ -1637,13 +1588,6 @@
 			"AParent": 679916,
 			"B": 542,
 			"BParent": 833949,
-			"type": "link"
-		},
-		{
-			"A": 995,
-			"AParent": 230467,
-			"B": 438,
-			"BParent": 679916,
 			"type": "link"
 		},
 		{
@@ -1918,6 +1862,153 @@
 			"B": 714,
 			"BParent": 584863,
 			"type": "rod"
+		},
+		{
+			"A": 1030,
+			"AParent": 230467,
+			"B": 540,
+			"BParent": 833949,
+			"type": "rod"
+		},
+		{
+			"A": 604,
+			"AParent": 833949,
+			"B": 381,
+			"BParent": 230467,
+			"type": "rod"
+		},
+		{
+			"A": 605,
+			"AParent": 833949,
+			"B": 377,
+			"BParent": 230467,
+			"type": "rod"
+		},
+		{
+			"A": 606,
+			"AParent": 833949,
+			"B": 379,
+			"BParent": 230467,
+			"type": "rod"
+		},
+		{
+			"A": 602,
+			"AParent": 833949,
+			"B": 383,
+			"BParent": 230467,
+			"type": "rod"
+		},
+		{
+			"A": 410,
+			"AParent": 230467,
+			"B": 597,
+			"BParent": 833949,
+			"type": "rod"
+		},
+		{
+			"A": 598,
+			"AParent": 833949,
+			"B": 408,
+			"BParent": 230467,
+			"type": "rod"
+		},
+		{
+			"A": 599,
+			"AParent": 833949,
+			"B": 406,
+			"BParent": 230467,
+			"type": "rod"
+		},
+		{
+			"A": 86,
+			"AParent": 999448,
+			"B": 503,
+			"BParent": 833949,
+			"type": "rod"
+		},
+		{
+			"A": 577,
+			"AParent": 833949,
+			"B": 61,
+			"BParent": 999448,
+			"type": "rod"
+		},
+		{
+			"A": 283,
+			"AParent": 999448,
+			"B": 582,
+			"BParent": 833949,
+			"type": "rod"
+		},
+		{
+			"A": 89,
+			"AParent": 999448,
+			"B": 580,
+			"BParent": 833949,
+			"type": "rod"
+		},
+		{
+			"A": 79,
+			"AParent": 999448,
+			"B": 594,
+			"BParent": 833949,
+			"type": "rod"
+		},
+		{
+			"A": 217,
+			"AParent": 999448,
+			"B": 593,
+			"BParent": 833949,
+			"type": "rod"
+		},
+		{
+			"A": 80,
+			"AParent": 999448,
+			"B": 609,
+			"BParent": 833949,
+			"type": "rod"
+		},
+		{
+			"A": 607,
+			"AParent": 833949,
+			"B": 202,
+			"BParent": 999448,
+			"type": "rod"
+		},
+		{
+			"A": 617,
+			"AParent": 833949,
+			"B": 290,
+			"BParent": 999448,
+			"type": "rod"
+		},
+		{
+			"A": 286,
+			"AParent": 999448,
+			"B": 623,
+			"BParent": 833949,
+			"type": "rod"
+		},
+		{
+			"A": 199,
+			"AParent": 999448,
+			"B": 611,
+			"BParent": 833949,
+			"type": "rod"
+		},
+		{
+			"A": 612,
+			"AParent": 833949,
+			"B": 83,
+			"BParent": 999448,
+			"type": "rod"
+		},
+		{
+			"A": 438,
+			"AParent": 679916,
+			"B": 128,
+			"BParent": 230467,
+			"type": "link"
 		}
 	],
 	"values": {
