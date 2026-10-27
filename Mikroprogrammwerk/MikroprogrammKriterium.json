@@ -1507,6 +1507,66 @@
 						"pos_x": "-1.35",
 						"pos_z": "1.8375",
 						"uuid": 282
+					},
+					{
+						"bounds": [
+							5,
+							10
+						],
+						"id": "Op3",
+						"pos_x": "3.2625",
+						"pos_z": "-4.05",
+						"uuid": 446
+					},
+					{
+						"bounds": [
+							5,
+							6
+						],
+						"id": "Op2",
+						"pos_x": "2.9625",
+						"pos_z": "-4.05",
+						"uuid": 447
+					},
+					{
+						"bounds": [
+							5,
+							6
+						],
+						"id": "Op1",
+						"pos_x": "2.6625",
+						"pos_z": "-4.05",
+						"uuid": 448
+					},
+					{
+						"bounds": [
+							5,
+							11
+						],
+						"id": "Op0",
+						"pos_x": "2.3438",
+						"pos_z": "-4.05",
+						"uuid": 449
+					},
+					{
+						"bounds": [
+							5,
+							5
+						],
+						"id": "''R4",
+						"pos_x": "2.3438",
+						"pos_z": "-3.75",
+						"uuid": 450
+					},
+					{
+						"bounds": [
+							5,
+							5
+						],
+						"id": "''R5",
+						"pos_x": "2.6438",
+						"pos_z": "-3.75",
+						"uuid": 451
 					}
 				],
 				"id": "UnnamedMachine0",
@@ -2545,10 +2605,26 @@
 							{
 								"file": "custom_ve.svg",
 								"pos_x": "2.725",
-								"pos_y": 1,
+								"pos_y": 2,
 								"pos_z": "-4.0813",
 								"rotation": "-1q",
 								"uuid": 283
+							},
+							{
+								"file": "custom_R4.svg",
+								"pos_x": "1.925",
+								"pos_y": 3,
+								"pos_z": "-3.7938",
+								"rotation": "-2q",
+								"uuid": 512
+							},
+							{
+								"file": "custom_R5.svg",
+								"pos_x": "1.925",
+								"pos_y": 2,
+								"pos_z": "-3.7938",
+								"rotation": "-2q",
+								"uuid": 513
 							}
 						]
 					},
@@ -2830,6 +2906,22 @@
 								"pos_z": "-2.2013",
 								"rotation": "-2q",
 								"uuid": 437
+							},
+							{
+								"file": "custom_op1_op2.svg",
+								"pos_x": "1.6125",
+								"pos_y": 1,
+								"pos_z": "-4.0938",
+								"rotation": "-2q",
+								"uuid": 369
+							},
+							{
+								"file": "custom_op1_op2.svg",
+								"pos_x": "1.9125",
+								"pos_y": 2,
+								"pos_z": "-4.0938",
+								"rotation": "-2q",
+								"uuid": 370
 							}
 						]
 					},
@@ -3289,6 +3381,7 @@
 								"uuid": 410
 							},
 							{
+								"id": "S0",
 								"pos_x": "3.5625",
 								"pos_z": "-3.75",
 								"uuid": 89
@@ -4206,6 +4299,14 @@
 								"pos_z": "-3.035",
 								"rotation": "-1q",
 								"uuid": 81
+							},
+							{
+								"file": "custom_op3.svg",
+								"pos_x": "1.5375",
+								"pos_y": 3,
+								"pos_z": "-4.0938",
+								"rotation": "-2q",
+								"uuid": 371
 							}
 						]
 					},
@@ -4494,6 +4595,14 @@
 								"pos_z": "-3.9238",
 								"rotation": "-1q",
 								"uuid": 406
+							},
+							{
+								"file": "custom_op0.svg",
+								"pos_x": "1.2188",
+								"pos_y": 2,
+								"pos_z": "-4.0938",
+								"rotation": "-2q",
+								"uuid": 372
 							}
 						]
 					}
