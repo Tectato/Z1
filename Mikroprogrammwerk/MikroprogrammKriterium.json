@@ -2803,30 +2803,6 @@
 								"uuid": 328
 							},
 							{
-								"file": "269_46a.svg",
-								"pos_x": "0.8438",
-								"pos_y": 4,
-								"pos_z": "-6.8625",
-								"rotation": "-1q",
-								"uuid": 330
-							},
-							{
-								"file": "269_46b.svg",
-								"pos_x": "1.2938",
-								"pos_y": 1,
-								"pos_z": "-6.8625",
-								"rotation": "-1q",
-								"uuid": 331
-							},
-							{
-								"file": "269_46d.svg",
-								"pos_x": "1.2188",
-								"pos_y": 2,
-								"pos_z": "-6.8625",
-								"rotation": "-1q",
-								"uuid": 333
-							},
-							{
 								"file": "269_46e.svg",
 								"pos_x": "-0.2625",
 								"pos_y": 3,
