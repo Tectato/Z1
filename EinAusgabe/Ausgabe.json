@@ -572,6 +572,68 @@
 						"pos_z": "0.6",
 						"static": true,
 						"uuid": 562
+					},
+					{
+						"pos_x": "0.9",
+						"pos_z": "-0.6",
+						"static": true,
+						"uuid": 229
+					},
+					{
+						"bounds": [
+							5,
+							16
+						],
+						"pos_x": "0.9",
+						"pos_z": "-0.3",
+						"static": true,
+						"uuid": 333
+					},
+					{
+						"bounds": [
+							5,
+							16
+						],
+						"pos_x": "0.9",
+						"pos_z": "0.3",
+						"static": true,
+						"uuid": 472
+					},
+					{
+						"pos_x": "0.9",
+						"pos_z": "0.6",
+						"static": true,
+						"uuid": 473
+					},
+					{
+						"bounds": [
+							5,
+							16
+						],
+						"pos_x": "1.2",
+						"pos_z": "0.3",
+						"static": true,
+						"uuid": 474
+					},
+					{
+						"bounds": [
+							5,
+							16
+						],
+						"pos_x": "1.2",
+						"pos_z": "0.",
+						"static": true,
+						"uuid": 558
+					},
+					{
+						"bounds": [
+							5,
+							16
+						],
+						"pos_x": "1.2",
+						"pos_z": "-0.3",
+						"static": true,
+						"uuid": 561
 					}
 				],
 				"id": "Ausgabe",
