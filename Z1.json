@@ -1179,12 +1179,7 @@
 
 					},
 					{
-						"machines": {
-							"999448": {
-								"uuid_override": 506759
-							}
-						},
-						"uuid_override": 427379
+
 					}
 				],
 				"uuid_override": 484810
@@ -1221,20 +1216,6 @@
 		}
 	],
 	"relations": [
-		{
-			"A": 86,
-			"AParent": 999448,
-			"B": 503,
-			"BParent": 833949,
-			"type": "rod"
-		},
-		{
-			"A": 89,
-			"AParent": 999448,
-			"B": 580,
-			"BParent": 833949,
-			"type": "rod"
-		},
 		{
 			"A": 992,
 			"AParent": 230467,
