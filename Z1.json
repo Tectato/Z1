@@ -566,12 +566,7 @@
 
 					},
 					{
-						"machines": {
-							"999448": {
-								"uuid_override": 506759
-							}
-						},
-						"uuid_override": 427379
+
 					}
 				],
 				"uuid_override": 484810
