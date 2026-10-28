@@ -673,6 +673,212 @@
 						"pos_x": "2.1563",
 						"pos_z": "-2.3063",
 						"uuid": 381
+					},
+					{
+						"bounds": [
+							5,
+							12
+						],
+						"pos_x": "0.75",
+						"pos_z": "-0.3938",
+						"static": true,
+						"uuid": 41
+					},
+					{
+						"bounds": [
+							5,
+							12
+						],
+						"pos_x": "0.75",
+						"pos_z": "-0.0938",
+						"static": true,
+						"uuid": 42
+					},
+					{
+						"bounds": [
+							5,
+							12
+						],
+						"pos_x": "0.75",
+						"pos_z": "0.2063",
+						"static": true,
+						"uuid": 43
+					},
+					{
+						"bounds": [
+							5,
+							12
+						],
+						"pos_x": "1.05",
+						"pos_z": "-0.0938",
+						"static": true,
+						"uuid": 58
+					},
+					{
+						"bounds": [
+							5,
+							12
+						],
+						"pos_x": "1.05",
+						"pos_z": "0.2063",
+						"static": true,
+						"uuid": 98
+					},
+					{
+						"bounds": [
+							5,
+							12
+						],
+						"pos_x": "1.05",
+						"pos_z": "0.5063",
+						"static": true,
+						"uuid": 99
+					},
+					{
+						"bounds": [
+							5,
+							12
+						],
+						"pos_x": "1.05",
+						"pos_z": "-0.6938",
+						"static": true,
+						"uuid": 100
+					},
+					{
+						"bounds": [
+							5,
+							11
+						],
+						"pos_x": "1.35",
+						"pos_z": "-0.6938",
+						"static": true,
+						"uuid": 101
+					},
+					{
+						"bounds": [
+							5,
+							11
+						],
+						"pos_x": "1.35",
+						"pos_z": "-0.3938",
+						"static": true,
+						"uuid": 102
+					},
+					{
+						"bounds": [
+							5,
+							11
+						],
+						"pos_x": "1.35",
+						"pos_z": "0.2063",
+						"static": true,
+						"uuid": 103
+					},
+					{
+						"bounds": [
+							5,
+							11
+						],
+						"pos_x": "1.35",
+						"pos_z": "0.5063",
+						"static": true,
+						"uuid": 104
+					},
+					{
+						"bounds": [
+							5,
+							12
+						],
+						"pos_x": "1.65",
+						"pos_z": "0.5063",
+						"static": true,
+						"uuid": 105
+					},
+					{
+						"bounds": [
+							5,
+							12
+						],
+						"pos_x": "1.65",
+						"pos_z": "-0.3938",
+						"static": true,
+						"uuid": 106
+					},
+					{
+						"bounds": [
+							5,
+							12
+						],
+						"pos_x": "1.65",
+						"pos_z": "-0.6938",
+						"static": true,
+						"uuid": 107
+					},
+					{
+						"bounds": [
+							5,
+							12
+						],
+						"pos_x": "1.95",
+						"pos_z": "-0.3938",
+						"static": true,
+						"uuid": 108
+					},
+					{
+						"bounds": [
+							5,
+							12
+						],
+						"pos_x": "1.95",
+						"pos_z": "0.2063",
+						"static": true,
+						"uuid": 109
+					},
+					{
+						"bounds": [
+							5,
+							12
+						],
+						"pos_x": "1.65",
+						"pos_z": "-0.0938",
+						"static": true,
+						"uuid": 110
+					},
+					{
+						"pos_x": "1.95",
+						"pos_z": "-0.0938",
+						"static": true,
+						"uuid": 111
+					},
+					{
+						"bounds": [
+							5,
+							7
+						],
+						"pos_x": "-1.35",
+						"pos_z": "-2.1938",
+						"static": true,
+						"uuid": 112
+					},
+					{
+						"bounds": [
+							5,
+							7
+						],
+						"pos_x": "-1.35",
+						"pos_z": "-1.8938",
+						"static": true,
+						"uuid": 113
+					},
+					{
+						"bounds": [
+							5,
+							7
+						],
+						"pos_x": "-1.05",
+						"pos_z": "-2.1938",
+						"static": true,
+						"uuid": 114
 					}
 				],
 				"id": "Eingabe",

@@ -1567,6 +1567,66 @@
 						"pos_x": "2.6438",
 						"pos_z": "-3.75",
 						"uuid": 451
+					},
+					{
+						"bounds": [
+							5,
+							11
+						],
+						"pos_x": "-0.6",
+						"pos_z": "-0.75",
+						"static": true,
+						"uuid": 444
+					},
+					{
+						"bounds": [
+							5,
+							11
+						],
+						"pos_x": "-0.6",
+						"pos_z": "-0.45",
+						"static": true,
+						"uuid": 445
+					},
+					{
+						"bounds": [
+							5,
+							11
+						],
+						"pos_x": "-1.2",
+						"pos_z": "-0.45",
+						"static": true,
+						"uuid": 514
+					},
+					{
+						"bounds": [
+							5,
+							11
+						],
+						"pos_x": "-0.6",
+						"pos_z": "-0.15",
+						"static": true,
+						"uuid": 515
+					},
+					{
+						"bounds": [
+							5,
+							11
+						],
+						"pos_x": "-1.2",
+						"pos_z": "-0.15",
+						"static": true,
+						"uuid": 517
+					},
+					{
+						"bounds": [
+							5,
+							11
+						],
+						"pos_x": "-0.6",
+						"pos_z": "0.15",
+						"static": true,
+						"uuid": 518
 					}
 				],
 				"id": "UnnamedMachine0",
