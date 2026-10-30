@@ -735,7 +735,7 @@
 			},
 			"path": "Speicher/Speicher.json",
 			"pos_x": "1.0125",
-			"pos_y": "0.86",
+			"pos_y": "0.005",
 			"pos_z": "1.7438",
 			"uuid": -1
 		},
@@ -765,47 +765,30 @@
 			},
 			"path": "Waehlwerk/Waehlwerk_Zellen.json",
 			"pos_x": "1.6125",
-			"pos_y": "0.86",
+			"pos_y": "0.005",
 			"pos_z": "-1.5563",
 			"uuid": -1
 		},
 		{
-			"diff": {
-				"machines": {
-					"570719": {
-						"2": {
-							"pos_x": "1.6013",
-							"pos_z": "0.7675"
-						},
-						"3": {
-							"pos_x": "1.7063",
-							"pos_z": "0.83"
-						},
-						"23": {
-							"pos_x": "1.7063",
-							"pos_z": "0.3413"
-						}
-					}
-				}
-			},
 			"overrides": {
 
 			},
 			"path": "Waehlwerk/Waehlwerk_Schichten.json",
 			"pos_x": "1.6125",
-			"pos_y": "0.86",
+			"pos_y": "0.005",
 			"pos_z": "-1.5938",
 			"uuid": -1
-		},
+		}
+	],
+	"programs": [
 		{
-			"overrides": {
-
-			},
-			"path": "LeserMockup.json",
-			"pos_x": "-0.1312",
-			"pos_y": "2.",
-			"pos_z": "-2.3062",
-			"uuid": -1
+			"id": "Program",
+			"instructions": [
+				192,
+				129,
+				195,
+				130
+			]
 		}
 	],
 	"relations": [
@@ -999,62 +982,6 @@
 			"type": "link"
 		},
 		{
-			"A": 120,
-			"AParent": 386133,
-			"B": 17,
-			"BParent": 520341,
-			"type": "link"
-		},
-		{
-			"A": 121,
-			"AParent": 386133,
-			"B": 18,
-			"BParent": 520341,
-			"type": "link"
-		},
-		{
-			"A": 122,
-			"AParent": 386133,
-			"B": 20,
-			"BParent": 520341,
-			"type": "link"
-		},
-		{
-			"A": 123,
-			"AParent": 386133,
-			"B": 19,
-			"BParent": 520341,
-			"type": "link"
-		},
-		{
-			"A": 118,
-			"AParent": 386133,
-			"B": 22,
-			"BParent": 520341,
-			"type": "link"
-		},
-		{
-			"A": 119,
-			"AParent": 386133,
-			"B": 23,
-			"BParent": 520341,
-			"type": "link"
-		},
-		{
-			"A": 117,
-			"AParent": 386133,
-			"B": 21,
-			"BParent": 520341,
-			"type": "link"
-		},
-		{
-			"A": 116,
-			"AParent": 386133,
-			"B": 24,
-			"BParent": 520341,
-			"type": "link"
-		},
-		{
 			"A": 167,
 			"AParent": 570719,
 			"B": 86,
@@ -1158,68 +1085,6 @@
 			"B": 236,
 			"BParent": 22824,
 			"type": "link"
-		}
-	],
-	"sequences": [
-		{
-			"id": "ExampleProgram",
-			"pins": [
-				{
-					"activations": [
-						1,
-						0,
-						0,
-						0,
-						0
-					],
-					"parent": 520341,
-					"uuid": 25
-				},
-				{
-					"activations": [
-						1,
-						0,
-						1,
-						1,
-						0
-					],
-					"parent": 520341,
-					"uuid": 26
-				},
-				{
-					"activations": [
-						1,
-						0,
-						0,
-						1,
-						0
-					],
-					"parent": 520341,
-					"uuid": 27
-				},
-				{
-					"activations": [
-						1,
-						0,
-						1,
-						0,
-						0
-					],
-					"parent": 520341,
-					"uuid": 30
-				},
-				{
-					"activations": [
-						1,
-						1,
-						1,
-						1,
-						0
-					],
-					"parent": 520341,
-					"uuid": 29
-				}
-			]
 		}
 	]
 }
