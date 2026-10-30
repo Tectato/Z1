@@ -1,6 +1,6 @@
 <svg height="250.0" viewBox="-860.0 -60.0 1380.0 250.0" width="1380.0" xmlns="http://www.w3.org/2000/svg" z1svg_version="2">
 	<g style="stroke:black;fill:#3d9ecb">
-		<path d="M 345.0 70.0 L 405.0 -50.0 L 510.0 -50.0 L 510.0 160.0 L -635.0 160.0 L -655.0 180.0 L -850.0 180.0 L -850.0 40.0 L -675.0 40.0 L -660.0 25.0 L -635.0 25.0 L -635.0 70.0 L -405.0 70.0 L -365.0 25.0 L -335.0 25.0 L -335.0 70.0 Z" id="outlinePath" />
+		<path d="M 345.0 70.0 L 405.0 -50.0 L 510.0 -50.0 L 510.0 160.0 L -635.0 160.0 L -655.0 180.0 L -850.0 180.0 L -850.0 40.0 L -675.0 40.0 L -660.0 0.0 L -635.0 0.0 L -635.0 70.0 L -405.0 70.0 L -365.0 0.0 L -335.0 0.0 L -335.0 70.0 Z" id="outlinePath" />
 		<g id="holes" style="stroke:black;fill:#ffffff">
 			<circle cx="450.0" cy="0.0" id="pointHole_0_50mm" r="25.0" />
 		</g>
