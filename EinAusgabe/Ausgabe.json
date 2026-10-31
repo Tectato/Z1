@@ -221,6 +221,7 @@
 							7,
 							16
 						],
+						"hide": true,
 						"pos_x": "-0.4688",
 						"pos_z": "-1.0688",
 						"static": true,
@@ -231,6 +232,7 @@
 							7,
 							16
 						],
+						"hide": true,
 						"pos_x": "-0.4688",
 						"pos_z": "0.75",
 						"static": true,
@@ -2085,6 +2087,7 @@
 							},
 							{
 								"file": "297_10_substitute_b.svg",
+								"hide": true,
 								"pos_x": "-0.4688",
 								"pos_y": 6,
 								"pos_z": "-0.1637",
@@ -2288,6 +2291,7 @@
 							},
 							{
 								"file": "297_10_substitute_a.svg",
+								"hide": true,
 								"pos_x": "-0.465",
 								"pos_y": 6,
 								"pos_z": "-0.16",
@@ -2665,6 +2669,7 @@
 							},
 							{
 								"file": "297_10_substitute_a.svg",
+								"hide": true,
 								"pos_x": "-0.465",
 								"pos_y": 6,
 								"pos_z": "-0.16",
@@ -3111,6 +3116,7 @@
 							},
 							{
 								"file": "297_10_substitute_b.svg",
+								"hide": true,
 								"pos_x": "-0.465",
 								"pos_y": 6,
 								"pos_z": "-0.16",
@@ -3380,6 +3386,7 @@
 							},
 							{
 								"file": "297_10_substitute_a.svg",
+								"hide": true,
 								"pos_x": "-0.465",
 								"pos_y": 6,
 								"pos_z": "-0.16",
@@ -3722,6 +3729,7 @@
 							},
 							{
 								"file": "297_10_substitute_a.svg",
+								"hide": true,
 								"pos_x": "-0.465",
 								"pos_y": 6,
 								"pos_z": "-0.16",
@@ -4045,6 +4053,7 @@
 							},
 							{
 								"file": "297_10_substitute_a.svg",
+								"hide": true,
 								"pos_x": "-0.465",
 								"pos_y": 6,
 								"pos_z": "-0.16",
@@ -4344,6 +4353,7 @@
 							},
 							{
 								"file": "297_10_substitute_a.svg",
+								"hide": true,
 								"pos_x": "-0.465",
 								"pos_y": 6,
 								"pos_z": "-0.16",
@@ -4643,6 +4653,7 @@
 							},
 							{
 								"file": "297_10_substitute_a.svg",
+								"hide": true,
 								"pos_x": "-0.465",
 								"pos_y": 6,
 								"pos_z": "-0.16",
@@ -4942,6 +4953,7 @@
 							},
 							{
 								"file": "297_10_substitute_a.svg",
+								"hide": true,
 								"pos_x": "-0.465",
 								"pos_y": 6,
 								"pos_z": "-0.16",

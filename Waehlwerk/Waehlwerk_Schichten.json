@@ -255,17 +255,7 @@
 								"uuid": 150
 							}
 						],
-						"sheets": [
-							{
-								"file": "120_1.svg",
-								"pos_x": "0.04",
-								"pos_y": 0,
-								"pos_z": "-0.2675",
-								"rotation": "-1q",
-								"static": true,
-								"uuid": 43
-							}
-						]
+						"sheets": []
 					},
 					{
 						"height": 1,
@@ -367,17 +357,7 @@
 								"uuid": 106
 							}
 						],
-						"sheets": [
-							{
-								"file": "120_2.svg",
-								"pos_x": "0.05",
-								"pos_y": 0,
-								"pos_z": "-0.3337",
-								"rotation": "-1q",
-								"static": true,
-								"uuid": 117
-							}
-						]
+						"sheets": []
 					},
 					{
 						"height": 6,
@@ -1404,13 +1384,13 @@
 					},
 					{
 						"A": 150,
-						"B": 156,
-						"type": "arm"
+						"B": 139,
+						"type": "rod"
 					},
 					{
 						"A": 150,
-						"B": 139,
-						"type": "rod"
+						"B": 156,
+						"type": "arm"
 					},
 					{
 						"A": 21,

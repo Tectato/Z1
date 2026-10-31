@@ -1814,12 +1814,14 @@
 								"uuid": 274
 							},
 							{
+								"hide": true,
 								"id": "R2",
 								"pos_x": "1.8",
 								"pos_z": "-1.8",
 								"uuid": 502
 							},
 							{
+								"hide": true,
 								"id": "R2",
 								"pos_x": "1.65",
 								"pos_z": "-1.95",

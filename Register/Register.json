@@ -4369,12 +4369,14 @@
 								"uuid": 838
 							},
 							{
+								"hide": true,
 								"pos_x": "-1.2",
 								"pos_z": "-3.5813",
 								"static": true,
 								"uuid": 856
 							},
 							{
+								"hide": true,
 								"pos_x": "-0.9",
 								"pos_z": "-3.5813",
 								"static": true,
@@ -4777,6 +4779,7 @@
 							},
 							{
 								"file": "movementLimiter.svg",
+								"hide": true,
 								"pos_x": "-1.05",
 								"pos_y": 3,
 								"pos_z": "-3.4313",

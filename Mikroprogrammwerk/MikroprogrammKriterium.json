@@ -1767,6 +1767,7 @@
 						"sheets": [
 							{
 								"file": "262_1.svg",
+								"hide": true,
 								"pos_x": "0.25",
 								"pos_y": 0,
 								"pos_z": "-0.625",
@@ -2637,6 +2638,7 @@
 						"sheets": [
 							{
 								"file": "264_1.svg",
+								"hide": true,
 								"pos_x": "0.2312",
 								"pos_y": 0,
 								"pos_z": "-0.4737",
