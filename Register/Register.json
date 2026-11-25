@@ -3979,6 +3979,7 @@
 							},
 							{
 								"file": "ca_reset.svg",
+								"hide": true,
 								"pos_x": "0.8438",
 								"pos_y": 2,
 								"pos_z": "3.4438",
@@ -3987,6 +3988,7 @@
 							},
 							{
 								"file": "ca_reset.svg",
+								"hide": true,
 								"pos_x": "0.8438",
 								"pos_y": 2,
 								"pos_z": "-1.3563",
@@ -3995,6 +3997,7 @@
 							},
 							{
 								"file": "ca_reset.svg",
+								"hide": true,
 								"pos_x": "0.8438",
 								"pos_y": 2,
 								"pos_z": "-6.1563",

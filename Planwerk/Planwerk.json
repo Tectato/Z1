@@ -181,12 +181,20 @@
 						"uuid": 166
 					},
 					{
+						"bounds": [
+							0,
+							7
+						],
 						"pos_x": "0.8625",
 						"pos_z": "-0.9",
 						"static": true,
 						"uuid": 174
 					},
 					{
+						"bounds": [
+							0,
+							7
+						],
 						"pos_x": "0.8625",
 						"pos_z": "1.5",
 						"static": true,
